@@ -50,64 +50,58 @@ to pretty print (pp) the first four row (use the `-n` option for more or less ro
 Resulting in:
 
 ```
-== ENG.csv (.) ==
+== ENG.csv ==
 
-#<CSV::Row "Date":nil "HomeTeam":"Arsenal" "AwayTeam":"Leicester" "FTHG":"4" "FTAG":"3" "HTHG":"2" "HTAG":"2">
-#<CSV::Row "Date":nil "HomeTeam":"Brighton" "AwayTeam":"Man City" "FTHG":"0" "FTAG":"2" "HTHG":"?" "HTAG":"?">
-#<CSV::Row "Date":"12/08/17" "HomeTeam":"Chelsea" "AwayTeam":"Burnley" "FTHG":"2" "FTAG":"3" "HTHG":"?" "HTAG":"?">
-#<CSV::Row "Date":"-" "HomeTeam":"Crystal Palace" "AwayTeam":"Huddersfield" "FTHG":"0" "FTAG":"3" "HTHG":"0" "HTAG":"2">
-
+<Date:"11/08/17" Team1:"Arsenal"        Team2:"Leicester"    FT1:"4" FT2:"3">
+<Date:"12/08/17" Team1:"Brighton"       Team2:"Man City"     FT1:"0" FT2:"2">
+<Date:"12/08/17" Team1:"Chelsea"        Team2:"Burnley"      FT1:"2" FT2:"3">
+<Date:"12/08/17" Team1:"Crystal Palace" Team2:"Huddersfield" FT1:"0" FT2:"3">
  4 rows
 ```
 
 Next try
 
 ```
-$ csvheader E0.csv
+$ csvheader ENG.csv
 ```
 
 to print all header columns (the first row). Resulting in:
 
 ```
-== E0.csv (.) ==
+== E0.csv ==
 
-7 columns:
+5 columns:
   1: Date
-  2: HomeTeam
-  3: AwayTeam
-  4: FTHG
-  5: FTAG
-  6: HTHG
-  7: HTAG
+  2: Team1
+  3: Team2
+  4: FT1
+  5: FT2
 ```
 
 Next try:
 
 ```
-$ csvstat -c HomeTeam,AwayTeam E0.csv
+$ csvstat -c Team1,Team2 ENG.csv
 ```
 
-to show all unique values for the columns `HomeTeam` and `AwayTeam`.
+to show all unique values for the columns `Team1` and `Team2`.
 Resulting in:
 
 ```
-== E0.csv (.) ==
+== E0.csv ==
 
 ... 380 rows
 
-7 columns:
+5 columns:
   1: Date
-  2: HomeTeam
-  3: AwayTeam
-  4: FTHG
-  5: FTAG
-  6: HTHG
-  7: HTAG
+  2: Team1
+  3: Team2
+  4: FT1
+  5: FT2
 
- column >HomeTeam< 21 unique values:
-   1 x  <nil>
+ column "Team1" - 20 unique values:
    19 x  Arsenal
-   18 x  Bournemouth
+   19 x  Bournemouth
    19 x  Brighton
    19 x  Burnley
    19 x  Chelsea
@@ -126,8 +120,7 @@ Resulting in:
    19 x  Watford
    19 x  West Brom
    19 x  West Ham
- column >AwayTeam< 21 unique values:
-   1 x  ?
+ column "Team2" - 20 unique values:
    19 x  Arsenal
    19 x  Bournemouth
    19 x  Brighton
@@ -145,7 +138,7 @@ Resulting in:
    19 x  Stoke
    19 x  Swansea
    19 x  Tottenham
-   18 x  Watford
+   19 x  Watford
    19 x  West Brom
    19 x  West Ham
 ```
@@ -163,22 +156,21 @@ $ csvstat -c Season AUT.csv
 Resulting in:
 
 ```
-== AUT.csv (.) ==
+== AUT.csv ==
 
-... 362 rows
+... 360 rows
 
-7 columns:
+6 columns:
   1: Season
   2: Date
-  3: Time
-  4: Home
-  5: Away
-  6: HG
-  7: AG
+  3: Team1
+  4: Team2
+  5: FT1
+  6: FT2
 
- column >Season< 2 unique values:
+ column "Season" - 2 unique values:
    180 x  2016/2017
-   182 x  2017/2018
+   180 x  2017/2018
 ```
 
 Now let's split the `AUT.csv` datafile by the `Season` column
@@ -192,17 +184,15 @@ $ csvsplit -c Season AUT.csv
 Resulting in:
 
 ```
-new chunk: ["2016/2017"]
-  saving >AUT_2016-2017.csv<...
-new chunk: ["2017/2018"]
-  saving >AUT_2017-2018.csv<...
+new chunk: ["2016/2017"] - saving "AUT_2016-2017.csv"...
+new chunk: ["2017/2018"] - saving "AUT_2017-2018.csv"...
 ```
 
-Let's cut out (remove) the `Season` and `Time` column from the new `AUT_2016-2017.csv`
+Let's cut out (remove) the `Season` column from the new `AUT_2016-2017.csv`
 datafile. Try:
 
 ```
-$ csvcut -c Date,Home,Away,HG,AG AUT_2016-2017.csv
+$ csvcut -c Date,Team1,Team2,FT1,FT2 AUT_2016-2017.csv
 ```
 
 Double check the overwritten cleaned-up datafile:
@@ -214,12 +204,12 @@ $ csvhead AUT_2016-2017.csv
 resulting in:
 
 ```
-== AUT_2016-2017.csv (.) ==
+== AUT_2016-2017.csv ==
 
-#<CSV::Row "Date":"23/07/16" "Home":"Rapid Vienna" "Away":"Ried" "HG":"5" "AG":"0">
-#<CSV::Row "Date":"23/07/16" "Home":"Altach" "Away":"AC Wolfsberger" "HG":"1" "AG":"0">
-#<CSV::Row "Date":"23/07/16" "Home":"Sturm Graz" "Away":"Salzburg" "HG":"3" "AG":"1">
-#<CSV::Row "Date":"24/07/16" "Home":"St. Polten" "Away":"Austria Vienna" "HG":"1" "AG":"2">
+<Date:"23/07/16" Team1:"Rapid Vienna" Team2:"Ried"           FT1:"5" FT2:"0">
+<Date:"23/07/16" Team1:"Altach"       Team2:"AC Wolfsberger" FT1:"1" FT2:"0">
+<Date:"23/07/16" Team1:"Sturm Graz"   Team2:"Salzburg"       FT1:"3" FT2:"1">
+<Date:"24/07/16" Team1:"St. Polten"   Team2:"Austria Vienna" FT1:"1" FT2:"2">
  4 rows
 ```
 
@@ -250,38 +240,59 @@ Let's retry the sample above in a script:
 require 'csvutils'
 
 
-CsvUtils.head( 'E0.csv' )
-# same as
-#  $ csvhead E0.csv
-
-CsvUtils.header( 'E0.csv' )
-# => see above :-)
-
-CsvUtils.stat( 'E0.csv', 'HomeTeam', 'AwayTeam' )
+CsvUtils.head( 'ENG.csv' )
 # same as:
-#  $ csvstat -c HomeTeam,AwayTeam E0.csv
+#  $ csvhead ENG.csv
+
+CsvUtils.header( 'ENG.csv' )
+# same as:
+#  $ csvheader ENG.csv
+
+CsvUtils.stat( 'ENG.csv', 'Team1', 'Team2' )
+# same as:
+#  $ csvstat -c Team1,Team2 ENG.csv
 
 
 CsvUtils.stat( 'AUT.csv', 'Season' )
-# => same as
+# same as:
 #  $ csvstat -c Season AUT.csv
 
 
 CsvUtils.split( 'AUT.csv', 'Season' )
-# => see above :-)
+# same as:
+#  $ csvsplit -c Season AUT.csv
 
-CsvUtils.cut( 'AUT_2016-2017.csv', 'AUT_2016-2017.csv', 'Date', 'Home', 'Away', 'HG', 'AG' )
-# => see above :-)
-
-
+CsvUtils.cut( 'AUT_2016-2017.csv', 'Date', 'Team1', 'Team2', 'FT1', 'FT2' )
+# same as:
+#  $ csvcut -c Date,Team1,Team2,FT1,FT2 AUT_2016-2017.csv
 ```
 
 
-That's it.
+
+That's it. See the [`/getting-started-samples`](/getting-started-samples)
+folder to
+run the samples on your own computer.
+
+
+
+## Install
+
+Just install the gem:
+
+```
+$ gem install csvutils
+```
+
+
+
+## Alternatives
+
+See the [Libraries & Tools](https://github.com/csv11/awesome-csv)
+section in the Awesome CSV page.
+
 
 
 ## License
-
 
 ![](https://publicdomainworks.github.io/buttons/zero88x31.png)
 
