@@ -2,7 +2,17 @@ HISTORY.md
 Manifest.txt
 README.md
 Rakefile
+bin/csvcut
+bin/csvhead
+bin/csvheader
+bin/csvsplit
+bin/csvstat
 lib/csvutils.rb
+lib/csvutils/commands/cut.rb
+lib/csvutils/commands/head.rb
+lib/csvutils/commands/header.rb
+lib/csvutils/commands/split.rb
+lib/csvutils/commands/stat.rb
 lib/csvutils/cut.rb
 lib/csvutils/head.rb
 lib/csvutils/header.rb
