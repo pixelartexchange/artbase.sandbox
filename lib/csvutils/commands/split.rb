@@ -34,6 +34,7 @@ def self.split( args )
     puts
     CsvUtils.split( path, *columns )
     puts
+  end
 end
 
 
