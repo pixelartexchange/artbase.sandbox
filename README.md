@@ -38,17 +38,19 @@ and so on. Now try with `csvheader -h`, `csvstat -h`, `csvsplit -h`,
 
 #### Working with Comma-Separated Values (CSV) Datafile Examples
 
-Let's use a sample datafile e.g. `E0.csv` from the [football.csv project]() with
+Let's use a sample datafile e.g. `ENG.csv` from the
+[football.csv project](https://github.com/footballcsv) with
 matches from the English Premier League. Try
 
+
 ```
-$ csvhead E0.csv
+$ csvhead ENG.csv
 ```
 to pretty print (pp) the first four row (use the `-n` option for more or less rows).
 Resulting in:
 
 ```
-== E0.csv (.) ==
+== ENG.csv (.) ==
 
 #<CSV::Row "Date":nil "HomeTeam":"Arsenal" "AwayTeam":"Leicester" "FTHG":"4" "FTAG":"3" "HTHG":"2" "HTAG":"2">
 #<CSV::Row "Date":nil "HomeTeam":"Brighton" "AwayTeam":"Man City" "FTHG":"0" "FTAG":"2" "HTHG":"?" "HTAG":"?">
@@ -212,7 +214,13 @@ $ csvhead AUT_2016-2017.csv
 resulting in:
 
 ```
+== AUT_2016-2017.csv (.) ==
 
+#<CSV::Row "Date":"23/07/16" "Home":"Rapid Vienna" "Away":"Ried" "HG":"5" "AG":"0">
+#<CSV::Row "Date":"23/07/16" "Home":"Altach" "Away":"AC Wolfsberger" "HG":"1" "AG":"0">
+#<CSV::Row "Date":"23/07/16" "Home":"Sturm Graz" "Away":"Salzburg" "HG":"3" "AG":"1">
+#<CSV::Row "Date":"24/07/16" "Home":"St. Polten" "Away":"Austria Vienna" "HG":"1" "AG":"2">
+ 4 rows
 ```
 
 And so on and so forth.
