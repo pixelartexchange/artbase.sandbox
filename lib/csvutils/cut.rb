@@ -5,7 +5,10 @@
 
 class CsvUtils
 
-  def self.cut( inpath, outpath, *columns, sep: ',' )
+  def self.cut( path, *columns, output: path, sep: ',' )
+
+    inpath  = path
+    outpath = output   # note: output defaults to inpath (overwrites datafile in-place!!!)
 
     puts "cvscut in: >#{inpath}<  out: >#{outpath}<"
 

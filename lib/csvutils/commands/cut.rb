@@ -9,7 +9,7 @@ def self.cut( args )
   config = { columns: [] }
 
   parser = OptionParser.new do |opts|
-     opts.banner = "Usage: csvcut [OPTS] source dest"
+     opts.banner = "Usage: csvcut [OPTS] source [dest]"
 
      opts.on("-c", "--columns=COLUMNS", "Name of header columns" ) do |columns|
        config[:columns] = columns.split(/[,|;]/)   ## allow differnt separators
@@ -26,17 +26,17 @@ def self.cut( args )
   ## pp config
   ## pp args
 
-  source = arg[0]
-  dest   = arg[1]
+  source = args[0]
+  dest   = args[1] || source   ## default to same as source (note: overwrites datafile in place!!!)
 
-  unless arg[0] && arg[1]
-    puts "** error: arg(s) missing - source and dest filepath required!!! - #{args.inspect}"
+  unless args[0]
+    puts "** error: arg missing - source filepath required - #{args.inspect}"
     exit 1
   end
 
   columns = config[:columns]
 
-  CsvUtils.cut( source, dest, *columns )
+  CsvUtils.cut( source, *columns, output: dest )
 end
 
 
