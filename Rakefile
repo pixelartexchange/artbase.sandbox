@@ -5,7 +5,7 @@ Hoe.spec 'csvutils' do
 
   self.version = CsvUtils::VERSION
 
-  self.summary = "csvutils - tools 'n' scripts for working with comma-separated values (csv) datafiles - the world's most popular tabular date interchange format in text"
+  self.summary = "csvutils - tools 'n' scripts for working with comma-separated values (csv) datafiles - the world's most popular tabular data interchange format in text"
   self.description = summary
 
   self.urls = ['https://github.com/csv11/csvutils']

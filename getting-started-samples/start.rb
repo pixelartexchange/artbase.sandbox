@@ -1,5 +1,5 @@
 ###
-#  ruby script (datw work flow) getting started sample from the csvutils readme
+#  ruby script (data work flow) getting started sample from the csvutils readme
 #    see https://github.com/csv11/csvutils
 #
 

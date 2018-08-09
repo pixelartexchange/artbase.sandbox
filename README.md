@@ -1,4 +1,4 @@
-# csvutils - tools 'n' scripts for working with comma-separated values (csv) datafiles - the world's most popular tabular date interchange format in text
+# csvutils - tools 'n' scripts for working with comma-separated values (csv) datafiles - the world's most popular tabular data interchange format in text
 
 
 * home  :: [github.com/csv11/csvutils](https://github.com/csv11/csvutils)
@@ -16,7 +16,7 @@
 `csvhead`  •  `csvheader`  •  `csvstat`  •  `csvsplit`  •  `csvcut`
 
 
-Try:
+Try the help option `-h/--help` with the command line tools. Example:
 
 ```
 $ csvhead -h          # or
@@ -31,14 +31,14 @@ Usage: csvhead [OPTS] datafile ...
     -h, --help                       Prints this help
 ```
 
-and so on. Now try with `csvheader -h`, `csvstat -h`, `csvsplit -h`,
+Now try it with `csvheader -h`, `csvstat -h`, `csvsplit -h`,
 `csvcut -h` and so on.
 
 
 
 #### Working with Comma-Separated Values (CSV) Datafile Examples
 
-Let's use a sample datafile e.g. `ENG.csv` from the
+Let's use a sample datafile e.g. [`ENG.csv`](getting-started-samples/ENG.csv) from the
 [football.csv project](https://github.com/footballcsv) with
 matches from the English Premier League. Try
 
@@ -46,16 +46,16 @@ matches from the English Premier League. Try
 ```
 $ csvhead ENG.csv
 ```
-to pretty print (pp) the first four row (use the `-n` option for more or less rows).
+to pretty print (pp) the first four rows (use the `-n/--num` option for more or less rows).
 Resulting in:
 
 ```
 == ENG.csv ==
 
-<Date:"11/08/17" Team1:"Arsenal"        Team2:"Leicester"    FT1:"4" FT2:"3">
-<Date:"12/08/17" Team1:"Brighton"       Team2:"Man City"     FT1:"0" FT2:"2">
-<Date:"12/08/17" Team1:"Chelsea"        Team2:"Burnley"      FT1:"2" FT2:"3">
-<Date:"12/08/17" Team1:"Crystal Palace" Team2:"Huddersfield" FT1:"0" FT2:"3">
+<Date:11/08/17, Team1:Arsenal,        Team2:Leicester,    FT1:4, FT2:3>
+<Date:12/08/17, Team1:Brighton,       Team2:Man City,     FT1:0, FT2:2>
+<Date:12/08/17, Team1:Chelsea,        Team2:Burnley,      FT1:2, FT2:3>
+<Date:12/08/17, Team1:Crystal Palace, Team2:Huddersfield, FT1:0, FT2:3>
  4 rows
 ```
 
@@ -68,7 +68,7 @@ $ csvheader ENG.csv
 to print all header columns (the first row). Resulting in:
 
 ```
-== E0.csv ==
+== ENG.csv ==
 
 5 columns:
   1: Date
@@ -88,7 +88,7 @@ to show all unique values for the columns `Team1` and `Team2`.
 Resulting in:
 
 ```
-== E0.csv ==
+== ENG.csv ==
 
 ... 380 rows
 
@@ -99,54 +99,54 @@ Resulting in:
   4: FT1
   5: FT2
 
- column "Team1" - 20 unique values:
-   19 x  Arsenal
-   19 x  Bournemouth
-   19 x  Brighton
-   19 x  Burnley
-   19 x  Chelsea
-   19 x  Crystal Palace
-   19 x  Everton
-   19 x  Huddersfield
-   19 x  Leicester
-   19 x  Liverpool
-   19 x  Man City
-   19 x  Man United
-   19 x  Newcastle
-   19 x  Southampton
-   19 x  Stoke
-   19 x  Swansea
-   19 x  Tottenham
-   19 x  Watford
-   19 x  West Brom
-   19 x  West Ham
- column "Team2" - 20 unique values:
-   19 x  Arsenal
-   19 x  Bournemouth
-   19 x  Brighton
-   19 x  Burnley
-   19 x  Chelsea
-   19 x  Crystal Palace
-   19 x  Everton
-   19 x  Huddersfield
-   19 x  Leicester
-   19 x  Liverpool
-   19 x  Man City
-   19 x  Man United
-   19 x  Newcastle
-   19 x  Southampton
-   19 x  Stoke
-   19 x  Swansea
-   19 x  Tottenham
-   19 x  Watford
-   19 x  West Brom
-   19 x  West Ham
+column "Team1" - 20 unique values:
+  19 x Arsenal
+  19 x Bournemouth
+  19 x Brighton
+  19 x Burnley
+  19 x Chelsea
+  19 x Crystal Palace
+  19 x Everton
+  19 x Huddersfield
+  19 x Leicester
+  19 x Liverpool
+  19 x Man City
+  19 x Man United
+  19 x Newcastle
+  19 x Southampton
+  19 x Stoke
+  19 x Swansea
+  19 x Tottenham
+  19 x Watford
+  19 x West Brom
+  19 x West Ham
+column "Team2" - 20 unique values:
+  19 x Arsenal
+  19 x Bournemouth
+  19 x Brighton
+  19 x Burnley
+  19 x Chelsea
+  19 x Crystal Palace
+  19 x Everton
+  19 x Huddersfield
+  19 x Leicester
+  19 x Liverpool
+  19 x Man City
+  19 x Man United
+  19 x Newcastle
+  19 x Southampton
+  19 x Stoke
+  19 x Swansea
+  19 x Tottenham
+  19 x Watford
+  19 x West Brom
+  19 x West Ham
 ```
 
 
 #### Split & Cut - Split One Datafile into Many or Cut / Reorder Columns
 
-Let's use another sample datafile e.g. `AUT.csv` that holds many seasons
+Let's use another sample datafile e.g. [`AUT.csv`](getting-started-samples/AUT.csv) that holds many seasons
 from the Austrian (AUT) Bundesliga. First lets see how many seasons:
 
 ```
@@ -168,9 +168,9 @@ Resulting in:
   5: FT1
   6: FT2
 
- column "Season" - 2 unique values:
-   180 x  2016/2017
-   180 x  2017/2018
+column "Season" - 2 unique values:
+  180 x 2016/2017
+  180 x 2017/2018
 ```
 
 Now let's split the `AUT.csv` datafile by the `Season` column
@@ -195,7 +195,7 @@ datafile. Try:
 $ csvcut -c Date,Team1,Team2,FT1,FT2 AUT_2016-2017.csv
 ```
 
-Double check the overwritten cleaned-up datafile:
+Double check the overwritten in-place cleaned-up datafile:
 
 ```
 $ csvhead AUT_2016-2017.csv
@@ -206,10 +206,10 @@ resulting in:
 ```
 == AUT_2016-2017.csv ==
 
-<Date:"23/07/16" Team1:"Rapid Vienna" Team2:"Ried"           FT1:"5" FT2:"0">
-<Date:"23/07/16" Team1:"Altach"       Team2:"AC Wolfsberger" FT1:"1" FT2:"0">
-<Date:"23/07/16" Team1:"Sturm Graz"   Team2:"Salzburg"       FT1:"3" FT2:"1">
-<Date:"24/07/16" Team1:"St. Polten"   Team2:"Austria Vienna" FT1:"1" FT2:"2">
+<Date:23/07/16, Team1:Rapid Vienna, Team2:Ried,           FT1:5, FT2:0>
+<Date:23/07/16, Team1:Altach,       Team2:AC Wolfsberger, FT1:1, FT2:0>
+<Date:23/07/16, Team1:Sturm Graz,   Team2:Salzburg,       FT1:3, FT2:1>
+<Date:24/07/16, Team1:St. Pölten,   Team2:Austria Vienna, FT1:1, FT2:2>
  4 rows
 ```
 
@@ -225,11 +225,11 @@ class methods:
 
 | Shell       | Ruby                              |
 |-------------|-----------------------------------|
-| `csvhead`   |  `CsvUtils.head( path, n: 4 )`    |
-| `csvheader` |  `CsvUtils.header( path )`        |
-| `csvstat`   |  `CsvUtils.stat( path, *columns )`  |
-| `csvsplit`  |  `CsvUtils.split( path, *columns )` |
-| `csvcut`    |  `CsvUtils.cut( path, *columns, output: path)`   |
+| `csvhead`   |  [`CsvUtils.head( path, n: 4 )`](lib/csvutils/head.rb)    |
+| `csvheader` |  [`CsvUtils.header( path )`](lib/csvutils/header.rb)        |
+| `csvstat`   |  [`CsvUtils.stat( path, *columns )`](lib/csvutils/stat.rb)  |
+| `csvsplit`  |  [`CsvUtils.split( path, *columns )`](lib/csvutils/split.rb) |
+| `csvcut`    |  [`CsvUtils.cut( path, *columns, output: path)`](lib/csvutils/cut.rb)   |
 
 
 
@@ -256,7 +256,6 @@ CsvUtils.stat( 'ENG.csv', 'Team1', 'Team2' )
 CsvUtils.stat( 'AUT.csv', 'Season' )
 # same as:
 #  $ csvstat -c Season AUT.csv
-
 
 CsvUtils.split( 'AUT.csv', 'Season' )
 # same as:
@@ -287,8 +286,7 @@ $ gem install csvutils
 
 ## Alternatives
 
-See the [Libraries & Tools](https://github.com/csv11/awesome-csv)
-section in the Awesome CSV page.
+See in the [Awesome CSV](https://github.com/csv11/awesome-csv#https://github.com/csv11/awesome-csv#libraries--tools) page the Libraries & Tools section.
 
 
 
