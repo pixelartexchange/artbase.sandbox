@@ -286,7 +286,7 @@ $ gem install csvutils
 
 ## Alternatives
 
-See in the [Awesome CSV](https://github.com/csv11/awesome-csv#https://github.com/csv11/awesome-csv#libraries--tools) page the Libraries & Tools section.
+See the Libraries & Tools section in the [Awesome CSV](https://github.com/csv11/awesome-csv#https://github.com/csv11/awesome-csv#libraries--tools) page.
 
 
 
