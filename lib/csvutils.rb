@@ -1,10 +1,11 @@
 # encoding: utf-8
 
-require 'pp'
-require 'csv'
 require 'date'
 require 'fileutils'
 require 'optparse'
+
+
+require 'csvreader'
 
 
 
@@ -27,5 +28,5 @@ require 'csvutils/commands/split'
 
 
 
-
-puts CsvUtils.banner   # say hello
+# say hello
+puts CsvUtils.banner    if $DEBUG || (defined?($RUBYCOCO_DEBUG) && $RUBYCOCO_DEBUG)

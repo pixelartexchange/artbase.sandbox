@@ -6,12 +6,9 @@ class CsvUtils
   ## test or dry run to check if rows can get read/scanned
   def self.test( path, sep: ',' )
     i = 0
-    csv_options = { headers: true,
-                    col_sep: sep,
-                    external_encoding: 'utf-8'  ## note:  always (auto-)add utf-8 external encoding!!!
-                   }
+    csv_options = { sep: sep }
 
-    CSV.foreach( path, csv_options ) do |row|
+    CsvHash.foreach( path, csv_options ) do |rec|
       i += 1
       print '.' if i % 100 == 0
     end

@@ -1,6 +1,11 @@
 # Notes
 
 
+## Todos
+
+- [ ] use line-by-line reading / streaming for utils - do NOT read all into memory
+- [ ] add "classic" stdin (standard input) support too (e.g. `-` on the command line) or check tty?
+- [ ] package (include) test datasets in gem - why? why not?
 
 
 

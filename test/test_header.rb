@@ -2,12 +2,12 @@
 
 ###
 #  to run use
-#     ruby -I ./lib -I ./test test/test_headers.rb
+#     ruby -I ./lib -I ./test test/test_header.rb
 
 
 require 'helper'
 
-class TestHeaders < MiniTest::Test
+class TestHeader < MiniTest::Test
 
 
 ##
@@ -47,4 +47,4 @@ class TestHeaders < MiniTest::Test
     assert_equal ['Spielzeit','Saison','Spieltag','Datum','Uhrzeit','Heim','Gast','Ergebnis','Halbzeit'], headers
   end
 
-end # class TestHeaders
+end # class TestHeader

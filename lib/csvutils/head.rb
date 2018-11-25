@@ -6,20 +6,17 @@ class CsvUtils
   ## test or dry run to check if rows can get read/scanned
   def self.head( path, sep: ',', n: 4 )
     i = 0
-    csv_options = { headers: true,
-                    col_sep: sep,
-                    external_encoding: 'utf-8'  ## note:  always (auto-)add utf-8 external encoding!!!
-                   }
+    csv_options = { sep: sep }
 
-    CSV.foreach( path, csv_options ) do |row|
+    CsvHash.foreach( path, csv_options ) do |rec|
       i += 1
 
-      pp row
+      pp rec
 
       break if i >= n
     end
 
-    puts " #{i} rows"
+    puts " #{i} records"
   end
 
 end  # class CsvUtils

@@ -1,8 +1,8 @@
 # csvutils - tools 'n' scripts for working with comma-separated values (csv) datafiles - the world's most popular tabular data interchange format in text
 
 
-* home  :: [github.com/csv11/csvutils](https://github.com/csv11/csvutils)
-* bugs  :: [github.com/csv11/csvutils/issues](https://github.com/csv11/csvutils/issues)
+* home  :: [github.com/csvreader/csvutils](https://github.com/csvreader/csvutils)
+* bugs  :: [github.com/csvreader/csvutils/issues](https://github.com/csvreader/csvutils/issues)
 * gem   :: [rubygems.org/gems/csvutils](https://rubygems.org/gems/csvutils)
 * rdoc  :: [rubydoc.info/gems/csvutils](http://rubydoc.info/gems/csvutils)
 * forum :: [wwwmake](http://groups.google.com/group/wwwmake)
@@ -286,7 +286,7 @@ $ gem install csvutils
 
 ## Alternatives
 
-See the Libraries & Tools section in the [Awesome CSV](https://github.com/csv11/awesome-csv#libraries--tools) page.
+See the Libraries & Tools section in the [Awesome CSV](https://github.com/csvspecs/awesome-csv#libraries--tools) page.
 
 
 ## License

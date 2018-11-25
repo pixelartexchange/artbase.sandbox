@@ -13,13 +13,11 @@ class CsvUtils
     puts "columns:"
     pp columns
 
-    text = File.open( path, 'r:utf-8' ).read   ## note: make sure to use (assume) utf-8
-
     ## note: do NOT use headers
     ##   for easy sorting use "plain" array of array for records
-    csv_options = { col_sep: sep }
+    csv_options = { sep: sep }
 
-    data = CSV.parse( text, csv_options )
+    data = CsvReader.read( path, csv_options )
 
     ## todo/check: (auto-) strip (remove all leading and trailing spaces)
     ##     from all values - why? why not?
@@ -75,7 +73,7 @@ class CsvUtils
           yield( column_values, chunk_with_headers )
         else
           ## auto-save (write-to-file) by default - why? why not?
-          split_write( path, column_values, chunk_with_headers )
+          split_write( path, column_values, chunk_with_headers, sep: sep )
         end
 
         chunk = []   ## reset chunk for next batch of records
@@ -86,7 +84,7 @@ class CsvUtils
   end  ## method self.split
 
 
-  def self.split_write( inpath, values, chunk )
+  def self.split_write( inpath, values, chunk, sep: )
     basename = File.basename( inpath, '.*' )
     dirname  = File.dirname( inpath )
 
@@ -97,9 +95,10 @@ class CsvUtils
     outpath = "#{dirname}/#{basename}_#{extraname}.csv"
     puts "saving >#{basename}_#{extraname}.csv<..."
 
-    CSV.open( outpath, 'w:utf-8' ) do |out|
+    File.open( outpath, 'w:utf-8' ) do |out|
       chunk.each do |row|
-        out << row
+        out << csv_row( *row, sep: sep ).join( sep )
+        out << "\n"
       end
     end
   end
