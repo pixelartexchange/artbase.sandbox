@@ -1,2 +1,2 @@
-# Currency Art Collection Quick Starter - Generate Your Own Currency Cat Collections
+# Currency Art Collection Quick Starter - Generate Your Own Currency Cats Collections
 
