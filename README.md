@@ -4,9 +4,9 @@
 
 ## Updates - What's News?
 
-Binary Apes - 24x24px, 10 000 max. - formerly (Crypto) Binary Ape Yolo Club (BAYC)
+24x24px Binary Apes - 10 000 max. - formerly (Crypto) Binary Ape Yolo Club (BAYC)
 
-Punk Ape Pixel Club (PAPC) - 24x24px, 5555 max.
+24x24px Punk Ape Pixel Club (PAPC) - 5555 max.
 
 
 
