@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #305",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/305.png",
+  "dna": "5970f008427d8d9fdba8c45519938bb02e9c7750",
+  "edition": 305,
+  "date": 1645298538673,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Teardrop"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Medium Cut Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

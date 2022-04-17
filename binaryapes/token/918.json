@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #918",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/918.png",
+  "dna": "69b66a16b71070e479141bc13c13e4c2507f8d83",
+  "edition": 918,
+  "date": 1645298567067,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Wide Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

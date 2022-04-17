@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #322",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/322.png",
+  "dna": "8d98f165665e2935575556f6c176b931a22b7d6b",
+  "edition": 322,
+  "date": 1645298539497,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

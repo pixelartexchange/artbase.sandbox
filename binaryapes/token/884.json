@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #884",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/884.png",
+  "dna": "7926853f8732b1904c64e1816a42b9046d5fa0a1",
+  "edition": 884,
+  "date": 1645298566063,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

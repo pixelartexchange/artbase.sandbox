@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #362",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/362.png",
+  "dna": "29c046a64efaa11a2465db1f239fb5fe6bd77903",
+  "edition": 362,
+  "date": 1645298541492,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Necklace"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

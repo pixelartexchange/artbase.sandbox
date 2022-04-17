@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #639",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/639.png",
+  "dna": "49c52567b90a644848c8b14507fe881dc0ff361b",
+  "edition": 639,
+  "date": 1645298555386,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Glasses Frame"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

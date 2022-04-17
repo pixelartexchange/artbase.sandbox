@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #348",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/348.png",
+  "dna": "61cd8703b97dc13e1f56e8816ee82d045d485acc",
+  "edition": 348,
+  "date": 1645298540598,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

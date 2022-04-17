@@ -1,0 +1,34 @@
+{
+  "name": "Crypto BAYC #779",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/779.png",
+  "dna": "74934248510a74f395d0f2021baa66513ba0eab5",
+  "edition": 779,
+  "date": 1645298562166,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3 Attributes"
+    }
+  ]
+}

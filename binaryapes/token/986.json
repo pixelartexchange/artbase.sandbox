@@ -1,0 +1,38 @@
+{
+  "name": "Crypto BAYC #986",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/986.png",
+  "dna": "f1ead343ddcf9cf2e0090a904fa7a192506fd309",
+  "edition": 986,
+  "date": 1645298568835,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Glasses Frame"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Earring"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "4 Attributes"
+    }
+  ]
+}

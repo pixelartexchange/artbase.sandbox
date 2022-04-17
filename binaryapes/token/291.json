@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #291",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/291.png",
+  "dna": "a4cfa1569ccc02ec86116bedf2e996dcc4a37a2e",
+  "edition": 291,
+  "date": 1645298538175,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Pink With Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

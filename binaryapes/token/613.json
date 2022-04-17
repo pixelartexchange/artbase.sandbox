@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #613",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/613.png",
+  "dna": "865a277ff305aaad994363ea27b66edf08759cce",
+  "edition": 613,
+  "date": 1645298553824,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Straight Hair Dark"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

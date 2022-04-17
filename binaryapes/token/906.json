@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #906",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/906.png",
+  "dna": "67dc2fed2b7d78557b6bafb9550f343cb8e0197b",
+  "edition": 906,
+  "date": 1645298566775,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Glasses Frame"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Vampire Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

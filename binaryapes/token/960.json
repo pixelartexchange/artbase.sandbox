@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #960",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/960.png",
+  "dna": "9f357b4b17a0a31f161e2571b9cfc477e8784a7a",
+  "edition": 960,
+  "date": 1645298568147,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Army Beret"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

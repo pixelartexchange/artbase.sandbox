@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #520",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/520.png",
+  "dna": "284f90c1382f2aeb13b2a10cfb52e972a41010ff",
+  "edition": 520,
+  "date": 1645298548864,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Spikes Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

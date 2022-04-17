@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #419",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/419.png",
+  "dna": "e396e7b73f5f1d1d7486d523bcca74108fd45c87",
+  "edition": 419,
+  "date": 1645298544252,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Sky Blue"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

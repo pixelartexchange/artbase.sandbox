@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #741",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/741.png",
+  "dna": "1437d219e06316ea206986fcae5eeba5843577ca",
+  "edition": 741,
+  "date": 1645298560223,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Medium Cut Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

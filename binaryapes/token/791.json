@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #791",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/791.png",
+  "dna": "e304f052d2a46cafced0439f17f319f91913512e",
+  "edition": 791,
+  "date": 1645298562710,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "VR"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

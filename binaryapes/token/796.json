@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #796",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/796.png",
+  "dna": "a181e3c0219eabf90d359b71b4180d5e7afe4c30",
+  "edition": 796,
+  "date": 1645298562936,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

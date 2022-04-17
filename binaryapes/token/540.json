@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #540",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/540.png",
+  "dna": "d74b1af05229c7e0e42e02ca7931b2e0a3258a2e",
+  "edition": 540,
+  "date": 1645298549948,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Laser Goggles"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

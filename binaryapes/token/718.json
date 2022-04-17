@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #718",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/718.png",
+  "dna": "d9d7e9b5d78d1e18cab5f079e9066c4486b76f70",
+  "edition": 718,
+  "date": 1645298558688,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Green"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Black Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

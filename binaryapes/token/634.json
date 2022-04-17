@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #634",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/634.png",
+  "dna": "74e0e99b44043eb3feaa93b4f7628ad5d72b799e",
+  "edition": 634,
+  "date": 1645298555153,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Teardrop"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

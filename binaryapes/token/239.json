@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #239",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/239.png",
+  "dna": "5b49c014f8c5b86c7c8a9a7b409b56fc23b0fb22",
+  "edition": 239,
+  "date": 1645298535842,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Spikes Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

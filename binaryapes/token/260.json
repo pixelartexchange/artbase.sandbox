@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #260",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/260.png",
+  "dna": "03839a8617c6f7d5c2ed072fd43b1af97064f1c9",
+  "edition": 260,
+  "date": 1645298537068,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Red"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Wide Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #724",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/724.png",
+  "dna": "0cca91ef9e3c8c59f5000d92c2c698070ec5ff94",
+  "edition": 724,
+  "date": 1645298559099,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Army Beret"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

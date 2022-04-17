@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #45",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/45.png",
+  "dna": "7b0bee0f7490e1393879f7e0d45da199a7c1877c",
+  "edition": 45,
+  "date": 1645298522054,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Army Beret"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

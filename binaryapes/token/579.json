@@ -1,0 +1,34 @@
+{
+  "name": "Crypto BAYC #579",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/579.png",
+  "dna": "b078b674ddca2dff0b947f74c08158aa145a0b32",
+  "edition": 579,
+  "date": 1645298552358,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Teardrop"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3 Attributes"
+    }
+  ]
+}

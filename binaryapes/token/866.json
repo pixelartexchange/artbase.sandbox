@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #866",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/866.png",
+  "dna": "92b935319e898cfdfb9e8c3d52fac5011acc0d9f",
+  "edition": 866,
+  "date": 1645298565319,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Army Beret"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

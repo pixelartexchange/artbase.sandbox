@@ -1,0 +1,38 @@
+{
+  "name": "Crypto BAYC #241",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/241.png",
+  "dna": "abe1d3613d00fc662c5f00a7bf4ab3a8813baaee",
+  "edition": 241,
+  "date": 1645298535957,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Carzy Eyes"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "4 Attributes"
+    }
+  ]
+}

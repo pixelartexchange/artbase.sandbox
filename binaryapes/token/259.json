@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #259",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/259.png",
+  "dna": "0e2a87e92d4dc9a86fa509ea67cbeb52f263d957",
+  "edition": 259,
+  "date": 1645298537018,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Spot"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

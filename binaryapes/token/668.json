@@ -1,0 +1,34 @@
+{
+  "name": "Crypto BAYC #668",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/668.png",
+  "dna": "70bcb37e119968f6ef4dbad18fcb4d6ce703c121",
+  "edition": 668,
+  "date": 1645298556360,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3 Attributes"
+    }
+  ]
+}

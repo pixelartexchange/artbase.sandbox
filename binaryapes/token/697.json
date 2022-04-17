@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #697",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/697.png",
+  "dna": "a14081b1db733c4ee444761b788bf902f8ba4377",
+  "edition": 697,
+  "date": 1645298557656,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Army Beret"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

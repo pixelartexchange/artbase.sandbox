@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #464",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/464.png",
+  "dna": "a5b695494dc4b087e97946d25629a2e0a5944fb8",
+  "edition": 464,
+  "date": 1645298545837,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Glasses Frame"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

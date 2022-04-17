@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #559",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/559.png",
+  "dna": "789c7bdb3261b7c304925ba515494dfd5b41ed0d",
+  "edition": 559,
+  "date": 1645298551098,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Spikes Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

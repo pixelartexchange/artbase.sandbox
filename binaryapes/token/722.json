@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #722",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/722.png",
+  "dna": "bcbad432dfee29addd500bdf2e81c187617ca57e",
+  "edition": 722,
+  "date": 1645298558976,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Medium Cut Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

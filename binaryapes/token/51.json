@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #51",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/51.png",
+  "dna": "c27a0b6dd94aab86aec705a51251a8aaabd9bdf6",
+  "edition": 51,
+  "date": 1645298522374,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Rock Punk"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

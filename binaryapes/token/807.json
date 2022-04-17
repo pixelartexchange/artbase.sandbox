@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #807",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/807.png",
+  "dna": "1964b900e85bd969b199be3aba01a9a61b47de9f",
+  "edition": 807,
+  "date": 1645298563429,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Teardrop"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

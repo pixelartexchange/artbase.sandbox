@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #206",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/206.png",
+  "dna": "fb30108df615fc3dc30d60dc883f8aa78abb4eb3",
+  "edition": 206,
+  "date": 1645298534389,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Glasses Frame"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Crypto BAYC #669",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/669.png",
+  "dna": "eeb1edae2f4cc625f9e5e474b39b82997c3a3089",
+  "edition": 669,
+  "date": 1645298556393,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "VR"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Earring"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #163",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/163.png",
+  "dna": "501dc92b250d0fff7d757f5369b4b024d6a9ade5",
+  "edition": 163,
+  "date": 1645298531036,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

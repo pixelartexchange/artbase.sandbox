@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #837",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/837.png",
+  "dna": "14e9e170f287154ad8ffb1b9265fff33d7e66490",
+  "edition": 837,
+  "date": 1645298564340,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "VR"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Vietnam Era Helmet"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

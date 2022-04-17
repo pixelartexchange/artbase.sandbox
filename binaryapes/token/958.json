@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #958",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/958.png",
+  "dna": "287d2de43de416185ff88bfd6ad52500f5aa49ad",
+  "edition": 958,
+  "date": 1645298568096,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Spot"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Spinner Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

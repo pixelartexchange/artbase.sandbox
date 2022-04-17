@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #862",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/862.png",
+  "dna": "3e5cfce253a6c39b01ac43029b58f3c5a1e51114",
+  "edition": 862,
+  "date": 1645298565014,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "White"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

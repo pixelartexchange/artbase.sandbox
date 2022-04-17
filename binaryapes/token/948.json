@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #948",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/948.png",
+  "dna": "119e14f93874dce7c2232ca2e56a4a6d0584e2c3",
+  "edition": 948,
+  "date": 1645298567816,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Spot"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

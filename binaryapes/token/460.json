@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #460",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/460.png",
+  "dna": "673d8a270ce6201eac3a7ea77a8eb52797753619",
+  "edition": 460,
+  "date": 1645298545708,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Carzy Eyes"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

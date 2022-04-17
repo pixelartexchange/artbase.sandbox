@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #732",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/732.png",
+  "dna": "0577593e73d30584cde6c157e9913e4ec7e54965",
+  "edition": 732,
+  "date": 1645298559772,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Red"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #766",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/766.png",
+  "dna": "f10acf4a910b391736bb9879f6072f1179093fe8",
+  "edition": 766,
+  "date": 1645298561291,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

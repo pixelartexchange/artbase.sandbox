@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #344",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/344.png",
+  "dna": "b0a8dac38af6f7890d122b297568d8223e2703a3",
+  "edition": 344,
+  "date": 1645298540416,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eyeballs"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

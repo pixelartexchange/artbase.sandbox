@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #852",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/852.png",
+  "dna": "2543a7a1d18b174e8d63fe6a0766f166ddecd669",
+  "edition": 852,
+  "date": 1645298564723,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Spinner Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Necklace"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

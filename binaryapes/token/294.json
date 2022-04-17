@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #294",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/294.png",
+  "dna": "9d068bd54ca4c84e56ab222ff6ca33cdc4cb35d9",
+  "edition": 294,
+  "date": 1645298538251,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Girl's Hair Short"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crypto BAYC #7",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/7.png",
+  "dna": "4190d9f085c892f77ec91337e6ba6ba90e05149e",
+  "edition": 7,
+  "date": 1645298517849,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "0 Attributes"
+    }
+  ]
+}

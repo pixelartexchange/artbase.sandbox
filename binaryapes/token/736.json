@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #736",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/736.png",
+  "dna": "09c414c22670605ace1c98b86468a302c2180da0",
+  "edition": 736,
+  "date": 1645298560080,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

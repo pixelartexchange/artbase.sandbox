@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #288",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/288.png",
+  "dna": "6966fd81c442e937bb0555fef2124f22c44cd632",
+  "edition": 288,
+  "date": 1645298538088,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Spinner Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

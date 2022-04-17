@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #874",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/874.png",
+  "dna": "f3ffc1f71d7a0f965c0e0443171e5547e8eac649",
+  "edition": 874,
+  "date": 1645298565558,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

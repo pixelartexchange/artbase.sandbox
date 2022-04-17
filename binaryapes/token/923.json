@@ -1,0 +1,34 @@
+{
+  "name": "Crypto BAYC #923",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/923.png",
+  "dna": "75d36262c3d1a24f2f5133ce1883e8f38eb3a88e",
+  "edition": 923,
+  "date": 1645298567182,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Spot"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3 Attributes"
+    }
+  ]
+}

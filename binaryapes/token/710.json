@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #710",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/710.png",
+  "dna": "c2f6ed06c57f7d5784c3b9e90155950992df3ee0",
+  "edition": 710,
+  "date": 1645298558206,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Nosebleed"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

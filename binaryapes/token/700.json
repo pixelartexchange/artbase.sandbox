@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #700",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/700.png",
+  "dna": "a3137a6de780c60fb1dfa459fb2887472edb83ac",
+  "edition": 700,
+  "date": 1645298557733,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eyeballs"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

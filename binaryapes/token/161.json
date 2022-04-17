@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #161",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/161.png",
+  "dna": "912f7a1f53e03f91ac321d5a6f0151b3e5f1b2ad",
+  "edition": 161,
+  "date": 1645298530967,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Wide Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

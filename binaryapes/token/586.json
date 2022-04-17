@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #586",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/586.png",
+  "dna": "dd98e5dd4de2eecd33a71c9a1c3bb4f48d7996ed",
+  "edition": 586,
+  "date": 1645298552709,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

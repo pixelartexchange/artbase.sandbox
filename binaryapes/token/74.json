@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #74",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/74.png",
+  "dna": "72646f9f5ec872326fd0879a2ff46d5e05665345",
+  "edition": 74,
+  "date": 1645298524140,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Earring"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

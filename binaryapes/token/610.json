@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #610",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/610.png",
+  "dna": "33b0c8d6e0cb16fb228dc6ba2b9f7356ae420c53",
+  "edition": 610,
+  "date": 1645298553720,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Dark Circle"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

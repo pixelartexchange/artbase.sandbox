@@ -1,8 +1,13 @@
 #####
 # exclude all tmp directories
-/o/
-/tmp/
-/tmp2/
-/tmp3/
+o/
+tmp/
+tmp2/
+tmp3/
 
 
+## exclude all original size images (e.g. 240x240, etc)
+token-i/
+
+## todo/check - exclude syntax for dirs use token-i  or /token-i or token-i/
+##                        or tmp or /tmp or tmp/ or /tmp/ etc.

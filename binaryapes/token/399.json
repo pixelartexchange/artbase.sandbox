@@ -1,0 +1,34 @@
+{
+  "name": "Crypto BAYC #399",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/399.png",
+  "dna": "93cccbfea6c6d2c8e72f7d6c62cee5e45d9d97d7",
+  "edition": 399,
+  "date": 1645298543356,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3 Attributes"
+    }
+  ]
+}

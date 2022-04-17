@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #649",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/649.png",
+  "dna": "88d558236fc42c82d864cc0c464037f8819bb6aa",
+  "edition": 649,
+  "date": 1645298555724,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Sky Blue"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

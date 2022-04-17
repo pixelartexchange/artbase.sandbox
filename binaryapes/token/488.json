@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #488",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/488.png",
+  "dna": "4b315417b8bbd2efea44b1aab836a972bb11741e",
+  "edition": 488,
+  "date": 1645298546988,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

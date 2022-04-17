@@ -1,0 +1,22 @@
+{
+  "name": "Crypto BAYC #250",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/250.png",
+  "dna": "9f2dfee68952f354a3eaa5a151ac7b15478c1869",
+  "edition": 250,
+  "date": 1645298536372,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "0 Attributes"
+    }
+  ]
+}

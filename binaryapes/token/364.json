@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #364",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/364.png",
+  "dna": "74e3323000a988c717a93600328bcdabade9c969",
+  "edition": 364,
+  "date": 1645298541588,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Spikes Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

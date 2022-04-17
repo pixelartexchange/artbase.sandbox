@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #340",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/340.png",
+  "dna": "4d8f675b072ad2b3470bd1b495c2b03c9cd15c17",
+  "edition": 340,
+  "date": 1645298540206,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

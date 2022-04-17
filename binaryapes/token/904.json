@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #904",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/904.png",
+  "dna": "ff623b25be9c648088b15bed814c4cd7bc82e8b8",
+  "edition": 904,
+  "date": 1645298566729,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Pink With Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #434",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/434.png",
+  "dna": "d7d6b6d11ea3c460d8c30ae755182700f07ca21a",
+  "edition": 434,
+  "date": 1645298544864,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Vampire Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

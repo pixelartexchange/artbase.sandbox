@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #496",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/496.png",
+  "dna": "c3a1723017e6d15beee386683b020e45fe547f00",
+  "edition": 496,
+  "date": 1645298547621,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

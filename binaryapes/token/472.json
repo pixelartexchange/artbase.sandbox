@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #472",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/472.png",
+  "dna": "01a1f3f9cd6f9185505c30b25a2d9d7365f24a9b",
+  "edition": 472,
+  "date": 1645298546087,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

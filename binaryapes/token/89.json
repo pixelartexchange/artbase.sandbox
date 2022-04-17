@@ -1,0 +1,22 @@
+{
+  "name": "Crypto BAYC #89",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/89.png",
+  "dna": "2799090bd19f3abc18bb860b01de32f145e13b1c",
+  "edition": 89,
+  "date": 1645298525567,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "0 Attributes"
+    }
+  ]
+}

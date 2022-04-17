@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #53",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/53.png",
+  "dna": "1d4f9c065406c9c85b9a1e9860844b72cbdbb26b",
+  "edition": 53,
+  "date": 1645298522512,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Spinner Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

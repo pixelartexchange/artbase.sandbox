@@ -1,0 +1,38 @@
+{
+  "name": "Crypto BAYC #683",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/683.png",
+  "dna": "fb87868d75fc482f40f4091ca200d4fa9c80ef86",
+  "edition": 683,
+  "date": 1645298557036,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "4 Attributes"
+    }
+  ]
+}

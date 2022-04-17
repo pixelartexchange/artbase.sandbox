@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #66",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/66.png",
+  "dna": "ddea82f28b7bcfab359c342bfa118d36e657eab9",
+  "edition": 66,
+  "date": 1645298523472,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Spot"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

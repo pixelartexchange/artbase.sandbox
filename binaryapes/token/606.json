@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #606",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/606.png",
+  "dna": "2fffdaf0d1f47b66bd4daf947ff7293ca180258b",
+  "edition": 606,
+  "date": 1645298553610,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #477",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/477.png",
+  "dna": "52892eec34506a399136b74fde0d33454980d5e5",
+  "edition": 477,
+  "date": 1645298546257,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Red"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #691",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/691.png",
+  "dna": "cd656b60c0235a53a2163827b4e460c5f0075ce8",
+  "edition": 691,
+  "date": 1645298557408,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Laser Goggles"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

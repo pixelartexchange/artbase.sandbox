@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #752",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/752.png",
+  "dna": "aba901319b1d156c5ee9fdadfcf490032a1573f0",
+  "edition": 752,
+  "date": 1645298560584,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Earring"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

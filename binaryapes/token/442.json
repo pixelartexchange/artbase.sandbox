@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #442",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/442.png",
+  "dna": "c6abce2dd769cd84bf1eff69b8a62d656ab2daf6",
+  "edition": 442,
+  "date": 1645298545092,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

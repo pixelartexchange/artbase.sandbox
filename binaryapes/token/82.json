@@ -1,0 +1,34 @@
+{
+  "name": "Crypto BAYC #82",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/82.png",
+  "dna": "56641d27606b25d5fdf3df7f9c8d0bedbebceba2",
+  "edition": 82,
+  "date": 1645298525039,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "VR"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3 Attributes"
+    }
+  ]
+}

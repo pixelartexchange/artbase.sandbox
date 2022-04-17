@@ -1,0 +1,34 @@
+{
+  "name": "Crypto BAYC #75",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/75.png",
+  "dna": "b64e8638769b3e21b8a25d4afdd9595f8bf371b2",
+  "edition": 75,
+  "date": 1645298524308,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Glasses Frame"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Gold Necklace"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3 Attributes"
+    }
+  ]
+}

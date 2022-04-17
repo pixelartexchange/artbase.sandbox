@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #160",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/160.png",
+  "dna": "2af8e58805022147508ffc89f7a72fa9c1f8fa98",
+  "edition": 160,
+  "date": 1645298530933,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Red"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

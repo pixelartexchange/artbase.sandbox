@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #878",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/878.png",
+  "dna": "9c68cca6319ec02ce2568f7555d05d1e4375fc7e",
+  "edition": 878,
+  "date": 1645298565662,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

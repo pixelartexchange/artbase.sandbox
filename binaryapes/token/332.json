@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #332",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/332.png",
+  "dna": "3fa03dff34588a1da706ce7f8f9df5e6132fac8e",
+  "edition": 332,
+  "date": 1645298539906,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

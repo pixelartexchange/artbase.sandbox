@@ -1,0 +1,34 @@
+{
+  "name": "Crypto BAYC #792",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/792.png",
+  "dna": "57ff579fc8d9aad17b422af34b0a6522ca0b566b",
+  "edition": 792,
+  "date": 1645298562733,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Red"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3 Attributes"
+    }
+  ]
+}

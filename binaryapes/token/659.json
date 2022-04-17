@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #659",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/659.png",
+  "dna": "5dc70204b6c6a17b31d5951489bf547264dda251",
+  "edition": 659,
+  "date": 1645298556069,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

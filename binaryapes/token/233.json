@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #233",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/233.png",
+  "dna": "24619d36fba7220d8d49480e7d5c9c73fc4af356",
+  "edition": 233,
+  "date": 1645298535485,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eyeballs"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

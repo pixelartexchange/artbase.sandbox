@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #318",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/318.png",
+  "dna": "073f828bb8e32250277cdf1b69a9fdce55ee8dbe",
+  "edition": 318,
+  "date": 1645298539064,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

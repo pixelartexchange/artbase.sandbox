@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #580",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/580.png",
+  "dna": "c6c9f9b4edca3d9c9dd43ede3a8680a2ee8c455f",
+  "edition": 580,
+  "date": 1645298552403,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Spot"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #898",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/898.png",
+  "dna": "c430281485d389757a19294530840c0f6c443c92",
+  "edition": 898,
+  "date": 1645298566590,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "VR"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #486",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/486.png",
+  "dna": "6bf97e8609a5460fd0f156a77763d5520c90aca1",
+  "edition": 486,
+  "date": 1645298546790,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Dark Circle"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

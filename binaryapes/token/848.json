@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #848",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/848.png",
+  "dna": "71cb464bc39544c71d7e5c6e2fda166008765df2",
+  "edition": 848,
+  "date": 1645298564630,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Medium Cut Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

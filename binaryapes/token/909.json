@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #909",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/909.png",
+  "dna": "5ef26a8a0b9b162c6e4bb80ccfcbc142148a4826",
+  "edition": 909,
+  "date": 1645298566847,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Wide Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

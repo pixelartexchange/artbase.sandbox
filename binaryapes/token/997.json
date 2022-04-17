@@ -1,0 +1,38 @@
+{
+  "name": "Crypto BAYC #997",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/997.png",
+  "dna": "1cfe08e9926a89e9843ca2c6aa776465c8f5606f",
+  "edition": 997,
+  "date": 1645298569094,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Nosebleed"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Earring"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "4 Attributes"
+    }
+  ]
+}

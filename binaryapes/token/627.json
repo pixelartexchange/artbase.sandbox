@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #627",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/627.png",
+  "dna": "5ec6e1d86c898d2d2c5e52659f229a8addd661a3",
+  "edition": 627,
+  "date": 1645298554853,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

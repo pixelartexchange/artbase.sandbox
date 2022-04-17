@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #888",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/888.png",
+  "dna": "67a6f2db37e74f2970d4797021e3d40a6fea6f73",
+  "edition": 888,
+  "date": 1645298566179,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Red"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crypto BAYC #41",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/41.png",
+  "dna": "775c8533ca23f2a24e2e0e5d6a398185d1f8c1fe",
+  "edition": 41,
+  "date": 1645298521680,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "0 Attributes"
+    }
+  ]
+}

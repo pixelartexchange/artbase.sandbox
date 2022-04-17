@@ -1,0 +1,34 @@
+{
+  "name": "Crypto BAYC #749",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/749.png",
+  "dna": "ec735caebaa0f431ff3c969928ca7fadba8ab162",
+  "edition": 749,
+  "date": 1645298560452,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Nosebleed"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Spinner Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3 Attributes"
+    }
+  ]
+}

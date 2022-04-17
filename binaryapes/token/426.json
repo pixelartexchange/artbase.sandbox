@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #426",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/426.png",
+  "dna": "9c8eb9ac04c87005bdcfaa0c31ed55765070a28e",
+  "edition": 426,
+  "date": 1645298544610,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Black Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

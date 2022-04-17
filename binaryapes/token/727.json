@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #727",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/727.png",
+  "dna": "027ae0d996658beb9f96ce79166c7b5e700b9e1f",
+  "edition": 727,
+  "date": 1645298559285,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

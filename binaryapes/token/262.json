@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #262",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/262.png",
+  "dna": "a3cfae9da9c475e7b125ef6135f3e17deb210f50",
+  "edition": 262,
+  "date": 1645298537169,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

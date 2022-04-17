@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #728",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/728.png",
+  "dna": "215d29b219b38307f5168eb647c3fec09e6ee78d",
+  "edition": 728,
+  "date": 1645298559413,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

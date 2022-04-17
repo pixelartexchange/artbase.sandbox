@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #813",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/813.png",
+  "dna": "b08e482872b21e67660563707caba2347b1c0bca",
+  "edition": 813,
+  "date": 1645298563571,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Wide Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Vietnam Era Helmet"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

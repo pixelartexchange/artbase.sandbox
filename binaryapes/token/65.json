@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #65",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/65.png",
+  "dna": "e87a1501018c901fac1c9959a098046523c9f390",
+  "edition": 65,
+  "date": 1645298523423,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Carzy Eyes"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

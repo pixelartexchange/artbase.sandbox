@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #243",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/243.png",
+  "dna": "81c86bfdaeb1dc6d42f4f89aed7f25d5aa14c2ec",
+  "edition": 243,
+  "date": 1645298536035,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

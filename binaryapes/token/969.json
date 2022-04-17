@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #969",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/969.png",
+  "dna": "df3241a5660bcc31a1382f6e782f6225a8b80613",
+  "edition": 969,
+  "date": 1645298568358,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

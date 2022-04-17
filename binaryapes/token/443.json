@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #443",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/443.png",
+  "dna": "3db3f4e640aafd16ce8583b8dbf4c5ab0c90a86b",
+  "edition": 443,
+  "date": 1645298545138,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

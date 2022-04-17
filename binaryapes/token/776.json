@@ -1,0 +1,38 @@
+{
+  "name": "Crypto BAYC #776",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/776.png",
+  "dna": "9825bd696ca79f960316d28c0a0314d44a4542a3",
+  "edition": 776,
+  "date": 1645298562087,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "VR"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "4 Attributes"
+    }
+  ]
+}

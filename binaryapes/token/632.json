@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #632",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/632.png",
+  "dna": "f34fb572ec39b195d11144d05c7f0f9644b72e03",
+  "edition": 632,
+  "date": 1645298555040,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

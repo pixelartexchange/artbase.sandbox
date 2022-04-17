@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #325",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/325.png",
+  "dna": "7d9bb68a71e6b9a5c75852e26d31b3969ea1f261",
+  "edition": 325,
+  "date": 1645298539619,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

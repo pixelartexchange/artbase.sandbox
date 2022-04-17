@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #403",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/403.png",
+  "dna": "f0cf5c6f286e3798206d877c84c8dc0fd2986b97",
+  "edition": 403,
+  "date": 1645298543605,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Clown Eyes Green"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

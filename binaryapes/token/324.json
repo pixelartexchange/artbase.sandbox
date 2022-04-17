@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #324",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/324.png",
+  "dna": "46a61008fe9e0cc8af87a08e0369fc4e5864ce71",
+  "edition": 324,
+  "date": 1645298539591,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Laser Goggles"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #920",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/920.png",
+  "dna": "cfccc8d89a86ab136d2807adcb7dc2e083f5e3ff",
+  "edition": 920,
+  "date": 1645298567121,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Rock Punk"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

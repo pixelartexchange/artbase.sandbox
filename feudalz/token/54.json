@@ -1,0 +1,45 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Magic Place"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Shield"
+    },
+    {
+      "trait_type": "Human Male Body",
+      "value": "Beige"
+    },
+    {
+      "trait_type": "Male Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Male Head Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Male Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Human Male"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Vault Bonus %",
+      "value": 5
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Daily $GOLDZ production",
+      "value": 3.22
+    }
+  ],
+  "external_url": "https://feudalz.io",
+  "image": "https://server.feudalz.io/humanz/54.png",
+  "name": "#54"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Crypto BAYC #323",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/323.png",
+  "dna": "e28944077a672ad9dbc2e715bc27e1c1d1088d16",
+  "edition": 323,
+  "date": 1645298539567,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Necklace"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "4 Attributes"
+    }
+  ]
+}

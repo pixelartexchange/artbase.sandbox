@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #388",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/388.png",
+  "dna": "084e8d83d2b70f389b6a225293da2ff2b1979c6d",
+  "edition": 388,
+  "date": 1645298542877,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

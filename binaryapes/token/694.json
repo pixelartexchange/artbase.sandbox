@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #694",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/694.png",
+  "dna": "b577e3bb86a99aa0f94809a5ef164208635cff12",
+  "edition": 694,
+  "date": 1645298557522,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Fez"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

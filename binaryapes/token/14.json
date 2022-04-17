@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #14",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/14.png",
+  "dna": "41c8776564116ca9e66bb1937ef1562179067162",
+  "edition": 14,
+  "date": 1645298518833,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Nosebleed"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Brain"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

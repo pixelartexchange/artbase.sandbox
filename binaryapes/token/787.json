@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #787",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/787.png",
+  "dna": "b6ff3f9902dbcbc7da1f865c975e97b3c104f2b2",
+  "edition": 787,
+  "date": 1645298562490,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "White"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Glasses Frame"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

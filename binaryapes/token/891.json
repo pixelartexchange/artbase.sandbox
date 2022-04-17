@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #891",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/891.png",
+  "dna": "03f1858d68ea84bc2d7a3ca04f671b0c7f327351",
+  "edition": 891,
+  "date": 1645298566300,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Earring"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

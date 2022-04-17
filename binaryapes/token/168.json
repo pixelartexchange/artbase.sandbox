@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #168",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/168.png",
+  "dna": "5fd28ef907588814d3dbb6d58d71402e96a6ef98",
+  "edition": 168,
+  "date": 1645298531281,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

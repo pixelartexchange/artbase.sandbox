@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #828",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/828.png",
+  "dna": "b9967743f5ffc7e84133f42e55b0591a34b209e0",
+  "edition": 828,
+  "date": 1645298564071,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Vampire Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

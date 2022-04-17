@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #330",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/330.png",
+  "dna": "36bec052dc973d58cd622a50f3af9a8a3f527eb5",
+  "edition": 330,
+  "date": 1645298539791,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Spikes Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

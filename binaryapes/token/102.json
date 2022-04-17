@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #102",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/102.png",
+  "dna": "319b436f20d31c1329eb00c64a66f1e7bf69edae",
+  "edition": 102,
+  "date": 1645298526932,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

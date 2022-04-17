@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #307",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/307.png",
+  "dna": "023cca396bc78bc451c0ac276b491559b94b2dab",
+  "edition": 307,
+  "date": 1645298538719,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Clown Eyes Blue"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Rock Punk"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

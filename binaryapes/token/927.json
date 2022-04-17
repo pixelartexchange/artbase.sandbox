@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #927",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/927.png",
+  "dna": "a8712e56ea51492390c692e79518f83e4c5a6622",
+  "edition": 927,
+  "date": 1645298567264,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "White"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "VR"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

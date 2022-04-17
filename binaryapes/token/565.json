@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #565",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/565.png",
+  "dna": "e54128165a94ede8e9fde52ee382607a2f360dfa",
+  "edition": 565,
+  "date": 1645298551510,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3D glasses"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

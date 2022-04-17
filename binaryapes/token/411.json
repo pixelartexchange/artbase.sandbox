@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #411",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/411.png",
+  "dna": "6f4622d5644bd1b13ad478d124f0349e0ac1a567",
+  "edition": 411,
+  "date": 1645298543903,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Green"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Party Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

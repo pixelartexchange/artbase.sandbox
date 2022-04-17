@@ -1,0 +1,38 @@
+{
+  "name": "Crypto BAYC #57",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/57.png",
+  "dna": "ab049848746ab751b01e7e3d9e27d79d083dc576",
+  "edition": 57,
+  "date": 1645298522940,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Clown Eyes Green"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "4 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #762",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/762.png",
+  "dna": "39783c2fade8952348a353186ea6d328d5d8ecbb",
+  "edition": 762,
+  "date": 1645298561010,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "White"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Glasses Frame"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

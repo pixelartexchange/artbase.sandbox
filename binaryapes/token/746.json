@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #746",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/746.png",
+  "dna": "c6a8e61b50d3c7c80c7d2d807a041b6f25204e21",
+  "edition": 746,
+  "date": 1645298560359,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eyeballs"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

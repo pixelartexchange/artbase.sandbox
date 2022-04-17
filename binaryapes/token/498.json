@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #498",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/498.png",
+  "dna": "bd693d01f81f9e746dabb60c5fb0f8a9c748d474",
+  "edition": 498,
+  "date": 1645298547688,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eyeballs"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

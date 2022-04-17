@@ -1,0 +1,22 @@
+{
+  "name": "Crypto BAYC #995",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/995.png",
+  "dna": "d8c45c57733434bbc137e6a2257b8b41d1424e17",
+  "edition": 995,
+  "date": 1645298569055,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "0 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #599",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/599.png",
+  "dna": "660b0af49be55772c1c51b1d35e454be5536584a",
+  "edition": 599,
+  "date": 1645298553418,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Clown Eyes Green"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

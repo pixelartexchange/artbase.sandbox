@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #998",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/998.png",
+  "dna": "b8b1eb6c0c588d4ffb72034c65e3544d3717c758",
+  "edition": 998,
+  "date": 1645298569116,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

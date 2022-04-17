@@ -1,0 +1,34 @@
+{
+  "name": "Crypto BAYC #290",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/290.png",
+  "dna": "1e3b6fdc38cc1c4ab02623f7c4457a0fe06d1360",
+  "edition": 290,
+  "date": 1645298538150,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Party Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3 Attributes"
+    }
+  ]
+}

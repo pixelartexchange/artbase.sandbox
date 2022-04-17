@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #152",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/152.png",
+  "dna": "bed7bab12ee01301d2c514bfdff2be9c57e04841",
+  "edition": 152,
+  "date": 1645298530342,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Clown Eyes Blue"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

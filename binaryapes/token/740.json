@@ -1,0 +1,34 @@
+{
+  "name": "Crypto BAYC #740",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/740.png",
+  "dna": "72c053abf74aeadcd13c23eed9b75dd579721495",
+  "edition": 740,
+  "date": 1645298560189,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Carzy Eyes"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Black Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3 Attributes"
+    }
+  ]
+}

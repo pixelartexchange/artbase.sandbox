@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #230",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/230.png",
+  "dna": "2074e2b81341ed4c4ac7a7bd9c9c9fcf0df465b9",
+  "edition": 230,
+  "date": 1645298535386,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "White"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

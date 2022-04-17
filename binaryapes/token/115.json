@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #115",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/115.png",
+  "dna": "b0aa06c84b13e65da5e1c43f7aa6848b87c4464d",
+  "edition": 115,
+  "date": 1645298527674,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Glasses Frame"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

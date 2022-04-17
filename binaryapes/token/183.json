@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #183",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/183.png",
+  "dna": "68352f0edd6fecba25283c01b5e13b491bbacd2d",
+  "edition": 183,
+  "date": 1645298533027,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Sky Blue"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

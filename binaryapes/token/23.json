@@ -1,0 +1,38 @@
+{
+  "name": "Crypto BAYC #23",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/23.png",
+  "dna": "47f44c7bd948e9bf8cbc97989ac3ad3662530ad0",
+  "edition": 23,
+  "date": 1645298519717,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Red"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Party Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Earring"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "4 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #391",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/391.png",
+  "dna": "2caca4ca880fca69eed09d7ae3d93c9405af0ff7",
+  "edition": 391,
+  "date": 1645298543058,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Party Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

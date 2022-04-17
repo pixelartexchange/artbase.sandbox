@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #924",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/924.png",
+  "dna": "0db48a9a423ce20bc74a9c61fcd44fbbd4d392c0",
+  "edition": 924,
+  "date": 1645298567205,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

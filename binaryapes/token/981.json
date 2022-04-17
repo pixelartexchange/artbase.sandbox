@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #981",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/981.png",
+  "dna": "398b26d3b5cc0ce8e606faa5b348b72ade46505d",
+  "edition": 981,
+  "date": 1645298568652,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

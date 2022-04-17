@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #385",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/385.png",
+  "dna": "ef189dde51ecd4fcb243fc41272aa57a4dab92bf",
+  "edition": 385,
+  "date": 1645298542772,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Gold Earring"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #347",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/347.png",
+  "dna": "d4d09d66d2e616d6bd7eb28518d852af17f3dd4f",
+  "edition": 347,
+  "date": 1645298540549,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Glasses Frame"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Army Beret"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

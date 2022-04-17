@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #594",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/594.png",
+  "dna": "fc64de628daabb5b76247668adab9e9d495bed2b",
+  "edition": 594,
+  "date": 1645298553241,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Sky Blue"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Spot"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

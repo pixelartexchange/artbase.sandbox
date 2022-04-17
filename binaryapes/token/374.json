@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #374",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/374.png",
+  "dna": "9c21ecbe7499a4b783daf6c11e5b942c0f943432",
+  "edition": 374,
+  "date": 1645298542173,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Faux Hawk"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

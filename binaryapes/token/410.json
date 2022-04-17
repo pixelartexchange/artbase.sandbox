@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #410",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/410.png",
+  "dna": "28ebc51adb8b5fa17426f26d37b1f3c9a8517863",
+  "edition": 410,
+  "date": 1645298543881,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Police Cap"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

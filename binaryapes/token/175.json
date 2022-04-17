@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #175",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/175.png",
+  "dna": "93710684b684a0330610530114152cce0029d53e",
+  "edition": 175,
+  "date": 1645298531835,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Faux Hawk"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

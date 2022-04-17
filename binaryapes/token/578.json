@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #578",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/578.png",
+  "dna": "9d93ea462c8f87112311fad4f8262b7667e56b8e",
+  "edition": 578,
+  "date": 1645298552307,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Glasses Frame"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

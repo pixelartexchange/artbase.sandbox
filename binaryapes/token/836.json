@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #836",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/836.png",
+  "dna": "bc8c12c1105728b965726f8e53c45dc37386149d",
+  "edition": 836,
+  "date": 1645298564313,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

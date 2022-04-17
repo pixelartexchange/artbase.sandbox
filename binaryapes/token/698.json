@@ -1,0 +1,34 @@
+{
+  "name": "Crypto BAYC #698",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/698.png",
+  "dna": "713717661190f5b6848a1fe4b779de2c84e1935e",
+  "edition": 698,
+  "date": 1645298557682,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Eyeballs"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Spinner Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3 Attributes"
+    }
+  ]
+}

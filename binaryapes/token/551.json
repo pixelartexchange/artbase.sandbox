@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #551",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/551.png",
+  "dna": "362c5ebc9efef77df6784f2cfb44ca1ca7fbf25e",
+  "edition": 551,
+  "date": 1645298550603,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Faux Hawk"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

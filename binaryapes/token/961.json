@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #961",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/961.png",
+  "dna": "858984625000a23c624e53cf43a9ed1d3dbcf4cc",
+  "edition": 961,
+  "date": 1645298568169,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Red"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Seaman's Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

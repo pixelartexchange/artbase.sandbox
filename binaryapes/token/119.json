@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #119",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/119.png",
+  "dna": "e3a8693aedfb1de8aa9c9e6ed71d3048f4ab797b",
+  "edition": 119,
+  "date": 1645298527955,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Vampire Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

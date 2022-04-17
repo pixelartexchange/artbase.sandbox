@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #367",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/367.png",
+  "dna": "da6cca15fec3e185a37fc57bef7868c1f42a4b4e",
+  "edition": 367,
+  "date": 1645298541804,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

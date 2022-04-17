@@ -1,0 +1,30 @@
+{
+  "name": "PAPC #23",
+  "image": "https://ipfs.io/ipfs/QmZrvYQ1bJG2wCARPTwLMKuTHoqkspNdvc6xGTie1nnb2F/23.png",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Clown Eyes Blue"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring Diamond"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    }
+  ]
+}

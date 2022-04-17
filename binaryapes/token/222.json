@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #222",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/222.png",
+  "dna": "a85e2e3007b415a830e71e9671e823adb4e00e43",
+  "edition": 222,
+  "date": 1645298535029,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Girl's Hair Short"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

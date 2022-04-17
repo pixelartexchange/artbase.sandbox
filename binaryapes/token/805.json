@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #805",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/805.png",
+  "dna": "a04cee97223cf457fb5a0ea51cc7f5b56b746803",
+  "edition": 805,
+  "date": 1645298563386,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Sky Blue"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Army Beret"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

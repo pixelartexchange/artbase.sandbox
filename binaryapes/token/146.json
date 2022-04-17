@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #146",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/146.png",
+  "dna": "decefdf65ea32f5a14758734394a1831adf5e3c7",
+  "edition": 146,
+  "date": 1645298530037,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Fisherman's Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

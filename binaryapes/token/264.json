@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #264",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/264.png",
+  "dna": "5362111f966e2daa185fe4dc6b849b762e6fdfc9",
+  "edition": 264,
+  "date": 1645298537279,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

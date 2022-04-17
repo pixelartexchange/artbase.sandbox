@@ -1,0 +1,34 @@
+{
+  "name": "Crypto BAYC #227",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/227.png",
+  "dna": "73792bd9686137a77b9dc5640877645cd867fc16",
+  "edition": 227,
+  "date": 1645298535228,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Carzy Eyes"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3 Attributes"
+    }
+  ]
+}

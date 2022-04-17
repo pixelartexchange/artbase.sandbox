@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #153",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/153.png",
+  "dna": "7ece0fb66d7c5c98b49e9a373a9f50f298192ded",
+  "edition": 153,
+  "date": 1645298530383,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

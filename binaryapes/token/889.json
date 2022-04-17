@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #889",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/889.png",
+  "dna": "37e3d10db80526b2250a0d2a6e94c1ac2397cbce",
+  "edition": 889,
+  "date": 1645298566242,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

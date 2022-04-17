@@ -1,0 +1,34 @@
+{
+  "name": "Crypto BAYC #623",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/623.png",
+  "dna": "53775642d45fff1e3687621c62af9ca47934a663",
+  "edition": 623,
+  "date": 1645298554668,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3 Attributes"
+    }
+  ]
+}

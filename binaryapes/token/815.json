@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #815",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/815.png",
+  "dna": "cf284df94a9135a9c517c664b974c5c6347afe1b",
+  "edition": 815,
+  "date": 1645298563613,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

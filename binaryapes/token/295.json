@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #295",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/295.png",
+  "dna": "d8875cbeac3644e0a8d2678a0f4da44f61a26856",
+  "edition": 295,
+  "date": 1645298538276,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

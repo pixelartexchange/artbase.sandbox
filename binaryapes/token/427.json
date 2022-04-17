@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #427",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/427.png",
+  "dna": "2a48da559ae0086f4306c5c58a9c4191eb380134",
+  "edition": 427,
+  "date": 1645298544644,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

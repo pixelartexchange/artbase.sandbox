@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #40",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/40.png",
+  "dna": "be7cb0ccdb5f731f0aefe52a2045fb162d09dc06",
+  "edition": 40,
+  "date": 1645298521656,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Green"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

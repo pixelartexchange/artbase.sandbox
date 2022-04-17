@@ -1,0 +1,26 @@
+{
+  "name": "PAPC #15",
+  "image": "https://ipfs.io/ipfs/QmZrvYQ1bJG2wCARPTwLMKuTHoqkspNdvc6xGTie1nnb2F/15.png",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring Gold"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    }
+  ]
+}

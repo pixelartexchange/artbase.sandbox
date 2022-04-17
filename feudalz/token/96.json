@@ -1,0 +1,45 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sunny Day"
+    },
+    {
+      "trait_type": "Class",
+      "value": "None"
+    },
+    {
+      "trait_type": "Human Female Body",
+      "value": "Beige"
+    },
+    {
+      "trait_type": "Female Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Female Head Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Female Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Human Female"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Vault Bonus %",
+      "value": 0
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Daily $GOLDZ production",
+      "value": 4.84
+    }
+  ],
+  "external_url": "https://feudalz.io",
+  "image": "https://server.feudalz.io/humanz/96.png",
+  "name": "#96"
+}

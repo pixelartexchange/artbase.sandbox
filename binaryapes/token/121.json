@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #121",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/121.png",
+  "dna": "c4f946d6fdeb5c1f26e62170f8e5beb8d2cd3637",
+  "edition": 121,
+  "date": 1645298528236,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Golden Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

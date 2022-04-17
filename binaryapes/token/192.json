@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #192",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/192.png",
+  "dna": "cac506ac78f0e384a4e914be19e8e070ec1ab9b8",
+  "edition": 192,
+  "date": 1645298533853,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Carzy Eyes"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

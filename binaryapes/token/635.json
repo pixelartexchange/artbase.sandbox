@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #635",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/635.png",
+  "dna": "9cca31b176f04f3d7a119a4f40c595b5bb76fa83",
+  "edition": 635,
+  "date": 1645298555198,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

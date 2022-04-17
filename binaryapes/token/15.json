@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #15",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/15.png",
+  "dna": "be791a37f97f190ca9c23837d7a502f07032a410",
+  "edition": 15,
+  "date": 1645298518913,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Necklace"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

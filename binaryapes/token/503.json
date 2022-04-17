@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #503",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/503.png",
+  "dna": "3459ed90a075f12778c7ce88532f5302d66bef80",
+  "edition": 503,
+  "date": 1645298547859,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Green"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Necklace"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

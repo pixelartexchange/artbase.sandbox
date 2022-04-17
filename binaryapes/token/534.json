@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #534",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/534.png",
+  "dna": "b41080956ddeef5783f109cdb2a44623aed3d0d6",
+  "edition": 534,
+  "date": 1645298549665,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Dark Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Police Cap"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

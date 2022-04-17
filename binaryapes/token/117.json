@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #117",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/117.png",
+  "dna": "88604be12d6c50a0f453ebacc2fb50393afb29c4",
+  "edition": 117,
+  "date": 1645298527786,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Green"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Clown Eyes Blue"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Army Beret"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

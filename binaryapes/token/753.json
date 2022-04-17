@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #753",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/753.png",
+  "dna": "338734d3c061ebda3a16b0cd05566c7353e2f696",
+  "edition": 753,
+  "date": 1645298560641,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #932",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/932.png",
+  "dna": "152396b676b5b7adf82ca7a2793c8dcbb34b9335",
+  "edition": 932,
+  "date": 1645298567376,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Dark Circle"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Vietnam Era Helmet"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

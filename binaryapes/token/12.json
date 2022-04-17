@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #12",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/12.png",
+  "dna": "baadab029e51939d030011b638fc12e103fe3b14",
+  "edition": 12,
+  "date": 1645298518479,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Joker"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

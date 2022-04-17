@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #573",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/573.png",
+  "dna": "92b98b9861ea41d9eb5c403d80e3432bf4873b51",
+  "edition": 573,
+  "date": 1645298551898,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Dark Circle"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Black Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

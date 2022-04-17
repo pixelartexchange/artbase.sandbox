@@ -1,0 +1,30 @@
+{
+  "name": "Crypto BAYC #685",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/685.png",
+  "dna": "2e0a36cb95c4d531f1c839ff1278f8e1cd1e54d5",
+  "edition": 685,
+  "date": 1645298557097,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "2 Attributes"
+    }
+  ]
+}

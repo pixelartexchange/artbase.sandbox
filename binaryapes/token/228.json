@@ -1,0 +1,34 @@
+{
+  "name": "Crypto BAYC #228",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/228.png",
+  "dna": "f00c31b986e51ba3bf44130b3add6ceea48cd7f7",
+  "edition": 228,
+  "date": 1645298535275,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Nosebleed"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "VR"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Girl's Hair Short"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "3 Attributes"
+    }
+  ]
+}

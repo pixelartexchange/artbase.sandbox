@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #232",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/232.png",
+  "dna": "0c3d35592b1e02b0f3d8533e84d12555f1747fb1",
+  "edition": 232,
+  "date": 1645298535459,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

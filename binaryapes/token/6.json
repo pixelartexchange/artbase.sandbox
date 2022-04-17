@@ -1,0 +1,22 @@
+{
+  "name": "Crypto BAYC #6",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/6.png",
+  "dna": "23a647739e242e37211cf56bdb6cb86861c5faf1",
+  "edition": 6,
+  "date": 1645298517731,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "0 Attributes"
+    }
+  ]
+}

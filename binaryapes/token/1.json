@@ -1,0 +1,22 @@
+{
+  "name": "Crypto BAYC #1",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/1.png",
+  "dna": "201616a79543ceacf9d32aebe9590500a4b37f06",
+  "edition": 1,
+  "date": 1645298516858,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "0 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crypto BAYC #8",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/8.png",
+  "dna": "2dd904412927d6395d5112fe363b4e750e4a720e",
+  "edition": 8,
+  "date": 1645298518044,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "0 Attributes"
+    }
+  ]
+}

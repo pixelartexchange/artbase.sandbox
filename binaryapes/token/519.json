@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #519",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/519.png",
+  "dna": "0973c7a43ddd0b6f7df71f0ed8331f4ff9b759fd",
+  "edition": 519,
+  "date": 1645298548838,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Police Cap"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

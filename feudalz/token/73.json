@@ -1,0 +1,45 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Paper"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Dagger"
+    },
+    {
+      "trait_type": "Human Female Body",
+      "value": "Beige"
+    },
+    {
+      "trait_type": "Female Mouth",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Female Head Accessory",
+      "value": "Flowers"
+    },
+    {
+      "trait_type": "Female Accessory",
+      "value": "Purple Eye"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Human Female"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Vault Bonus %",
+      "value": 10
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Daily $GOLDZ production",
+      "value": 5.17
+    }
+  ],
+  "external_url": "https://feudalz.io",
+  "image": "https://server.feudalz.io/humanz/73.png",
+  "name": "#73"
+}
