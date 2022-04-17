@@ -8,7 +8,7 @@
 
 24x24px Punk Ape Pixel Club (PAPC) - 5555 max.
 
-
+42x42px Moonbirds - 10 000 max.
 
 
 
