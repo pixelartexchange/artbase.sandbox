@@ -10,7 +10,7 @@ c = TokenCollection.new( 'papc-punk-ape-pixel-club', 5555,
                           token_base: 'ipfs://QmVhgL6LSwxbfKZ9fpjEVbfbkm6XbLhxpe2ita3je39uzT/{id}' )
 
 ## note: collection token count startin with 1  (NOT 0) !!!
-range = (100..1000)
+range = (360..1000)
 c.download_meta( range )
 
 

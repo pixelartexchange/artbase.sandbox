@@ -10,7 +10,7 @@ require_relative '../artbase'
 steps  = Image.calc_sample_steps( 240, 24 )
 
 
-range = (1..99)
+range = (100..1000)
 range.each do |id|
 
   puts "==> #{id}  - reading / decoding #{id} ..."

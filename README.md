@@ -4,13 +4,14 @@
 
 ## Updates - What's News?
 
-24x24px Binary Apes - 10 000 max. - formerly (Crypto) Binary Ape Yolo Club (BAYC)
+24x24px Binary Apes - 10 000 max. - formerly (Crypto) Binary Ape Yolo Club (BAYC)  <br>
+![](i/binaryapes-strip.png)
 
-24x24px Punk Ape Pixel Club (PAPC) - 5555 max.
+24x24px Punk Ape Pixel Club (PAPC) - 5555 max.  <br>
+![](i/papc-punk-ape-pixel-club-strip.png)
 
-42x42px Moonbirds - 10 000 max.
-
-
+42x42px Moonbirds - 10 000 max.  <br>
+![](i/proof-moonbirds-strip.png)
 
 
 
