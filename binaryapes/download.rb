@@ -15,7 +15,7 @@ c = TokenCollection.new( 'binaryapes', 10000,
 # range = (927..999)
 # c.download_meta( range )
 
-range = (641..999)
+range = (681..999)
 c.download_images( range )
 
 

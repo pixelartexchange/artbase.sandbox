@@ -1,0 +1,30 @@
+{
+  "name": "PAPC #252",
+  "image": "https://ipfs.io/ipfs/QmZrvYQ1bJG2wCARPTwLMKuTHoqkspNdvc6xGTie1nnb2F/252.png",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring Diamond"
+    },
+    {
+      "trait_type": "Neck Accessory",
+      "value": "Diamond Chain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    }
+  ]
+}

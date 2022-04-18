@@ -1,0 +1,26 @@
+{
+  "name": "PAPC #179",
+  "image": "https://ipfs.io/ipfs/QmZrvYQ1bJG2wCARPTwLMKuTHoqkspNdvc6xGTie1nnb2F/179.png",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Retro Reading Glasses"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring Gold"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    }
+  ]
+}
