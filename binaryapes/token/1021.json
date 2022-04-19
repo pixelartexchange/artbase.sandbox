@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #1021",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/1021.png",
+  "dna": "4f45a9de0ba29318052c0c14d213e1d1a6a274fe",
+  "edition": 1021,
+  "date": 1645298570066,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Annoyed"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Glasses Frame"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

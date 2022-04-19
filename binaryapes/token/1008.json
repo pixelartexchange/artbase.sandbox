@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #1008",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/1008.png",
+  "dna": "0a5a5e0b3e67419dc491ae8e4af96c661596d208",
+  "edition": 1008,
+  "date": 1645298569533,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Teardrop"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

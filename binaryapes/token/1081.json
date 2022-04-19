@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #1081",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/1081.png",
+  "dna": "69e117f6a34b43256ad38ca9dd6ef549ca4c65e6",
+  "edition": 1081,
+  "date": 1645298571718,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

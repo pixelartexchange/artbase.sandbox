@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #1099",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/1099.png",
+  "dna": "755fdc9d00d4520257133b86331e1eaa2eeb6bd6",
+  "edition": 1099,
+  "date": 1645298572256,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

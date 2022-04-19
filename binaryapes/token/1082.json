@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #1082",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/1082.png",
+  "dna": "893447fa9ac5207c2772eafa7c1f0ed9cc8350cd",
+  "edition": 1082,
+  "date": 1645298571738,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Party Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #1074",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/1074.png",
+  "dna": "9d47ed3f5c86691dbc299c8d6eaf53091c212e27",
+  "edition": 1074,
+  "date": 1645298571559,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Commie Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

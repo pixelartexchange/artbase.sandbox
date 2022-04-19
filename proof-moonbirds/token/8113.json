@@ -1,0 +1,34 @@
+{
+  "name": "#8113",
+  "image": "https://live---metadata-5covpqijaa-uc.a.run.app/images/8113",
+  "external_url": "https://moonbirds.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Eyewear",
+      "value": "Visor"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Space Helmet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Feathers",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Beak",
+      "value": "Long"
+    }
+  ],
+  "x_debug": [
+    "orig:2065"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #1047",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/1047.png",
+  "dna": "7666cdc46cb25b3939df26f49336954ee37f5458",
+  "edition": 1047,
+  "date": 1645298570755,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Brain"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

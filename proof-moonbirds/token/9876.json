@@ -1,0 +1,38 @@
+{
+  "name": "#9876",
+  "image": "https://live---metadata-5covpqijaa-uc.a.run.app/images/9876",
+  "external_url": "https://moonbirds.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Adorable"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stark"
+    },
+    {
+      "trait_type": "Feathers",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Beak",
+      "value": "Long"
+    }
+  ],
+  "x_debug": [
+    "orig:7659"
+  ]
+}

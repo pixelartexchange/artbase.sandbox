@@ -1,0 +1,34 @@
+{
+  "name": "#4869",
+  "image": "https://live---metadata-5covpqijaa-uc.a.run.app/images/4869",
+  "external_url": "https://moonbirds.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Eyewear",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Flower"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stark"
+    },
+    {
+      "trait_type": "Feathers",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Beak",
+      "value": "Small"
+    }
+  ],
+  "x_debug": [
+    "orig:2077"
+  ]
+}

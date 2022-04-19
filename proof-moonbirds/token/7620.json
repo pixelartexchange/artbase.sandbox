@@ -1,0 +1,34 @@
+{
+  "name": "#7620",
+  "image": "https://live---metadata-5covpqijaa-uc.a.run.app/images/7620",
+  "external_url": "https://moonbirds.xyz/",
+  "attributes": [
+    {
+      "trait_type": "Eyewear",
+      "value": "Visor"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Feathers",
+      "value": "Bone"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Beak",
+      "value": "Short"
+    }
+  ],
+  "x_debug": [
+    "orig:1819"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #1020",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/1020.png",
+  "dna": "021fe0fc5beda567acf8a8598c2104ab2e8b73f3",
+  "edition": 1020,
+  "date": 1645298570022,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Army Hat"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}

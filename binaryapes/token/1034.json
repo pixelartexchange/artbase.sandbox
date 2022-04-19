@@ -1,0 +1,26 @@
+{
+  "name": "Crypto BAYC #1034",
+  "description": "",
+  "image": "ipfs://QmXZWjCdRevZ3J2AUd9PvTbwo4ef5re6oouoFBX7D2whfC/1034.png",
+  "dna": "da3aa4b8cca3e89f44c84bc5d148d2f1b5ad78b3",
+  "edition": 1034,
+  "date": 1645298570473,
+  "attributes": [
+    {
+      "trait_type": "TYPE",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "1 Attributes"
+    }
+  ]
+}
