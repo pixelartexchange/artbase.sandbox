@@ -10,9 +10,11 @@
 24x24px Punk Ape Pixel Club (PAPC) - 5555 max.  <br>
 ![](i/papc-punk-ape-pixel-club-strip.png)
 
+24x24px Unemployables - 5000 max. <br>
+![](i/unemployables-strip.png)
+
 42x42px Moonbirds - 10 000 max.  <br>
 ![](i/proof-moonbirds-strip.png)
-
 
 
 
