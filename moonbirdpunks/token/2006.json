@@ -1,0 +1,31 @@
+{
+  "name": "Moonbirdpunks 2006",
+  "description": "Moonbirdpunks - The flagship PFP of OOF Collective, brought to you by the degen community with love.",
+  "fee_recipient": "0xd780B9DE6BE4cd865485092ecD4B19771D147B72",
+  "seller_fee_basis_points": 500,
+  "image": "https://oofcollective.xyz/assets/mbp/images/2006.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Galaxy"
+    },
+    {
+      "trait_type": "Hive",
+      "value": "Hive Visor"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Diamond"
+    },
+    {
+      "trait_type": "Beaks",
+      "value": "Small Black"
+    }
+  ],
+  "hash": "f58f94402da9944e3c8c710955858d7c"
+}

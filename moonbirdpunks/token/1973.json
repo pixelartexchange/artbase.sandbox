@@ -1,0 +1,27 @@
+{
+  "name": "Moonbirdpunks 1973",
+  "description": "Moonbirdpunks - The flagship PFP of OOF Collective, brought to you by the degen community with love.",
+  "fee_recipient": "0xd780B9DE6BE4cd865485092ecD4B19771D147B72",
+  "seller_fee_basis_points": 500,
+  "image": "https://oofcollective.xyz/assets/mbp/images/1973.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Dark Galaxy Background"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Cool Glasses"
+    },
+    {
+      "trait_type": "Beaks",
+      "value": "Long Orange"
+    }
+  ],
+  "hash": "8f9a64fdf99e5eddd289bd27ddea2fa3"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Moonbirdpunks 2019",
+  "description": "Moonbirdpunks - The flagship PFP of OOF Collective, brought to you by the degen community with love.",
+  "fee_recipient": "0xd780B9DE6BE4cd865485092ecD4B19771D147B72",
+  "seller_fee_basis_points": 500,
+  "image": "https://oofcollective.xyz/assets/mbp/images/2019.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Pink Camo"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Blue Winged"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Noun Red Glasses"
+    },
+    {
+      "trait_type": "Beaks",
+      "value": "Long Orange"
+    }
+  ],
+  "hash": "4a3422d0b8c22c4b3a44057cc6bdeb85"
+}

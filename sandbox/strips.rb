@@ -31,6 +31,10 @@ strip.save( "./tmp/unemployables-strip.png" )
 strip = gen_strip( "proof-moonbirds", width: 42, height: 42 )
 strip.save( "./tmp/proof-moonbirds-strip.png" )
 
+strip = gen_strip( "moonbirdpunks", width: 50, height: 50 )
+strip.save( "./tmp/moonbirdpunks-strip.png" )
+
+
 
 puts "bye"
 

@@ -1,0 +1,27 @@
+{
+  "name": "Moonbirdpunks 1832",
+  "description": "Moonbirdpunks - The flagship PFP of OOF Collective, brought to you by the degen community with love.",
+  "fee_recipient": "0xd780B9DE6BE4cd865485092ecD4B19771D147B72",
+  "seller_fee_basis_points": 500,
+  "image": "https://oofcollective.xyz/assets/mbp/images/1832.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Orange Cool Glasses"
+    },
+    {
+      "trait_type": "Beaks",
+      "value": "Small Black"
+    }
+  ],
+  "hash": "6fd14615a0a147a96770d447ce5af47a"
+}

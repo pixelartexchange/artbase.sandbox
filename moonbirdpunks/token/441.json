@@ -1,0 +1,31 @@
+{
+  "name": "Moonbirdpunks 441",
+  "description": "Moonbirdpunks - The flagship PFP of OOF Collective, brought to you by the degen community with love.",
+  "fee_recipient": "0xd780B9DE6BE4cd865485092ecD4B19771D147B72",
+  "seller_fee_basis_points": 500,
+  "image": "https://oofcollective.xyz/assets/mbp/images/441.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Green Camo"
+    },
+    {
+      "trait_type": "Bodies",
+      "value": "Gray Winged"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Noun Glasses"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Orange Flower"
+    },
+    {
+      "trait_type": "Beaks",
+      "value": "Big Orange"
+    }
+  ],
+  "hash": "7779e817de9310b9d82049fe3f3b55a9"
+}
