@@ -31,6 +31,14 @@ tokenuri metadata not working (April/19)
 
 
 ------
+updates
+
+Our original contract featured the first 9937 birds. As to avoid having lonely Moonbirds without a flipped twin, we have included all 10,000 birds in new our V2 contract.
+
+V1 Phoonbird holders have been airdropped their new V2 Phoonbird (check your wallets). New OS https://opensea.collection/phoonbirdsv2
+
+
+
 more phoonbirds
 
 - Flipped Moonbirds
@@ -46,6 +54,18 @@ others
   - https://starbirds.io/
   - https://twitter.com/Starbirdsnft
 
+- Mutant Birds
+  - https://www.mutantbirds.io
+  - https://opensea.io/collection/mutant-birds
+  - https://twitter.com/mutant_birds
+
+- Sun Birds
+  - https://twitter.com/SunBirds_NFT
+
+- Fastfood Birds
+  - https://twitter.com/fastfoodbirds
+
+
 ---------------
 - <https://opensea.io/collection/unemployables>
   - https://etherscan.io/address/0xe0be388ab81c47b0f098d2030a1c9ef190691a8a
@@ -53,12 +73,30 @@ others
 5000 items, 24x24 px - uses ethereum Unemployables contract
 
 
+- <https://opensea.io/collection/famouspolygonians>
+  - https://twitter.com/PolygoniansNFT
+
 
 
 
 - <https://opensea.io/collection/punkettes>
 
 150 Items, 24x24 px?  - use OpenSea Shared Store Conctract
+
+
+- World of Crypto Punk Women  - 5555 max.
+  - https://twitter.com/CPW1121
+  - https://www.wocpw.io
+
+
+- https://twitter.com/football_punks
+
+- https://linktr.ee/_MYPUNKS_
+  - https://twitter.com/MYPUNKofficial
+
+- https://unlistedpunks.com/
+  - https://twitter.com/UnlistedPunks
+
 
 
 
