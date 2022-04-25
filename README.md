@@ -30,6 +30,10 @@
 42x42px Moonbirds - 10 000 max.  <br>
 ![](i/proof-moonbirds-strip.png)
 
+42x42px Starbirds - 3000 max. <br>
+![](i/starbirds-strip.png)
+
+
 50x50px Moonbird Punks - 2469 max.  <br>
 ![](i/moonbirdpunks-strip.png)
 
