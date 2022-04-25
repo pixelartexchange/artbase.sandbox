@@ -29,6 +29,14 @@ tokenuri metadata not working (April/19)
 - https://0xmoonbirds.xyz/
 - https://etherscan.io/address/0x1a9027df2cf0baf37668847f8e35c791384871ab created on Apr-17-2022 01:40:57 AM
 
+---
+
+1500 items max.   Moonbirds Expansion ??
+
+- https://moonbirds0x.xyz/
+- https://twitter.com/0xmoonbirds_xyz
+
+
 
 ------
 updates
@@ -39,12 +47,19 @@ V1 Phoonbird holders have been airdropped their new V2 Phoonbird (check your wal
 
 
 
-more phoonbirds
+more phoonbirds / moonbhirds / ...
+
+- Moon Bhirds
+ - https://www.moonbhirds.com/
+ - https://twitter.com/MoonBhirds
+ - https://opensea.io/collection/moonbhirds
+
 
 - Flippy Birds
   - https://flippybirds.com/
   - https://etherscan.io/address/0x062082ef0eea23a84e383a5cd978504818318386 created on Apr-16-2022 08:46:28 PM
   - https://twitter.com/FlippyBirdsNFT
+
 
 
 - Flipped Moonbirds (I)
@@ -74,6 +89,34 @@ others
 
 - Fastfood Birds
   - https://twitter.com/fastfoodbirds
+
+- Moonbirds Mutant
+  - https://moonbirdsmutant.xyz/
+  - https://twitter.com/MoonbirdsMutant
+
+
+- Mutant Moonb1rds
+ - https://opensea.io/collection/mutantmoonb1rds
+ - https://twitter.com/MutantMoonb1rds
+
+- Mfers Moonbirds
+  - https://twitter.com/mfers_moonbirds
+  - https://moonbirdsmfers.xyz/
+  - https://opensea.io/collection/moonbirdsmfers
+
+- Moon Birdies (Baby Moonbirds)
+  - https://twitter.com/MoonBirdies_nft
+  - https://opensea.io/collection/moonbirdies
+
+- Moonbird Batz
+  - https://twitter.com/Moonbirdsbatz
+  - https://opensea.io/collection/moonbirdsbatz
+
+- Noun Birds
+  - https://twitter.com/NounBirdsNFT
+  - https://opensea.io/collection/nounbirds
+
+
 
 
 ---------------

@@ -20,7 +20,6 @@ strip = gen_strip( "starbirds", width: 42, height: 42 )
 strip.save( "./tmp/starbirds-strip.png" )
 
 
-__END__
 
 strip = gen_strip( "pridepunks2018", width: 23, height: 23 )
 strip.save( "./tmp/pridepunks2018-strip.png" )
