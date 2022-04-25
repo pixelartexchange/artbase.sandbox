@@ -16,7 +16,17 @@ def gen_strip( slug, offset: 0, width: 24, height: 24 )
 end
 
 
+strip = gen_strip( "pridepunks2018", width: 23, height: 23 )
+strip.save( "./tmp/pridepunks2018-strip.png" )
 
+strip = gen_strip( "moonbears-nft", offset: 1,
+                                    width: 34, height: 34 )
+strip.save( "./tmp/moonbears-nft-strip.png" )
+
+
+
+
+__END__
 
 strip = gen_strip( "binaryapes", offset: 1 )
 strip.save( "./tmp/binaryapes-strip.png" )
