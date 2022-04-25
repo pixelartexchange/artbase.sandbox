@@ -1,0 +1,34 @@
+{
+  "name": "Moonbear #1511",
+  "image": "ipfs://QmSrKVqjj2EwKMpkKGxDBQx6nXAbcAKDaP3sJW32p47Pad/1511.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "God"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Green Hoodie"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bucket Hat"
+    }
+  ]
+}

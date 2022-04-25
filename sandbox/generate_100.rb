@@ -9,15 +9,23 @@ require 'pixelart'
 def gen_composite( slug,
                    offset: 0,
                    width: 24, height: 24,
-                   transparent: false, mirror: false )
+                   transparent: false, mirror: false, background: nil )
 
   # use a 10x10 grid for a hundred (100) items
   composite = ImageComposite.new( 10, 10, width: width, height: height )
 
   (offset..offset+99).each do |id|
+
     tile = Image.read( "./#{slug}/#{width}x#{height}/#{id}.png" )
-    tile = tile.transparent  if transparent
-    tile = tile.mirror       if mirror
+    tile = tile.transparent               if transparent
+
+    if background
+      img = Image.new( width, height, background )
+      img.compose!( tile )
+      tile = img
+    end
+
+    tile = tile.mirror                    if mirror
     composite << tile
   end
   composite
@@ -31,6 +39,14 @@ end
 composite = gen_composite( "moonbirdpunks",  width: 50, height: 50,
                                              mirror: true )
 composite.save( "./tmp/moonbirdpunks-50x50.png" )
+
+
+composite = gen_composite( "pridepunks2018",  width: 23, height: 23,
+                                             mirror: true,
+                                             background: '#638596' )
+composite.save( "./tmp/pridepunks2018-23x23.png" )
+composite.zoom(4).save( "./tmp/pridepunks2018-23x23@4x.png" )
+
 
 
 puts "bye"

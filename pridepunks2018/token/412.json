@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreifkunownnbslw5khnczvr3fpjzeiofb3xlufaxtoedrstu7rys6iq",
+  "name": "Pride Punk #412",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Classic Shades",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 502,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Purple Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 165,
+      "order": null
+    }
+  ]
+}

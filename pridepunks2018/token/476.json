@@ -1,0 +1,56 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreifm2usycmzxl36y2tfshkeuxh3cx2s5luy4hfzmh76mobzjbg6v2e",
+  "name": "Pride Punk #476",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Nerd Glasses",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 572,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mohawk",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 441,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Muttonchops",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 303,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Pipe",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 317,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "4 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 746,
+      "order": null
+    }
+  ]
+}

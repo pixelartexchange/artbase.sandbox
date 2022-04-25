@@ -1,0 +1,34 @@
+{
+  "name": "Moonbear #2767",
+  "image": "ipfs://QmSrKVqjj2EwKMpkKGxDBQx6nXAbcAKDaP3sJW32p47Pad/2767.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gummy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Orange Sweater"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Spectacles"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bandana"
+    }
+  ]
+}

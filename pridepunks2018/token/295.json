@@ -1,0 +1,32 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreie4qi4olob5aw7iz64v3nnegstd446e7s6zobxp4r2xcnfo6o64yy",
+  "name": "Pride Punk #295",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Shaved Head",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 300,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Frown",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 261,
+      "order": null
+    }
+  ]
+}

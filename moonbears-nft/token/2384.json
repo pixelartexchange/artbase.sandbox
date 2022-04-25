@@ -1,0 +1,34 @@
+{
+  "name": "Moonbear #2384",
+  "image": "ipfs://QmSrKVqjj2EwKMpkKGxDBQx6nXAbcAKDaP3sJW32p47Pad/2384.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Flat Cap"
+    }
+  ]
+}

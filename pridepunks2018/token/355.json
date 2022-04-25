@@ -1,0 +1,48 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreigjkyvfhu5nznvrvymrzdnmdlrcanbpq6lmlxn4zpxrqzmf4jzfhe",
+  "name": "Pride Punk #355",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Green Eye Shadow",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 271,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Gold Chain",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 169,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Black Lipstick",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 617,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Wild White Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 136,
+      "order": null
+    }
+  ]
+}

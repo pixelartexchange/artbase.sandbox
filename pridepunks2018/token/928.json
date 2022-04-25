@@ -1,0 +1,56 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreifyqb3oqbiymwxhsxmoai3p27b4nqutzagvwntece3e7kutt4aede",
+  "name": "Pride Punk #928",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Classic Shades",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 502,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Front Beard",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 273,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Silver Chain",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 156,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Headband",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 406,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "4 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 746,
+      "order": null
+    }
+  ]
+}

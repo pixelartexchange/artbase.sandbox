@@ -1,0 +1,24 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreihqturd672uiiivdm6ywu77zit236zc4ir7hbwuxzrftjdhwgtchy",
+  "name": "Pride Punk #346",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Purple Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 165,
+      "order": null
+    }
+  ]
+}

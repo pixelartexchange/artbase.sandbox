@@ -1,0 +1,48 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreih6dthrccm6vnjzju5qam3yfyoq4czpx6twmuzykj3r6mc22hgznq",
+  "name": "Pride Punk #224",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Nerd Glasses",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 572,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Cigarette",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 961,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Headband",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 406,
+      "order": null
+    }
+  ]
+}

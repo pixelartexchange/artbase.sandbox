@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreigj5wcq35i77m4ngrgs4bbbeqv3r2ht4bvxutrzhihffrrvsnham4",
+  "name": "Pride Punk #98",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Black Lipstick",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 617,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Dark Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 157,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Welding Goggles",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 86,
+      "order": null
+    }
+  ]
+}

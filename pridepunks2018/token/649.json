@@ -1,0 +1,48 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreics4afnx7ztpwn6lxt4gr6o2rqcq7jd63f6k23lpxskkjpwkxv5eu",
+  "name": "Pride Punk #649",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Do-rag",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 300,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mustache",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 288,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Pipe",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 317,
+      "order": null
+    }
+  ]
+}

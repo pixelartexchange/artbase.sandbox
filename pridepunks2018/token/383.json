@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreichmje3qmq4gejl4r2f2yk4felvogfeftlc5sw3xyjv6auusgzmei",
+  "name": "Pride Punk #383",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Green Eye Shadow",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 271,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Straight Hair Blonde",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 144,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "2 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 1732,
+      "order": null
+    }
+  ]
+}

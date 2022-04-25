@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreifrn5ic5l7pgtxgrsackftgz2opiyz6m3erani3tz2pea2qzjl4cq",
+  "name": "Pride Punk #374",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Bandana",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 481,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Clown Eyes Blue",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 384,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "2 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 1732,
+      "order": null
+    }
+  ]
+}

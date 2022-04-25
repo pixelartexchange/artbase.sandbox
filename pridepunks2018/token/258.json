@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreichpftpiwuz5ulq265tlexmtpe2w52a5keno2cqbtmcwqpobgh3u4",
+  "name": "Pride Punk #258",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Handlebars",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 263,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Cap Forward",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 254,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "2 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 1732,
+      "order": null
+    }
+  ]
+}

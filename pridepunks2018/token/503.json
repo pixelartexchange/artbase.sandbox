@@ -1,0 +1,32 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreigdm4whc263gegwptsdu6um4zmjodmdkz65vpbltmsu5smgjqohzu",
+  "name": "Pride Punk #503",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mohawk Dark",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 429,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Front Beard Dark",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 260,
+      "order": null
+    }
+  ]
+}

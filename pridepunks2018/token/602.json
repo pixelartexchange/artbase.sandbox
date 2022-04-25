@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreifjfvzezsoqyh6ydwr7d6xe3oim46r7dhzsatjwl3tajcrasle7ly",
+  "name": "Pride Punk #602",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Hot Lipstick",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 696,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Crazy Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 414,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "2 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 1732,
+      "order": null
+    }
+  ]
+}

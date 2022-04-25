@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreiaw32tswcz77gzcuzuc3ygx2svnbrevmuzgcgpez6uuuo6kxnxzkm",
+  "name": "Pride Punk #198",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Luxurious Beard",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 286,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Beanie",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 44,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "2 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 1732,
+      "order": null
+    }
+  ]
+}

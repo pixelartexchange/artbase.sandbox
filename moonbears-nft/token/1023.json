@@ -1,0 +1,34 @@
+{
+  "name": "Moonbear #1023",
+  "image": "ipfs://QmSrKVqjj2EwKMpkKGxDBQx6nXAbcAKDaP3sJW32p47Pad/1023.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ruby"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Spectacles"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Snapback"
+    }
+  ]
+}

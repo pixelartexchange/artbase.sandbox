@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreigzql6lxqzyzssqtmomufrvulce2xypyikmx2tylite2e6mmddksu",
+  "name": "Pride Punk #444",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Shadow Beard",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 526,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Do-rag",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 300,
+      "order": null
+    }
+  ]
+}

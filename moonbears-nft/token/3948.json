@@ -1,0 +1,34 @@
+{
+  "name": "Moonbear #3948",
+  "image": "ipfs://QmSrKVqjj2EwKMpkKGxDBQx6nXAbcAKDaP3sJW32p47Pad/3948.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Snowy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cosmic"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bandana"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreih4tgiqdjn3575a5g5ycvp2znsakukurposhjbzzm7566qt26bbwm",
+  "name": "Pride Punk #945",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Big Shades",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 535,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Clown Nose",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 212,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Cowboy Hat",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 142,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "3 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2178,
+      "order": null
+    }
+  ]
+}

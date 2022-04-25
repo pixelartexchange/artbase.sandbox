@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreidronlrbuuomtq2p2nbyrhbssynf7f5xswuacqwieag77udoxorsa",
+  "name": "Pride Punk #41",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Clown Eyes Green",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 382,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Muttonchops",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 303,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Wild Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 447,
+      "order": null
+    }
+  ]
+}

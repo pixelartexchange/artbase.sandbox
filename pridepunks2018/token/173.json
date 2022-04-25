@@ -1,0 +1,56 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreic5dg43z4jn3ql3irygukkwbhkcn3qq42zgmtag3mbja3tq7fbyqa",
+  "name": "Pride Punk #173",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Messy Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 460,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mole",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 644,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Hot Lipstick",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 696,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Clown Eyes Blue",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 384,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Pipe",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 317,
+      "order": null
+    }
+  ]
+}

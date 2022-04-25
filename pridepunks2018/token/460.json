@@ -1,0 +1,64 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreidficyqzlqu6y6ybsqyjskfofalqeu6e7ubukacc3jypfh56t42ye",
+  "name": "Pride Punk #460",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Classic Shades",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 502,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Black Lipstick",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 617,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mohawk Dark",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 429,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Choker",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 48,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "5 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 93,
+      "order": null
+    }
+  ]
+}

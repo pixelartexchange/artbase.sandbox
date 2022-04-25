@@ -1,0 +1,48 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreiczpr452sxlkkt443tk3xcyld5l5lvzge3jalq7qm7hwx3gsyc3x4",
+  "name": "Pride Punk #0",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Green Eye Shadow",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 271,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Blonde Bob",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 147,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "3 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2178,
+      "order": null
+    }
+  ]
+}

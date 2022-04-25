@@ -1,0 +1,56 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreieiqhwdekagejdnyhegk7apex64vhhyoflg3kvgbzk3g6w5itmb6q",
+  "name": "Pride Punk #525",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Hot Lipstick",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 696,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Silver Chain",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 156,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Straight Hair Dark",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 148,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "4 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 746,
+      "order": null
+    }
+  ]
+}

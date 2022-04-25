@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreihd7msfwmdhdsffn4vtz37vfvhotwqnjdfd5kl43zontlarodh6ua",
+  "name": "Pride Punk #538",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Green Eye Shadow",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 271,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Knitted Cap",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 419,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Hot Lipstick",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 696,
+      "order": null
+    }
+  ]
+}

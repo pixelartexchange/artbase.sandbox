@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreigq6b36mmywuu4hrlyzpj7feof2caznmw7zii64d7g2yjyospcely",
+  "name": "Pride Punk #439",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Shadow Beard",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 526,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Knitted Cap",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 419,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "2 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 1732,
+      "order": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreiaagpyremj5zfhkrriu7bdnqvocv5z6fhccjwlqh4agtokhrwj5cq",
+  "name": "Pride Punk #842",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Nerd Glasses",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 572,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Smile",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 238,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Purple Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 165,
+      "order": null
+    }
+  ]
+}

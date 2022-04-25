@@ -1,0 +1,48 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreie2z7fszwnxhkj6fj6a2yv6abt7a4ifqrevvvtu7wegxqlpbcmplq",
+  "name": "Pride Punk #715",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mohawk Thin",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 441,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Normal Beard",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 292,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "3 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2178,
+      "order": null
+    }
+  ]
+}

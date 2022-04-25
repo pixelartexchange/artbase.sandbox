@@ -1,0 +1,32 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreihql4gg7modkcjp3cvsgj4a26db5meycv5rmxwj5m7umlbhozs7l4",
+  "name": "Pride Punk #199",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Blonde Short",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 129,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Classic Shades",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 502,
+      "order": null
+    }
+  ]
+}

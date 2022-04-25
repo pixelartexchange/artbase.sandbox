@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreifud7szu7mnxlv77jgshmw2nvwtyp2rre5fwt2pznccmucsqhwrkm",
+  "name": "Pride Punk #492",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Shadow Beard",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 526,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Classic Shades",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 502,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Shaved Head",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 300,
+      "order": null
+    }
+  ]
+}

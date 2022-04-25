@@ -1,0 +1,32 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreibvnqtqol6hzv2lzgntqohxzzwyo5owyor6wgi2vuokvxbjhowave",
+  "name": "Pride Punk #189",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Purple Lipstick",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 655,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mohawk Thin",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 441,
+      "order": null
+    }
+  ]
+}

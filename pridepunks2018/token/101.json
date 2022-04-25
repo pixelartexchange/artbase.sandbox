@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreiez3wv2qnmsijx3iggvigf2qd5yurjiv55jgwqmxsrkvddhfdglfe",
+  "name": "Pride Punk #101",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Nerd Glasses",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 572,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Police Cap",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 203,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "2 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 1732,
+      "order": null
+    }
+  ]
+}

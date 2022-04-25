@@ -1,0 +1,24 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreicqfeld46w5p4w33swg567zeolw6eukvochtqluhutyytddmuz7rm",
+  "name": "Pride Punk #148",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Hoodie",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 259,
+      "order": null
+    }
+  ]
+}

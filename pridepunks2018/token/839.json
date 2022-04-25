@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreiaoc3d2qy2mjzxsrfu2am5r6av4vfxjjkjpsme6d4kfqtnblf5x3a",
+  "name": "Pride Punk #839",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mole",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 644,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Frumpy Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 442,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Purple Eye Shadow",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 262,
+      "order": null
+    }
+  ]
+}

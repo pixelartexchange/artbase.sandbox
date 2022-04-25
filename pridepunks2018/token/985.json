@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreiftshe5cafidwtdjq4eabbv52gvbcbv5slry2tx4g4kwktpp7uzkm",
+  "name": "Pride Punk #985",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Big Shades",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 535,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Blonde Bob",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 147,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "2 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 1732,
+      "order": null
+    }
+  ]
+}

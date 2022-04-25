@@ -1,0 +1,32 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreigdp3uydfuposlhstjj5jslrqcwhaow2mhhkzgtoypsw6p25766qe",
+  "name": "Pride Punk #553",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Wild Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 447,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "3D Glasses",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 286,
+      "order": null
+    }
+  ]
+}

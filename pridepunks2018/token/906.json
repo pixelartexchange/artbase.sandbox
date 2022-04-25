@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreibgpz2pj5idahcbqdahie56k44eps3bqd64euhnkl6v3vkicblabe",
+  "name": "Pride Punk #906",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mole",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 644,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Crazy Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 414,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "2 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 1732,
+      "order": null
+    }
+  ]
+}

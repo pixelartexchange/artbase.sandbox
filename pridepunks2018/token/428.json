@@ -1,0 +1,24 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreicty7adce746hoekpu7cygrtgljhdul4rpyjesbddsgjxitmtae5q",
+  "name": "Pride Punk #428",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Purple Eye Shadow",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 262,
+      "order": null
+    }
+  ]
+}

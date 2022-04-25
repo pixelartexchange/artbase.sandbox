@@ -1,0 +1,64 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreie4egyobmb2pcep5fhjvy56xzd4cv4jpmi6w44pjbwqleze7qqboe",
+  "name": "Pride Punk #959",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Frown",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 261,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Normal Beard Black",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 289,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Pipe",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 317,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Police Cap",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 203,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "5 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 93,
+      "order": null
+    }
+  ]
+}

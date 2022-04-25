@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreie7wamxospbhxy7mqcxcrpmpc2pa7kleko7t4wcndbvj5l34kitm4",
+  "name": "Pride Punk #351",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mole",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 644,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Goat",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 295,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Purple Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 165,
+      "order": null
+    }
+  ]
+}

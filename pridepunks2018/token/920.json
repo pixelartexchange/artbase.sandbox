@@ -1,0 +1,64 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreigx6fneubjl3fjwxeijtc4k2mxeajfnrcjuq2smylwxeheye3nfbi",
+  "name": "Pride Punk #920",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Vampire Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 147,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "VR",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 332,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Chinstrap",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 282,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Smile",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 238,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "5 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 93,
+      "order": null
+    }
+  ]
+}

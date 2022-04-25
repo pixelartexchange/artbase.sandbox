@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreiafnvydwj5lsajklhpijbpn663uek3f5tgmvxzzozuyp2x3eieh44",
+  "name": "Pride Punk #751",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Classic Shades",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 502,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Cigarette",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 961,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Frumpy Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 442,
+      "order": null
+    }
+  ]
+}

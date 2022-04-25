@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreidfes4if2n6snzjs6vtb45pr2obp2hqgxppp3owymtyesjvtfc4pu",
+  "name": "Pride Punk #573",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mole",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 644,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "VR",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 332,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Wild White Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 136,
+      "order": null
+    }
+  ]
+}

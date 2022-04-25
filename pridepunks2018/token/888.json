@@ -1,0 +1,32 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreigbblceaiqlwm33f2kaqdcqteemzx5n76gydu3j2sgdo7ofwkuwta",
+  "name": "Pride Punk #888",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Clown Eyes Blue",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 384,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Straight Hair Dark",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 148,
+      "order": null
+    }
+  ]
+}

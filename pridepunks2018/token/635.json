@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreib4dqnjrteqym5uueti7mplbwdbr2khs3wq7utrouc3lfszfhlms4",
+  "name": "Pride Punk #635",
+  "attributes": [
+    {
+      "trait_type": "accessory",
+      "value": "Regular Shades",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 527,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Bandana",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 481,
+      "order": null
+    },
+    {
+      "trait_type": "type",
+      "value": "Alien",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 9,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "2 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 1732,
+      "order": null
+    }
+  ]
+}

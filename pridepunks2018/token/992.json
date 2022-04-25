@@ -1,0 +1,32 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreicz7djuyi77llxizycjugzet2h2jjaxqul37kbu523qyd6sxdt46a",
+  "name": "Pride Punk #992",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Purple Eye Shadow",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 262,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Red Mohawk",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 147,
+      "order": null
+    }
+  ]
+}

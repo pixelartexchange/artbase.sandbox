@@ -1,0 +1,24 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreidpmx2sl6377oql2t4oxqot5gtsnbi72hdk7mdfghll6i52ezbjeq",
+  "name": "Pride Punk #813",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Wild White Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 136,
+      "order": null
+    }
+  ]
+}

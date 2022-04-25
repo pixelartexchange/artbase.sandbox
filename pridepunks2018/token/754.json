@@ -1,0 +1,56 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreigm5rauqdklgbmx35ianmjvhbbmokhpufxigb2vtnlns2i4cbmfzm",
+  "name": "Pride Punk #754",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Shadow Beard",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 526,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Nerd Glasses",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 572,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mohawk Dark",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 429,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "4 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 746,
+      "order": null
+    }
+  ]
+}

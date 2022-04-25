@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreic2effbf2isum7bmjzz525h3r3q6zgqds7dsoqi42yyf5xu24o6o4",
+  "name": "Pride Punk #912",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Cigarette",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 961,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Purple Eye Shadow",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 262,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Straight Hair Blonde",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 144,
+      "order": null
+    }
+  ]
+}

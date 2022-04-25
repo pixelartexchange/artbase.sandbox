@@ -1,0 +1,32 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreih5ervrg3r42yldil2hlgfc4japd5lt3rdmvlaqc6likytzsb4bra",
+  "name": "Pride Punk #434",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Frumpy Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 442,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Eye Mask",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 293,
+      "order": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreiepfgxtf26mqe66kd5pf3jk7ocw4u64gbksq7e6a7vcrvm3m7v6pq",
+  "name": "Pride Punk #59",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Muttonchops",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 303,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Cowboy Hat",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 142,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "2 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 1732,
+      "order": null
+    }
+  ]
+}

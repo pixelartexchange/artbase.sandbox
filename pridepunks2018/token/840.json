@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreiek6mfc4xxml4ijr4alnsv7jbqyjmhv3skvboksltykj2z2zntf6u",
+  "name": "Pride Punk #840",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Cigarette",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 961,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mohawk Dark",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 429,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mustache",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 288,
+      "order": null
+    }
+  ]
+}

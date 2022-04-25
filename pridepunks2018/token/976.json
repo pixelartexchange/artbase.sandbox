@@ -1,0 +1,32 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreidfcwt2x7ltopr3syqqhcautvrvufqne54wmf2vbnqij7tnyebl4a",
+  "name": "Pride Punk #976",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Regular Shades",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 527,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Straight Hair Blonde",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 144,
+      "order": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreigwp6di4sbxim6qokp5y2xqm3ut5pdpbhhtbgtwwdwlmaggv7wnvm",
+  "name": "Pride Punk #40",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Chinstrap",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 282,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Bandana",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 481,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Smile",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 238,
+      "order": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreicvyvsaxq7gnrrtd32n2k2g5om2cuy2rbwxmqrb43jll2pwqtwpzi",
+  "name": "Pride Punk #231",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Stringy Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 463,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Pipe",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 317,
+      "order": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreiee5c4ntmxgyhtxv2kfvyflx65sp6d2ryldl4ayuvawxi4duc6mkm",
+  "name": "Pride Punk #753",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Purple Lipstick",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 655,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Wild Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 447,
+      "order": null
+    }
+  ]
+}

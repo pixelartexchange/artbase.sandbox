@@ -1,0 +1,34 @@
+{
+  "name": "Moonbear #1301",
+  "image": "ipfs://QmSrKVqjj2EwKMpkKGxDBQx6nXAbcAKDaP3sJW32p47Pad/1301.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Olive"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Panda"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Worrying"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Vest"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    }
+  ]
+}

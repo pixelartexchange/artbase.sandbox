@@ -1,0 +1,34 @@
+{
+  "name": "Moonbear #1315",
+  "image": "ipfs://QmSrKVqjj2EwKMpkKGxDBQx6nXAbcAKDaP3sJW32p47Pad/1315.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Grey Hoodie"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Green Sunglasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Snapback"
+    }
+  ]
+}

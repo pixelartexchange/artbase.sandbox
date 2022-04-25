@@ -1,0 +1,34 @@
+{
+  "name": "Moonbear #16",
+  "image": "ipfs://QmSrKVqjj2EwKMpkKGxDBQx6nXAbcAKDaP3sJW32p47Pad/16.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fuchsia"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brick"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "God"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Green T Shirt"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Green Sunglasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreieiczhxdsrym2auj2wpri7rum2xgifelb6edqhybpxn6z2m365szi",
+  "name": "Pride Punk #810",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Clown Eyes Blue",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 384,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Hoodie",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 259,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Front Beard",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 273,
+      "order": null
+    }
+  ]
+}

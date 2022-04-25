@@ -1,0 +1,64 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreibd6l4d4qn2eqwjo57pvxdo2hgkvmshu3uok3ox2iixssaq47mvki",
+  "name": "Pride Punk #621",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Peak Spike",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 303,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Eye Patch",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 461,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Smile",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 238,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Normal Beard",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 292,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "5 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 93,
+      "order": null
+    }
+  ]
+}

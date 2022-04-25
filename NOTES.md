@@ -41,8 +41,18 @@ V1 Phoonbird holders have been airdropped their new V2 Phoonbird (check your wal
 
 more phoonbirds
 
-- Flipped Moonbirds
+- Flippy Birds
+  - https://flippybirds.com/
+  - https://etherscan.io/address/0x062082ef0eea23a84e383a5cd978504818318386 created on Apr-16-2022 08:46:28 PM
+  - https://twitter.com/FlippyBirdsNFT
+
+
+- Flipped Moonbirds (I)
   - https://twitter.com/FlippedBirds
+
+- Flipped Moonbirds (II)
+  - https://twitter.com/MoonBirdsFlip
+  - https://opensea.io/collection/flippedmoonbirbs
 
 
 others

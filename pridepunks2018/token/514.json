@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreic5eq6whoglqfthupcnvchaadpcysxquiu6yircsnz4w2vqbh77rq",
+  "name": "Pride Punk #514",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Eye Patch",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 461,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Hot Lipstick",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 696,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Straight Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 151,
+      "order": null
+    }
+  ]
+}

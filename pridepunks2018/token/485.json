@@ -1,0 +1,48 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreich2csbm5h7onshu7iadgen4wojmiiarcupmylfuuabe7zaanxucq",
+  "name": "Pride Punk #485",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Big Beard",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 146,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Headband",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 406,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "3D Glasses",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 286,
+      "order": null
+    }
+  ]
+}

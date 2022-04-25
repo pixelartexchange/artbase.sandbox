@@ -1,0 +1,24 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreicfrzqq3v5vsvsxlvcrdj5fifsj34ohfki3x2crtcoczkpqo7dk4u",
+  "name": "Pride Punk #798",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Spots",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 124,
+      "order": null
+    }
+  ]
+}

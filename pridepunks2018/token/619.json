@@ -1,0 +1,56 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreieqnx5fp6ehfe5n2mdqcq4w2daqjwvllkw4bf33v7rknbtjtuuupi",
+  "name": "Pride Punk #619",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Eye Patch",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 461,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Frumpy Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 442,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Front Beard",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 273,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "4 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 746,
+      "order": null
+    }
+  ]
+}

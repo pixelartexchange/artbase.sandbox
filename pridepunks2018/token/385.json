@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreiha27ohmo3f57pnmgz4bbwkdj6cl752gasxj7n6hy77xaqe5zc77y",
+  "name": "Pride Punk #385",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Wild Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 447,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Choker",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 48,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "2 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 1732,
+      "order": null
+    }
+  ]
+}

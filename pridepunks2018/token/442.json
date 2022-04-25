@@ -1,0 +1,32 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreic32lk6yfuvyqcphh6qwq2xidbux6ez2pz6k5dib26r3c525vmuvm",
+  "name": "Pride Punk #442",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Front Beard",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 273,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Cowboy Hat",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 142,
+      "order": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreie5garlsr6ixndtr2gro3bzghxr4jyzxg5dld52h57hyaz2andzve",
+  "name": "Pride Punk #272",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Messy Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 460,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Buck Teeth",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 78,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "2 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 1732,
+      "order": null
+    }
+  ]
+}

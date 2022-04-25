@@ -1,0 +1,32 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreiaksbtzsxlm362lhaczmj6zf5jaci76u4whbdmxs5g7fqitkffhca",
+  "name": "Pride Punk #417",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Straight Hair Dark",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 148,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "1 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 175,
+      "order": null
+    }
+  ]
+}

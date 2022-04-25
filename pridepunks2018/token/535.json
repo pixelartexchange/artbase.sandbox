@@ -1,0 +1,48 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreib3uictgfrozqdhnhjkdxsubplfaci4l6st75ye5f3t2snb2ywlxe",
+  "name": "Pride Punk #535",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mole",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 644,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Knitted Cap",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 419,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mustache",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 288,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "3 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2178,
+      "order": null
+    }
+  ]
+}

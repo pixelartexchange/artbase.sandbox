@@ -1,0 +1,56 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreigzznovobbeqafydizc7jev2vvi7ihgjcpee64jcfhz3mfn4xvgbi",
+  "name": "Pride Punk #588",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Black Lipstick",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 617,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Cigarette",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 961,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Big Shades",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 535,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Tassle Hat",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 178,
+      "order": null
+    }
+  ]
+}

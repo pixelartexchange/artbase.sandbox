@@ -1,0 +1,24 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreieo76e4igvxdejj66mx4qkuuc36cld463wchn2mxb5fdaa5xovywu",
+  "name": "Pride Punk #57",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Headband",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 406,
+      "order": null
+    }
+  ]
+}

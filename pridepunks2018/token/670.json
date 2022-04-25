@@ -1,0 +1,24 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreihqxsqg7llejtvkzlamnhdpr7a2ebnkceqnyqlae3t74ro6s7fdpa",
+  "name": "Pride Punk #670",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mohawk Thin",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 441,
+      "order": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreifd2wuoiyhk7j27bpgpndnwi5sxy7vyecz5kjwyqde4tjinoa2gey",
+  "name": "Pride Punk #424",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Muttonchops",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 303,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Regular Shades",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 527,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Hoodie",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 259,
+      "order": null
+    }
+  ]
+}

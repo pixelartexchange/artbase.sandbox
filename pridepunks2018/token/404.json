@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreibjvtlq4fr5kjszoj3welc6sq47vhkmxu5nxbrnewgh7onk7ysecu",
+  "name": "Pride Punk #404",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Cigarette",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 961,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Silver Chain",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 156,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Orange Side",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 68,
+      "order": null
+    }
+  ]
+}

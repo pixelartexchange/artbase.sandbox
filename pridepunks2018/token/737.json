@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreihenvfovdcgvgzbslnlhw7eyhxudjkbmwr2o44kavrcazh77k334y",
+  "name": "Pride Punk #737",
+  "attributes": [
+    {
+      "trait_type": "accessory",
+      "value": "Clown Eyes Green",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 382,
+      "order": null
+    },
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Stringy Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 463,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    }
+  ]
+}

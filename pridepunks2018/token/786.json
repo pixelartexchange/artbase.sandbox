@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreig5ifkau6t4lidpzq7okgzx4dgpjbdnomr72cig5ijk7p2sumithy",
+  "name": "Pride Punk #786",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Vampire Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 147,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Normal Beard",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 292,
+      "order": null
+    }
+  ]
+}

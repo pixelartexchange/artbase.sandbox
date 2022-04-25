@@ -1,0 +1,48 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreia3nugtv7gj4csg6bxckyykonsfqru4df65rsumvx6npjfh3budky",
+  "name": "Pride Punk #869",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Bandana",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 481,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Front Beard Dark",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 260,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Small Shades",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 378,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "3 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2178,
+      "order": null
+    }
+  ]
+}

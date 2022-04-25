@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreiazzwszv4l3lcmqdqg5bgcusrfqjtvf4drmwjtmyeqf2prd2yry3q",
+  "name": "Pride Punk #866",
+  "attributes": [
+    {
+      "trait_type": "accessory",
+      "value": "Clown Eyes Green",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 382,
+      "order": null
+    },
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Purple Lipstick",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 655,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Straight Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 151,
+      "order": null
+    }
+  ]
+}

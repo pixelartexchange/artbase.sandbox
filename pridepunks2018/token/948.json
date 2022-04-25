@@ -1,0 +1,32 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreifhppavifridgwuifeeqn7f2v3boxirdlnlwvdekh72vog3azj73e",
+  "name": "Pride Punk #948",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "3D Glasses",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 286,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Tassle Hat",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 178,
+      "order": null
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Moonbear #2138",
+  "image": "ipfs://QmSrKVqjj2EwKMpkKGxDBQx6nXAbcAKDaP3sJW32p47Pad/2138.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Maroon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gummy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Worrying"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Orange Sweater"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Green Sunglasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Snapback"
+    }
+  ]
+}

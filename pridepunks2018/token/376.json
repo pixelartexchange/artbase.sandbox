@@ -1,0 +1,32 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreibv5ju6iry6grh7crikyotjlkndimwzyy4oi3gnwyh7o7xsc44d2a",
+  "name": "Pride Punk #376",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Nerd Glasses",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 572,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Half Shaved",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 147,
+      "order": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreid5j4cafivg3w56vy3ztxfdn3x23skaqe7f62plbdfhurjazwdgkm",
+  "name": "Pride Punk #305",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Purple Lipstick",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 655,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "VR",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 332,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Blonde Bob",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 147,
+      "order": null
+    }
+  ]
+}

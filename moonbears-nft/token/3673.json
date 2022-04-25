@@ -1,0 +1,34 @@
+{
+  "name": "Moonbear #3673",
+  "image": "ipfs://QmSrKVqjj2EwKMpkKGxDBQx6nXAbcAKDaP3sJW32p47Pad/3673.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Innocent"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "White Vest"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bandana"
+    }
+  ]
+}

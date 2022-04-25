@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreidhot6rfjc6ijgjfhkioseoe225edmrhoa2b4knsjy2cl4igylmhm",
+  "name": "Pride Punk #168",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Blue Eye Shadow",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 266,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Silver Chain",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 156,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Blonde Bob",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 147,
+      "order": null
+    }
+  ]
+}

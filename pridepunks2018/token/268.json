@@ -1,0 +1,32 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreihlzafgdg74qvxxqkua7xizec3gmos73dcujt2z3yli4r7yjbxwju",
+  "name": "Pride Punk #268",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Knitted Cap",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 419,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "1 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 175,
+      "order": null
+    }
+  ]
+}

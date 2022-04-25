@@ -1,0 +1,56 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreicrqdolrjod6qjmvu7a5nl6guddp2gxn3l43h3bnu3efebigtcqlu",
+  "name": "Pride Punk #415",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mole",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 644,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Frown",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 261,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Small Shades",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 378,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Police Cap",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 203,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "4 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 746,
+      "order": null
+    }
+  ]
+}

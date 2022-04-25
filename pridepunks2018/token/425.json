@@ -1,0 +1,48 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreigxu6wsiijcv3625bxgko2mthwynpedv2i3diugl4f3foeumgvqsa",
+  "name": "Pride Punk #425",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Horned Rim Glasses",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 535,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Messy Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 460,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Black Lipstick",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 617,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "3 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2178,
+      "order": null
+    }
+  ]
+}

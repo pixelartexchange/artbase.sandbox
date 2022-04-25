@@ -1,0 +1,32 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreiaz5xh5nehsqtj3x5aano2glarsvf7v4yvejlzg7n73jb4zicexmi",
+  "name": "Pride Punk #799",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Mole",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 644,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Fedora",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 186,
+      "order": null
+    }
+  ]
+}

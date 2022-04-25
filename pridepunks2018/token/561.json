@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreial4h7blogc7j4ijmflcsyebprqortx7qfxyfjdnmbaox66kboqyu",
+  "name": "Pride Punk #561",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "3D Glasses",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 286,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Top Hat",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 115,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "2 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 1732,
+      "order": null
+    }
+  ]
+}

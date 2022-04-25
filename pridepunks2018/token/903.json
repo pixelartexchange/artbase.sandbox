@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreiazln6jdkm5wub7dv5jvnhk4l36wzxh4ps3wunpvvdzefzhjnmfyu",
+  "name": "Pride Punk #903",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Cap",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 351,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Horned Rim Glasses",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 535,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Medical Mask",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 175,
+      "order": null
+    }
+  ]
+}

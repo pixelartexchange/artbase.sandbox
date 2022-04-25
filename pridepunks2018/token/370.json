@@ -1,0 +1,48 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreihetzbmt5i4jvhaityvbxjoiud7iudaba5nd4troilia7uxdoef4i",
+  "name": "Pride Punk #370",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Peak Spike",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 303,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Cigarette",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 961,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Small Shades",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 378,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Rosy Cheeks",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 128,
+      "order": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreiaubqjq3n3nxi3tdbzsiqx6wvtnlqh36ubzuaa7r5zmny4nfxn7aq",
+  "name": "Pride Punk #910",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Chinstrap",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 282,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Headband",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 406,
+      "order": null
+    }
+  ]
+}

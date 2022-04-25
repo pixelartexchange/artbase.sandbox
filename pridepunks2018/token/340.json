@@ -1,0 +1,56 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreia5oqnrptvzjmv2gyqf2lw75qlnldgwd4qsgaasgvjpgzedcrgezm",
+  "name": "Pride Punk #340",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Muttonchops",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 303,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Headband",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 406,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "3D Glasses",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 286,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Medical Mask",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 175,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "4 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 746,
+      "order": null
+    }
+  ]
+}

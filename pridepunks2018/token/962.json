@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreifmv4kcde36v5lqoapa2aqdtwntu2w2iog4p22s7u6vx7d4kpzy3i",
+  "name": "Pride Punk #962",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Frown",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 261,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Eye Mask",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 293,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Police Cap",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 203,
+      "order": null
+    }
+  ]
+}

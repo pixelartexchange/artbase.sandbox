@@ -1,0 +1,24 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreibhvcvywq7dgcr3crtsrznf7ftk7zmpmmbmwdbal5prtuhzlezlmu",
+  "name": "Pride Punk #957",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Goat",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 295,
+      "order": null
+    }
+  ]
+}

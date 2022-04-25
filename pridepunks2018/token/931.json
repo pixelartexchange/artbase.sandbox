@@ -1,0 +1,24 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreid3eusuoj2ivpvcrt7yev7gugkhshwo72a2i3hqj2ndaqzfn7gbre",
+  "name": "Pride Punk #931",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Pilot Helmet",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 54,
+      "order": null
+    }
+  ]
+}

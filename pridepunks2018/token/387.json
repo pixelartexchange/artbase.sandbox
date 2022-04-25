@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreih45cgfjlmawosvolv4wwmtc6lmupjn4vyo4uijkxnhfr4cb2q3rm",
+  "name": "Pride Punk #387",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Gold Chain",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 169,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Cap Forward",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 254,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Pipe",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 317,
+      "order": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreicohinqcg7nt5aiwds76zr2zx5qe755wwkcu3is77fe6wjv6mux4i",
+  "name": "Pride Punk #372",
+  "attributes": [
+    {
+      "trait_type": "accessory",
+      "value": "Cap Forward",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 254,
+      "order": null
+    },
+    {
+      "trait_type": "type",
+      "value": "Ape",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 24,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "1 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 175,
+      "order": null
+    }
+  ]
+}

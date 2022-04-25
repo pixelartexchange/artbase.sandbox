@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreidagfeik47vcug4gu53acemuvh7mvsf3jrpqw6ii4alfbxrxknnbq",
+  "name": "Pride Punk #322",
+  "attributes": [
+    {
+      "trait_type": "accessory",
+      "value": "Clown Eyes Green",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 382,
+      "order": null
+    },
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Black Lipstick",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 617,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Pink With Hat",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 95,
+      "order": null
+    }
+  ]
+}

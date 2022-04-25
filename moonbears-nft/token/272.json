@@ -1,0 +1,34 @@
+{
+  "name": "Moonbear #272",
+  "image": "ipfs://QmSrKVqjj2EwKMpkKGxDBQx6nXAbcAKDaP3sJW32p47Pad/272.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyan"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Snowy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Red Sunglasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    }
+  ]
+}

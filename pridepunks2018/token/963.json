@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreifcqzpwzw2x4hqxxinabwaliidbyzjbeahkejph34hgrmo2cgjq7a",
+  "name": "Pride Punk #963",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Female",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 3840,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Cap",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 351,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Eye Mask",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 293,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "2 attributes",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 1732,
+      "order": null
+    }
+  ]
+}

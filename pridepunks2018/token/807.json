@@ -1,0 +1,40 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreidx2ptnoxoefpfjxzdnc6galf6clzhodsrmzjef5dubevqt6anqcm",
+  "name": "Pride Punk #807",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Cap",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 351,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Earring",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 2459,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Handlebars",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 263,
+      "order": null
+    }
+  ]
+}

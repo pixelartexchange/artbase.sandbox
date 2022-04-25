@@ -1,0 +1,32 @@
+{
+  "description": "The first Punk Derivative",
+  "external_url": "https://www.pridepunk.xyz",
+  "image": "https://ipfs.io/ipfs/bafkreifzrxv2juagjq4l4gwn3xpyzitz4cgdm2toii44rdizjwkj3d2dh4",
+  "name": "Pride Punk #650",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "Male",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 6039,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Messy Hair",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 460,
+      "order": null
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Big Beard",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 146,
+      "order": null
+    }
+  ]
+}

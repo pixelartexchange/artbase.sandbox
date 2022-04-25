@@ -1,0 +1,34 @@
+{
+  "name": "Moonbear #495",
+  "image": "ipfs://QmSrKVqjj2EwKMpkKGxDBQx6nXAbcAKDaP3sJW32p47Pad/495.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fuchsia"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cyan"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Purple T Shirt"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Red Sunglasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "None"
+    }
+  ]
+}
