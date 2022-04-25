@@ -25,7 +25,7 @@
 <!-- moonbird style -->
 
 34x34px Moonbears - 4000 max. <br>
-![](i/moonbears-strip.png)
+![](i/moonbears-nft-strip.png)
 
 42x42px Moonbirds - 10 000 max.  <br>
 ![](i/proof-moonbirds-strip.png)

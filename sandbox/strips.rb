@@ -24,10 +24,6 @@ strip = gen_strip( "moonbears-nft", offset: 1,
 strip.save( "./tmp/moonbears-nft-strip.png" )
 
 
-
-
-__END__
-
 strip = gen_strip( "binaryapes", offset: 1 )
 strip.save( "./tmp/binaryapes-strip.png" )
 
