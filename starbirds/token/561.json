@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #561",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/561.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Red Fighter"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Eyes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy"
+    }
+  ]
+}

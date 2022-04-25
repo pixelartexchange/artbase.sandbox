@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #25",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/25.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Grey Fighter"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Diamons Necklace"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Shades"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Gold"
+    }
+  ]
+}

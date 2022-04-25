@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #643",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/643.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Red Scarf"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Indian"
+    }
+  ]
+}

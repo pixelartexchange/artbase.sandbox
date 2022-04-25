@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #1802",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/1802.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Grey Protector"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Orange SB"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Moon"
+    }
+  ]
+}

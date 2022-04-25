@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #550",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/550.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Clouds"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Brown Royal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Green SB"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard Hat"
+    }
+  ]
+}

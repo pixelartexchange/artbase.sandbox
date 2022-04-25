@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #1110",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/1110.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Space"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Blue Fighter"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Ship"
+    }
+  ]
+}

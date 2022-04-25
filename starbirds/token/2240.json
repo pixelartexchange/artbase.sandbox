@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #2240",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/2240.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Grey Fighter"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Green Scarf"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Shades"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyborg Antlers"
+    }
+  ]
+}

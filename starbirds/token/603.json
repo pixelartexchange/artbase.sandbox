@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #603",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/603.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Blue Fighter"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue scarf"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot Antenna"
+    }
+  ]
+}

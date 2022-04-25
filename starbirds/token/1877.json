@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #1877",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/1877.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Clouds"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Grey Scout"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunset Shades"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Star"
+    }
+  ]
+}

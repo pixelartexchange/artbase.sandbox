@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #345",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/345.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Blue Protector"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue scarf"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Eyes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Bucket"
+    }
+  ]
+}

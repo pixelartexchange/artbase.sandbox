@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #304",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/304.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Red Royal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Red SB"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Eyes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard Hat"
+    }
+  ]
+}

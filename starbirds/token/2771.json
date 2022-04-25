@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #2771",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/2771.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Purple Fighter"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Orange SB"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Vipers"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard Hat"
+    }
+  ]
+}

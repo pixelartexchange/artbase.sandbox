@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #1424",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/1424.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Grey Royal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Shades"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Robot Antenna"
+    }
+  ]
+}

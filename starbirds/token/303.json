@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #303",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/303.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Clouds"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Purple Scout"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Moon"
+    }
+  ]
+}

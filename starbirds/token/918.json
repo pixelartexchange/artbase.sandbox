@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #918",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/918.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gradient"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Black Royal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Green Scarf"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Micky Dee"
+    }
+  ]
+}

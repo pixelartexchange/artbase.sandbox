@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #370",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/370.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Grey Fighter"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Green Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wifi"
+    }
+  ]
+}

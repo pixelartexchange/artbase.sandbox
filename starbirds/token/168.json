@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #168",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/168.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Grey Royal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cyber Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hair"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #901",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/901.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Brown Scout"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "SB Tee"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beer Hat"
+    }
+  ]
+}

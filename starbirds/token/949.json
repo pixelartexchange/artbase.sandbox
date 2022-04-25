@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #949",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/949.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Purple Scout"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Red SB"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beer Hat"
+    }
+  ]
+}

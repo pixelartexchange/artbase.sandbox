@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #1942",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/1942.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Space"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Blue Fighter"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Derp"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard Hat"
+    }
+  ]
+}

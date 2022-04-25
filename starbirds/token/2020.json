@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #2020",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/2020.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Grey Royal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Gold chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Vipers"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Hat"
+    }
+  ]
+}

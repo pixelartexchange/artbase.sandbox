@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #1927",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/1927.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gradient"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Black Protector"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Green SB"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Star"
+    }
+  ]
+}

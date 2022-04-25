@@ -1,0 +1,27 @@
+{
+  "name": "Starbirds #1591",
+  "description": "Because the moon wasn't enough. ⭐",
+  "image": "ipfs://QmeE1i1LpG6zjHKZSGSDcNRRhjDHGNbvZJjuJ5QoSyhPjU/1591.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gradient"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Black Scout"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Gold chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Bucket Hat"
+    }
+  ]
+}
