@@ -12,6 +12,11 @@
 24x24px Punk Ape Pixel Club (PAPC) - 5555 max.  <br>
 ![](i/papc-punk-ape-pixel-club-strip.png)
 
+
+24x24px Noun Punks - 9969 max. <br>
+![](i/nounpunks-strip.png)
+
+
 23x23px Pride Punks - 9640 (?) max. <br>
 ![](i/pridepunks2018-strip.png)
 

@@ -16,6 +16,10 @@ def gen_strip( slug, offset: 0, width: 24, height: 24 )
 end
 
 
+strip = gen_strip( "nounpunks", offset: 1 )
+strip.save( "./tmp/nounpunks-strip.png" )
+
+
 strip = gen_strip( "eightbitme", offset: 1 )
 strip.save( "./tmp/eightbitme-strip.png" )
 
