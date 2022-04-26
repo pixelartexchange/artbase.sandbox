@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #1381",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/1381",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 2"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Marge"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Purple"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    }
+  ],
+  "token_id": 1381,
+  "image": "ipfs://QmT9W8kt978FvtewbxsGQcavEA2mrNwu2tRBSMEWydv37o",
+  "svg": "ipfs://QmZ3AMJyK6WnsEuYRurovS77dtV8cf4LYRnhUVjFHDZWEa",
+  "full_image": "ipfs://QmWNZnQ9YFUxQu9ZoDhXb5wfc12rKVPgvJFJLBGg8X6gwb",
+  "full_svg": "ipfs://QmU7ozucGHUwoovt9CxTTEuHcnxnMBjoqsF7cgf44vwmBS"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "EightBit #7234",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/7234",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 2"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Chukka"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Tapered Joggers"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "White Green Layers"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Scholar"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Common"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue Green"
+    }
+  ],
+  "token_id": 7234,
+  "image": "ipfs://QmRXDXo5gJhwMxKHXRYfexhgxLZkKymDWrnFUFjMp76zig",
+  "svg": "ipfs://QmXK3wZk74SU8s4KXSohbZoZhzPVDihFyrieekXap5UN6n",
+  "full_image": "ipfs://QmVwbY4CbkpsVXwRAzjQSx9frMQgCe2Bjo4Bvn7np778TD",
+  "full_svg": "ipfs://QmaK2mDoAvQNizpvK8dwE8Pkj36KMfmZBpjL57hCamhi3P"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "EightBit #3838",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/3838",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 4"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafer"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Skinny Female"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Louis Button"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Party in the Back"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Common"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    }
+  ],
+  "token_id": 3838,
+  "image": "ipfs://QmY9jhnQAihNEvJ56LJLDXwuRdC3SkshFKkh7GgNaz7ExN",
+  "svg": "ipfs://Qme9GaYCg2jTejaT4dSYEyYToAC35M2NbycEmHTKjtrKP9",
+  "full_image": "ipfs://QmeVypvCmywbNUqwhVTJUH2gmnBeaMgPy6sdnYQaHnefry",
+  "full_svg": "ipfs://QmVs6KZFTpe97SK3iZMPLCDKfvTDJ8FrwwbqrZU3e7RzmL"
+}

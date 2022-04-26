@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #1608",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/1608",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 3"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Ringo"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Blue"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Green"
+    }
+  ],
+  "token_id": 1608,
+  "image": "ipfs://Qmda25yu6j4qzAoWNYRFSvrN1RJ3kYYAVRBrTxYFCWmqVT",
+  "svg": "ipfs://Qmb5hPoFQgtQJzsmqahNzjYVUoqVwRmaVe4RmBHZYtaigN",
+  "full_image": "ipfs://QmS6PjitjM1xiMG658S91TrF2e6LbRRpHVRacsvWefC72L",
+  "full_svg": "ipfs://Qmbb8LzeZwqksXAXZnTbmckHtKGpbux3unvk7mAodmfxhJ"
+}

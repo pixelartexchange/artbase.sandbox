@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #175",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/175",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 3"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Li'l Socks"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Light Gray"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Overalls"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sue"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Dirty Blonde"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    }
+  ],
+  "token_id": 175,
+  "image": "ipfs://QmaX7yVDvCtea6NZz82BtvtBEgws3EYCujQmfDmPNFsgJ1",
+  "svg": "ipfs://QmRbyzueeECtfPYokpg4jkojkDNpJ7SCb355svJRwDcCB5",
+  "full_image": "ipfs://QmNtpJ3Hb59pZZcm65Q3GgdU6traF6F3zoRuPKCudZUQ7H",
+  "full_svg": "ipfs://QmTFvEvNw2iwagP9p4y1uER6R77yEupi3wDVwaS1vyNWaw"
+}

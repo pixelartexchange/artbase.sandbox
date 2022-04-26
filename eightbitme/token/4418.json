@@ -1,0 +1,72 @@
+{
+  "name": "EightBit #4418",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/4418",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 2"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Pro Star"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Capris"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Crew Neck Tee"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "Pitt"
+    },
+    {
+      "trait_type": "Jacket Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "The Doc"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Epic"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue Green"
+    },
+    {
+      "trait_type": "Perk",
+      "value": "💆"
+    }
+  ],
+  "token_id": 4418,
+  "image": "ipfs://QmNjidosDqEia8n7J3diCqWsodZGc3bKxhU69fAqn3fDE6",
+  "svg": "ipfs://QmSHLZscpxbjJ85VJrjPsGYcjtDCWdRacN9YKoGPFYy8jn",
+  "full_image": "ipfs://QmW3m19JPzygTXZRArBvze5BS565EfrupZe6KS4hk1bLZR",
+  "full_svg": "ipfs://QmT8SVD3dg4azbjxpaS6jf3HJxzZw28bjKbCVapr6H6h4q"
+}

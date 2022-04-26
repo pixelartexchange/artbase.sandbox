@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #8712",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/8712",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 4"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Ted Lasso"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Purple"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    }
+  ],
+  "token_id": 8712,
+  "image": "ipfs://QmU45VbSeG1NjfdAUaj6w9F12CTzABjgGd72Q2M23oHz4J",
+  "svg": "ipfs://QmUxFcxmPhwE8v9cYuwUumz3hbyah6W8uqSEyRfeg3Sfch",
+  "full_image": "ipfs://QmYs2iW6A2rfXT5pnEr1TuqXckAi7v7qB5tjcfxepRvzzJ",
+  "full_svg": "ipfs://QmUfcuynHEVGBFwzpBRgZojCbMwSEk7M5AbHn55GaQ31Kz"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #1229",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/1229",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "George"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Purple"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Green"
+    }
+  ],
+  "token_id": 1229,
+  "image": "ipfs://QmXVJzMfq9dEjKWNrS9X2ES5cfuDDuTBHaV3Z9Gncn8jsi",
+  "svg": "ipfs://QmSdx8yLTZU77CYruZpKd2zuBRUoznCz8rk6AxQLBgLfzK",
+  "full_image": "ipfs://QmWmxzRo6nFGViVHGpPeE4LBrzppnRV66YMCB5o5kW9PCR",
+  "full_svg": "ipfs://QmanPFB2vwYkneStCsZxpwgjvLvGMJpEMAkhmzfNcnMUVm"
+}

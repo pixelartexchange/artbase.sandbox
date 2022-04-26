@@ -1,0 +1,60 @@
+{
+  "name": "EightBit #4060",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/4060",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 3"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Chukka"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Trunks"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Pocket Button Up"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bieber"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Common"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    }
+  ],
+  "token_id": 4060,
+  "image": "ipfs://QmYir1yWPtbTQcdso1woXFkYQ9Ch6bHtUwnFUERzUZUV4F",
+  "svg": "ipfs://QmRP5efHeKgqqVJm48HGBBb6SGpb3LmaCeXCZiiesmP74D",
+  "full_image": "ipfs://QmVb6Sc3xGGpAY5Jhz89jdavshWggDJGknZuCS73ezW5TQ",
+  "full_svg": "ipfs://QmcALQJRCBHQfqfrSRBFx9mTqixSrYqnkQcoxNmCRbjjvr"
+}

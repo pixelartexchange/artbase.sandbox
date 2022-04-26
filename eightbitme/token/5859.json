@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #5859",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/5859",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 5"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Astronaut"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Purple"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    }
+  ],
+  "token_id": 5859,
+  "image": "ipfs://QmQAegSa6PEwjaapmqXR9evHQyWx313WSCYZhirwzwNxGc",
+  "svg": "ipfs://QmexkjbsctcZy6YfA5Lb63XahstSTsMmKDMeUbKodmb7FC",
+  "full_image": "ipfs://QmNw73HvfgYUBDh9MvTmSgRSqzG3TT3M2jpKPngY3ppkFK",
+  "full_svg": "ipfs://QmceJ8d4BAH9NucnR3aWW5NN5YAVfoteTaA3t63TBXQZxb"
+}

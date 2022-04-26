@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #8800",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/8800",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 5"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Female Ghost"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Blue"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Red"
+    }
+  ],
+  "token_id": 8800,
+  "image": "ipfs://QmX25snkegYczJL4YBPdLDq6NSSiJXwgNdstv6dT5mgTZT",
+  "svg": "ipfs://QmX3ujpSbo72y8YZW6kr4HkaDzgM5ENkbeJLQudmvW69Tq",
+  "full_image": "ipfs://Qmag5NtBSr15n4NSucNmfVSiitriKPsSSLFnkV5NRXnWcu",
+  "full_svg": "ipfs://Qmcf5E76B9pXUM1xVYiWPsZTRFnPuX179zCN619h8nvF1H"
+}

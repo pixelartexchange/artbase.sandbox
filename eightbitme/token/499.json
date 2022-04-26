@@ -1,0 +1,36 @@
+{
+  "name": "EightBit #499",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/499",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Hotdog"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Purple"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Perk",
+      "value": "🌭"
+    }
+  ],
+  "token_id": 499,
+  "image": "ipfs://QmUaB5VNUW7LmiBftWrEMCt5MAaYvq7qiPnvirRnvqdoKL",
+  "svg": "ipfs://QmNQY6wxcFzuuNYBU4K6rE3K2vfMNj56Wvzv7hb1ytzs9N",
+  "full_image": "ipfs://QmRz7zv4c8wjTbgGApbGgy9Qtbm1Mke1mCabeG7x41WpQj",
+  "full_svg": "ipfs://QmWiwza1qqczUL2T6HAs1ny7YcPjcrcugjp4GLGjofBxmw"
+}

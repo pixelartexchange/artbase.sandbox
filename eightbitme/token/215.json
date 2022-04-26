@@ -1,0 +1,64 @@
+{
+  "name": "EightBit #215",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/215",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 5"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Basic Shoes"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Cuff Enuff"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Pocket Button Up"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Honest Abe"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Carson Daily"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Common"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Green"
+    }
+  ],
+  "token_id": 215,
+  "image": "ipfs://QmXt6kUdkmLe67k3EhVGjWfKiYniYtBYs6WuFABuN91944",
+  "svg": "ipfs://QmWsD1Hgt3tD7J61Ktcb8xBcyiF2X2EXvfhaF3XpoQAbky",
+  "full_image": "ipfs://Qmf3qCKE7HFC95sDiXTCAuJVuNsqY7GrN2J77Nzt7et1C7",
+  "full_svg": "ipfs://QmR5wczvpz1QdNDzgJYha8TCknVfcpdxBDe2MQh6uX232n"
+}

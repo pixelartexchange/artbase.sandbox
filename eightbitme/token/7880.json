@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #7880",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/7880",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 4"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Wolf Man"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Purple"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    }
+  ],
+  "token_id": 7880,
+  "image": "ipfs://QmSMBf1xbuCXQD58Am6VFSQei3FLQ2z2ZFqQ5UQeRSMgbC",
+  "svg": "ipfs://QmU7pw363EZA3HPE2LCvmvcFSRSQctNXX5dz2NWcnPxeXg",
+  "full_image": "ipfs://QmWP4zKdF2svNsQHTDNoaDEroR2nu3JdSjBLiDCe7UiUXf",
+  "full_svg": "ipfs://QmRbfyXCFJ5u2xkoXhrdb98aWdHm4kdaTaE35eXeA8J5n7"
+}

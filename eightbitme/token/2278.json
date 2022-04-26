@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #2278",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/2278",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 5"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Chucky"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Blue"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    }
+  ],
+  "token_id": 2278,
+  "image": "ipfs://QmSrUj1otPKNXUccbaTJnYS9TtkfBcRR2Kpx4LazBzPd8L",
+  "svg": "ipfs://QmUe6hKr3zK5DxX3fxm23ZbvGZGVn8PBW9Ad19ftgmszjt",
+  "full_image": "ipfs://QmaLsgno7ox2uVaip6TnTMgMQp7sRBB8DCeWCQLEwc6wAt",
+  "full_svg": "ipfs://QmY4gnYjRwnBndDZqdc9myk5ADdaEu1FxjtKUp91S1YySs"
+}

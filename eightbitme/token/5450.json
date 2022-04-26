@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #5450",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/5450",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 5"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Rosie The Riveter"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Purple"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Red"
+    }
+  ],
+  "token_id": 5450,
+  "image": "ipfs://QmZXUDvmYb3Lg4BFk5oudjzRxSYZ4GBKwFDLnXPd9NQtPt",
+  "svg": "ipfs://Qmau9CeC5EJdVdYhyWFP9UFZrXoaLJWGUHAbLYgsngfdN8",
+  "full_image": "ipfs://QmY7FTyVCeK5PcTpN3o9daKagQHTPu3Y75qjghzL17rRrV",
+  "full_svg": "ipfs://QmVk9shASWL2hjaSvrmU3fXKXZ2Tw6qDUHfN7zLrR9kbRB"
+}

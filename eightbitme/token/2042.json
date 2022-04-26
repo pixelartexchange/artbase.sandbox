@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #2042",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/2042",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Michael Myers"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Purple"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Red"
+    }
+  ],
+  "token_id": 2042,
+  "image": "ipfs://QmTtPKqAZ7CbXR9AgvFnRbzZGMwqGFQoDwULH72JszMbA1",
+  "svg": "ipfs://QmPs4nXjhArmD1jjG6fxS297XLtjktvUwT1snJPor3P7sM",
+  "full_image": "ipfs://QmTe17c2vjqtcc6nmZyEGGA4NMf7qP1KeR2G5RiWTQoRTH",
+  "full_svg": "ipfs://QmU9rCd96tatZEXmCBWCNkws4wnwqxwnVB9asbtVFRzUxx"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #4769",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/4769",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 3"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Freddie Mercury"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Blue"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    }
+  ],
+  "token_id": 4769,
+  "image": "ipfs://QmdCH289pApbaTFLpsKTivXKhEaw1ZvqajdnhBF8GDAEHs",
+  "svg": "ipfs://QmYT79J4wSYrbw6vdkyw8UHhqp4zRhqVHUF2SYzWt38poi",
+  "full_image": "ipfs://QmRfRYs8kkYGnPpsi5rPt1QzmYVJnDKgTBAhDqcy76Cv8d",
+  "full_svg": "ipfs://QmWgpoGQNBMn6ABPBRszAo5Q7DPjYuvUFBdC661DPyfTNe"
+}

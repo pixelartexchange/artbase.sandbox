@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #5012",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/5012",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Buckle Down"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Bridesmaid"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Stacy"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    }
+  ],
+  "token_id": 5012,
+  "image": "ipfs://Qmb5h83SBESFDRtoqHGtK32qpXRVDDyvSij9zejiur6JPC",
+  "svg": "ipfs://QmTVSqWv4EGFendTuds1MGv4R33sgstERw1T9kpVd4aySU",
+  "full_image": "ipfs://QmTcmU1TR9H3jQWw6So3p8CBDmM5dfwVEM8Ng15qfa9SA5",
+  "full_svg": "ipfs://QmeVGRaZHbicaWhi6KzJm7p2BN4m47tEaU4w3cCk9vsEh4"
+}

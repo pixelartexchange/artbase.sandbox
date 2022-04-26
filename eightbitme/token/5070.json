@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #5070",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/5070",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Bright Sneaks"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Lacey"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cleo"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue Green"
+    }
+  ],
+  "token_id": 5070,
+  "image": "ipfs://QmW2mxHASByGHWcPaXDanSaTyDMC7JjTib1WcxMpp77jeh",
+  "svg": "ipfs://QmeRXGGZsh3XMkoXG68Xc3wEXsjwfmLgbvs6SdJMnGSsTK",
+  "full_image": "ipfs://QmdaTAe9ZpSgitHYirwQrXdkswXm21qtsBGBgjBHP35gW5",
+  "full_svg": "ipfs://QmNYWtk4aj92pVNvj2u7c3hYvXuvCL25TVycuLPbv2HcWh"
+}

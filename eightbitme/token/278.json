@@ -1,0 +1,60 @@
+{
+  "name": "EightBit #278",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/278",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 2"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Basic Shoes 2"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "BF"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "In the Hood"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Whoa Nelly"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Dirty Blonde"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Common"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Green"
+    }
+  ],
+  "token_id": 278,
+  "image": "ipfs://QmdUMsTMjzjeiJu5EDQZEFqRbFPp375QAMZ7pFato8R9bw",
+  "svg": "ipfs://QmPGHyvu4c157mnuHD1csbPstbp3wqLz9uMLpbfNBKdZjT",
+  "full_image": "ipfs://QmSdd46VM2KKxdyV7HEmKXGv1DBA9Cpg6FqepEe4Be3sNd",
+  "full_svg": "ipfs://QmWJ33c7xSX3X6Tgo16HCgiHMduW8ZcqdLpzGrnn3zAMj3"
+}

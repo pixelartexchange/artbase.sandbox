@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #263",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/263",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "High High Heels"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Sleeveless in Seattle"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Betty"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Green"
+    }
+  ],
+  "token_id": 263,
+  "image": "ipfs://QmPLjtwjikL6BJpnLeG6jSD4EaZHu1fooUx8P29vTZ5grK",
+  "svg": "ipfs://QmcFikyJxFD5rkHxJmD5yPd7BuRoZg6KGTcafwwnwNsuKm",
+  "full_image": "ipfs://QmPmsjQicb9UxDA8EybFJZTkQgLkEB2bwoMVMCCeSRZ65h",
+  "full_svg": "ipfs://QmSbqK1o7vvuegBhRA4H7ZCB7aP8wxpTEHvLAfLpc4Yuby"
+}

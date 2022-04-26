@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #4380",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/4380",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 2"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Seinfeld"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Blue"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    }
+  ],
+  "token_id": 4380,
+  "image": "ipfs://QmQM5ykFREtB2jX3iqtzq8CtMGUvCLBma5YBT4EfHt5iKb",
+  "svg": "ipfs://QmU3oeZpCR3Hg9DeNweLBuyqD851VmmCENuY4ZAxN7cQiD",
+  "full_image": "ipfs://QmTX2sw31Z6itfuaSq3iiqQcpUDo28TuGydaYWThHooNhA",
+  "full_svg": "ipfs://QmNfVxpng9NYRjGCUoLdUgM7V6bCfKLcGjZaiu7iiLmXsF"
+}

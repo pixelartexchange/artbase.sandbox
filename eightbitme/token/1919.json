@@ -1,0 +1,72 @@
+{
+  "name": "EightBit #1919",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/1919",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 2"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Big Sneaks"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Capris"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Western"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "Cardi Open"
+    },
+    {
+      "trait_type": "Jacket Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Carson Daily"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Dirty Blonde"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Epic"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Perk",
+      "value": "👟"
+    }
+  ],
+  "token_id": 1919,
+  "image": "ipfs://QmcsdxnYYnd6r68AT4CB9FT73SaZmQuVA43pdF35Fm8FSf",
+  "svg": "ipfs://QmSAzMhsrPbSpmzk4XRnK5A4gUKD8rt99rd6zGFRDex3Eg",
+  "full_image": "ipfs://QmNoCZr6gUg6L6xa9C5eqHaPrRrQjvtfae7BiFxpKA788s",
+  "full_svg": "ipfs://QmYfotpw6bkDvwKNGjWc14UfMaf3fqTjdZi4YvJr6Aur4q"
+}

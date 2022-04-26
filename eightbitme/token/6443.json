@@ -1,0 +1,80 @@
+{
+  "name": "EightBit #6443",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/6443",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 2"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Slides"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Baggy"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Light Gray"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Zip Up Hoodie"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "The Chaperone"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Moe"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Dirty Blonde"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "BB Snapback"
+    },
+    {
+      "trait_type": "Hat Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Clubmaster"
+    },
+    {
+      "trait_type": "Glasses Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue Green"
+    }
+  ],
+  "token_id": 6443,
+  "image": "ipfs://QmWMmtUnFzUczwrNT3zwAQ4y5LrJqj9MJmu6XSmwmCbPNp",
+  "svg": "ipfs://QmW7ur1v9r2RMWanCwGcLvf3X4UTumixdfoeEFuqr147Xi",
+  "full_image": "ipfs://QmPp3XWJ8uPJZoKvaGirM4V6iAh4xeBtPo6yvgNCyFFmo2",
+  "full_svg": "ipfs://QmNTbggTcvnnry92ze74sjCqjeH1BGVbRCwAGPJVnH8ZVz"
+}

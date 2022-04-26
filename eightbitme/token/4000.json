@@ -1,0 +1,60 @@
+{
+  "name": "EightBit #4000",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/4000",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Take a Hike"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Lo Cuff"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Vee Tee"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Party in the Back"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Common"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    }
+  ],
+  "token_id": 4000,
+  "image": "ipfs://QmPVFMCLQpUgxeY7G2JdV6UCzar4wP41txdMvbaawxiS1A",
+  "svg": "ipfs://QmPMMrqEaV1CfhZwUTomvRwt93v6EKGDZ83u9fKFqJNZZN",
+  "full_image": "ipfs://QmbthyAv25ogWbKrWqRqozpbv2EPtwZPCuJkVRWNLxix6z",
+  "full_svg": "ipfs://QmfSrvBvRJ2pxDLvHNtAPk479LsKdsp1LJTfhGEnUUsLsS"
+}

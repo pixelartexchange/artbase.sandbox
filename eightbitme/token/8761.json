@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #8761",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/8761",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 5"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafer"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "The Biz"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cleo"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue Green"
+    }
+  ],
+  "token_id": 8761,
+  "image": "ipfs://QmVUYnpG8BeJQ4oo36RyXkwMWs77bDKx6oUVYWChNwbHhV",
+  "svg": "ipfs://QmXL3UFBVWGuVt3n33UT7C79ETHnkodauogUNKtmxmprf2",
+  "full_image": "ipfs://QmTh61y2UikzzTcg2rd43EuJXgDpSdkCtc6MXb8iHaLN5e",
+  "full_svg": "ipfs://QmcaAf4WXV1wLskgrxUj9ZX6BryBxe2YW6TeARCsFPtSxt"
+}

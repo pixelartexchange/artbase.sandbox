@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #3775",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/3775",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 5"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Gnome"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Blue"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    }
+  ],
+  "token_id": 3775,
+  "image": "ipfs://QmNw7kRXvrfcyaJaxZroEeJ7VUyG4H8WiFdL73FhdEibhL",
+  "svg": "ipfs://QmPAzyTcpGQCALzBxqzGKE87HRx6aKoVMVipeFDpwhLk3Q",
+  "full_image": "ipfs://QmQbSPbwcdJb1c8jU5jKV5MsFqGZSxvZVNu48BW3P9iNbn",
+  "full_svg": "ipfs://QmZcDeaEEFEBXA7yoL2EsHR556yDHJ9Vtphh4g2wpnkXdW"
+}

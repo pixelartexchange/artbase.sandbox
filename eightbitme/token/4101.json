@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #4101",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/4101",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 4"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "OG Amadeus"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Purple"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    }
+  ],
+  "token_id": 4101,
+  "image": "ipfs://QmaTiJepMw5USb25rMu3XrosFwr5BBfbUgSy51mogaDeS3",
+  "svg": "ipfs://QmTfyUPyE2EKzqZaNXyYr5GbYXSgJh3iwmFUv4V2huMrP8",
+  "full_image": "ipfs://QmWgdQHjp1GeBQ6E3ifs7AFEnNy4PztNKDXQQ8aXPrqQca",
+  "full_svg": "ipfs://QmNREf8o4HcWRfJj6bhFHqtzLHPg7C4Z1WmWG6FnGdzHru"
+}

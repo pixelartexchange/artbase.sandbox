@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #6709",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/6709",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Bright Sneaks"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Demarzi"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Squid Gamer"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Epic"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue Green"
+    }
+  ],
+  "token_id": 6709,
+  "image": "ipfs://QmNSwdHxWYdA4GCoCVHC36PUVJqx665CZgvvehkgfBBLGa",
+  "svg": "ipfs://QmPvkKPvcQtqSfBsWT32Pw3NyGoS4Asb1uYP656fNvaXnX",
+  "full_image": "ipfs://QmeaKJJC6NRV7bHgcbW5cr2UYCp6iH9gZ3Nfk6gMTu6U8W",
+  "full_svg": "ipfs://QmNuLv4ZCY2ESS6ZCbvZHCMx2jhdfYgeXabCLxjFVsDD6n"
+}

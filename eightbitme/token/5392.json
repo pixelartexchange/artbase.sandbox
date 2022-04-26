@@ -1,0 +1,60 @@
+{
+  "name": "EightBit #5392",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/5392",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 2"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Slips"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Skinny Male"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Basic Tee"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Carson Daily"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Common"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    }
+  ],
+  "token_id": 5392,
+  "image": "ipfs://QmcDD878zQBcF9P3v2aKCkVE7yRbZcqWiu2D2r71MHvUFb",
+  "svg": "ipfs://Qmawvz48aWRswT32FuS6PNtrzp4S4o5mNK8AMVwhFHsWQf",
+  "full_image": "ipfs://QmPZxUXTRPkQoeAdmRZYATR2Hs3p1eGoQtYMjCos9VRM2Q",
+  "full_svg": "ipfs://QmRomLEFN2DQaXtByPCfZvEMKMk53BxtKhNei6CRUJqFny"
+}

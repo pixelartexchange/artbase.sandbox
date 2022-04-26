@@ -1,0 +1,68 @@
+{
+  "name": "EightBit #2049",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/2049",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 5"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Pro Star"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Trunks"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Ringer Tee Male"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "Seinfeld Jacket"
+    },
+    {
+      "trait_type": "Jacket Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Boomhauer"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    }
+  ],
+  "token_id": 2049,
+  "image": "ipfs://QmNMDeKRHKwtTQwN8WyUhS3cTUx658BLNuYuo6WGtYznaG",
+  "svg": "ipfs://QmQAkUx4j4iXRLJVwHcfbx2jdBYiudzc4YhkX7f8SLoVCm",
+  "full_image": "ipfs://QmbxPcrjtascAdwoJsx6uSq2hied6YzHXHPRMzieuhnz5m",
+  "full_svg": "ipfs://QmQwTE1xDwnZoREXFyE4zFvNeGFRzUSP7qkfg8khLU6TzS"
+}

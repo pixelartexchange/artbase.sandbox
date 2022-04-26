@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #4222",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/4222",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 5"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "BTK Socks Light"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Two Tone Maxi"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Curtain Bob"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Red"
+    }
+  ],
+  "token_id": 4222,
+  "image": "ipfs://QmXyf6GsBCLQWXAnoYMCmyzHDFpc7ZGU1owTNTNHK6PUqG",
+  "svg": "ipfs://QmYAMVn6C6J1ADfQY1xesMuaNbev5dkPrBoFi8wkEMJ14P",
+  "full_image": "ipfs://QmWEbGdKg62RnDBMDF378bNNgvzvMjDiXrZpnotCiJnFkh",
+  "full_svg": "ipfs://QmQgK9Z9uT5rjhLdTYX8oSiFj2FqNACrkBcCnWWSm5C3xj"
+}

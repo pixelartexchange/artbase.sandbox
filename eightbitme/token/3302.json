@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #3302",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/3302",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Basic Shoes 2"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Thick Stripes"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Big Curls"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    }
+  ],
+  "token_id": 3302,
+  "image": "ipfs://QmSkadYkXiUGgogo4aksV4Ayd4NmrrVB9obmxVfxocRMNU",
+  "svg": "ipfs://QmbSGsnQCAasuYT9QFGNz6VJ47hs2PABqsVeZ6dw8KUNaN",
+  "full_image": "ipfs://QmcbsdZZtk7rXrsRBeJaa1NHE3G122fv6gBt6XNmDs46kY",
+  "full_svg": "ipfs://QmbxVo564FAYWBUNoKN28edgRwKKfqp4mmiVwTV745MjGH"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #8060",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/8060",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 3"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Basic Shoes 2"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Lacey"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "The Hawk"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Epic"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Green"
+    }
+  ],
+  "token_id": 8060,
+  "image": "ipfs://QmWZihWTHMnQk5e6hZ9wEP7Sprybii3LRewc9YsLLnXtUw",
+  "svg": "ipfs://QmPuL7QVFYubXXyhN9WNVS7DY1VB5tHmYiA2QsPHZ853T7",
+  "full_image": "ipfs://QmegBhT6Fwbuf4fWAXbkRUJhde1vb7Qj6p8kmzmhGpioQo",
+  "full_svg": "ipfs://QmYFH4UkgBMCCSzUFhdA9CgnmDHgTGah4VmgvybYEss91L"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #2820",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/2820",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "BTK Socks Light"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Gowntown"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Puff Pony"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Epic"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Red"
+    }
+  ],
+  "token_id": 2820,
+  "image": "ipfs://QmNkQWDkLKowW3X9iGfBBzstiUEz3r9pFh5YqyVohJe7PS",
+  "svg": "ipfs://QmdbvSwfZq9RpYmczgeicj7LqRYkTNf4u17vtp7oGGPoFf",
+  "full_image": "ipfs://QmZmYBjXqKGDe7pQwmhfcvYjNrmDau6whwHWHgr87qWsQU",
+  "full_svg": "ipfs://QmdXasniz6axe9AVGrN432ExonnvptvradKFmnAwWddCxQ"
+}

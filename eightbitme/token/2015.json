@@ -1,0 +1,76 @@
+{
+  "name": "EightBit #2015",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/2015",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 3"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Basic Shoes"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Cuff Enuff"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Star"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "Seinfeld Jacket"
+    },
+    {
+      "trait_type": "Jacket Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fall Out Boy"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Boarder"
+    },
+    {
+      "trait_type": "Hat Color",
+      "value": "Light Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue Green"
+    }
+  ],
+  "token_id": 2015,
+  "image": "ipfs://QmePkPJUH3Mz1hsCAytMwaw6zqihVqRjnuReKFLJ2B9BTT",
+  "svg": "ipfs://Qmbzwv3esXQZ7tKEhSzRs8nBmAdPnVQ5dmh8GYGPefTG1B",
+  "full_image": "ipfs://QmY5AE6i1tbsjYPtcaFcC7cTrozVckqS3qCv49q3UUstmH",
+  "full_svg": "ipfs://QmfYts5uY7Nb1yvpTf91KJDL2SivKicsgC6mkadQieWkss"
+}

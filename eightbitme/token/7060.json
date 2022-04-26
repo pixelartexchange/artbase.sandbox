@@ -1,0 +1,72 @@
+{
+  "name": "EightBit #7060",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/7060",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 5"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Slides"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Baggy"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Slayers"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "The Chaperone"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Scholar"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Boy of Summer"
+    },
+    {
+      "trait_type": "Glasses Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue Green"
+    }
+  ],
+  "token_id": 7060,
+  "image": "ipfs://QmaFJHHBrYL9jBNP1hqzz9TtLZ7ZZ4Ady93VofVS8oiq4x",
+  "svg": "ipfs://QmUXGbkmCTNdpFu5TXmDmHr44sKekFEnhYD24i8jT857rL",
+  "full_image": "ipfs://QmcGw29SvQ9Fmdjyw3tFmrSWtJQ7ZezugyxZu6w6wGueFH",
+  "full_svg": "ipfs://QmfShbjBJ3Bd1d5TdPyCyyj8hBhrGafVDF1DT2toyCAZyg"
+}

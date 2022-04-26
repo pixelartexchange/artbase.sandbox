@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #5568",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/5568",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 2"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Winston"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Blue"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    }
+  ],
+  "token_id": 5568,
+  "image": "ipfs://QmcMp27v4Pp2PQ9jfYNpU817poBF8HPZrmRrMHUPAMtn4k",
+  "svg": "ipfs://QmRj3y7ozo9gneH19ph37GjqrLErqtB62TKWwrRpvsqgih",
+  "full_image": "ipfs://QmZ94jAzKka6CRjJyJRTv5JqokPngkFe9WfAz6aZ1haDLh",
+  "full_svg": "ipfs://QmaQQjuUWqZ58693F2ETDVke1zrF8KYHmMiYML6ArfuChc"
+}

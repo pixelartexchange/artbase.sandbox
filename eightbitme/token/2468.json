@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #2468",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/2468",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 5"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Take a Hike"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Black Overalls"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Emily"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Dirty Blonde"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    }
+  ],
+  "token_id": 2468,
+  "image": "ipfs://QmciUwD46in8egb86JdVqZ6Cj5k1ZK8UtJQZCFm5kweQGq",
+  "svg": "ipfs://Qma2hNiKBXZnwAsnezie6Wms7b4KzekUsz6VTYNU2MKBW9",
+  "full_image": "ipfs://QmSVzS5KWpFQj9EnXk1cMVMk2pBErShpNAcJnhSUujZWYS",
+  "full_svg": "ipfs://QmUuYDn6LzEJrjMdJBifiW5azf7ihb1DnATdC5cEi9riJC"
+}

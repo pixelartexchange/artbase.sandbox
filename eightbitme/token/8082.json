@@ -1,0 +1,60 @@
+{
+  "name": "EightBit #8082",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/8082",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Buckle Down"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Hi Cuff"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Louis Button"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "The B52"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Common"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Red"
+    }
+  ],
+  "token_id": 8082,
+  "image": "ipfs://QmZz8Baa92Riw35LAeCX4568E5mvd7KgNF9cLn7ovQCANh",
+  "svg": "ipfs://QmZqhVkx6L5whUAg93hZbvxkVk1q1sZfbkufanzNshrpnC",
+  "full_image": "ipfs://QmXjwoUzg8XriHmNZE4q6Tcq9UNGXuH8Nr7YVkduktRGNp",
+  "full_svg": "ipfs://QmPwbyBQZD1gLeXxq42D6BURcd9ccbM2kvjQUFeMecfESh"
+}

@@ -1,0 +1,72 @@
+{
+  "name": "EightBit #526",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/526",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 2"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "High High Heels"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Daisy"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "What's the Scoop"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Afro Too"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Mouse Ears"
+    },
+    {
+      "trait_type": "Hat Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Epic"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue Green"
+    },
+    {
+      "trait_type": "Perk",
+      "value": "🏰"
+    }
+  ],
+  "token_id": 526,
+  "image": "ipfs://QmNswnnDJU7ftzvfhoVcEbJ1iE2PyoHmcJrH1mUb8nnzNX",
+  "svg": "ipfs://QmbGMP5UZ9GNUP22nb21vZstebXNhB17QpjXLd3pNAPoXf",
+  "full_image": "ipfs://QmRsbSw4RDzPfJRorNxs2KgBQRDpi4r8SnUWDXkRbyzW71",
+  "full_svg": "ipfs://QmV5MUAogUR7nvYWbxhuYSwEWGk5DDhQJWvffbuzm3Qhym"
+}

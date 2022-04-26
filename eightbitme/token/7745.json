@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #7745",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/7745",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Buckle Down"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Vest in Show"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Light Gray"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Shaggy Pomp"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Green"
+    }
+  ],
+  "token_id": 7745,
+  "image": "ipfs://QmTUzzbDpkFTZWPT3hidVKTV3beQTeDd1gZZeQZjtm52Qz",
+  "svg": "ipfs://QmYMs5bzJMaqyXjd6v8JXkRfrG5SWkGDK4SJszfEsinzUL",
+  "full_image": "ipfs://Qmegf2su8G1fQMX7VCTZjAJxm63P8bQCbKheEKQLqHLWK9",
+  "full_svg": "ipfs://QmeN1fPvHshvSNnZXjPu4NKn63Ag8LzhrZA9ySrfozfc6T"
+}

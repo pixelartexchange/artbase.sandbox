@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #1789",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/1789",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Basic Shoes 2"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Two Tone Maxi"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Light Gray"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sue"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    }
+  ],
+  "token_id": 1789,
+  "image": "ipfs://QmUEHov1JMN74LczKzgat2t9odj2NDUYS8HySXu1mZT9PW",
+  "svg": "ipfs://QmVXmB5KaKHNspa1CBJMWsPWLQUQCZ5PtKEi917oAHnpxn",
+  "full_image": "ipfs://Qmb7zoNrPiGQgZof69dZrwko2NaqCo8qVwJmSygeRk8RDK",
+  "full_svg": "ipfs://QmegZ4UsDWqTKsu2dVXYQC4KLT436jDPHg3i6eLybzx1QS"
+}

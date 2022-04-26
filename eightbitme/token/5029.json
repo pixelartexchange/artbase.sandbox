@@ -1,0 +1,60 @@
+{
+  "name": "EightBit #5029",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/5029",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Flops"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Worn In"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Polo"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "The Conan"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Common"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Green"
+    }
+  ],
+  "token_id": 5029,
+  "image": "ipfs://QmbfauXBr7R61ASVgTW7HHA7ADbNgWDwqReqFYbcLtG7vq",
+  "svg": "ipfs://QmWHCCvkKLLaSaLwT3ge74WCvDY7b11RwhhnQ2nKwpDurL",
+  "full_image": "ipfs://QmeNSnyJBvVbPu78M8coUoXRJFpHjqjLqSfrtABRnubHUB",
+  "full_svg": "ipfs://QmWpqSzfEPbgRfR3gEd7fsP2mUHnut4B1iuJNyw7jnqAok"
+}

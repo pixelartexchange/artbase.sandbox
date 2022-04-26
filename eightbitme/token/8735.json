@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #8735",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/8735",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 3"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Basic Shoes 2"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Sleeveless in Seattle"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "The Bob"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    }
+  ],
+  "token_id": 8735,
+  "image": "ipfs://QmWwLu4PKiKNWGgawJdDAugZW9XpczUtWAw68tFMBRYW8o",
+  "svg": "ipfs://Qmd2DZU43hPLwQfYg1GB3RyZb6nRAhEiVy6TSn9tEQbstr",
+  "full_image": "ipfs://QmQJDMapvJbJywkCu6oWXTs7w9kWYviSfwLsDSBLfqZQVa",
+  "full_svg": "ipfs://QmdH8JZQT4Zu5zLtc4ZMFJCZsTvkBGk79HbcCnTRDhZ1kU"
+}

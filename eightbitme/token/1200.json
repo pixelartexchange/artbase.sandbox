@@ -1,0 +1,60 @@
+{
+  "name": "EightBit #1200",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/1200",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 2"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Buckle Down"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Bridesmaid"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swoop"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cool Boarder"
+    },
+    {
+      "trait_type": "Hat Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Red"
+    }
+  ],
+  "token_id": 1200,
+  "image": "ipfs://QmP7QnJC5nnm7KKo1zAwWiy2cvFH2HNsktdtBjddxvu8PR",
+  "svg": "ipfs://QmW1zaWDj732jeP9SpLTBebU6WwrPa5DSVtySjZHDDWU8Y",
+  "full_image": "ipfs://Qmbip5NvELtzhKBSRk9sdoRxbHDZNmXkaLNDmaaBcUZNpm",
+  "full_svg": "ipfs://QmeYh7YkJ1EtQvd3e5amXRgKyaeV1eSnGNtwK6V7cwCGVN"
+}

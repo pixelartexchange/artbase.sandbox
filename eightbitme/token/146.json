@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #146",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/146",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 3"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Leatherface"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Purple"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue Green"
+    }
+  ],
+  "token_id": 146,
+  "image": "ipfs://QmVhFv51VUoGNddRd3y3B99SMNahSc5vwGANFVL93fKU24",
+  "svg": "ipfs://QmQN7j4GrUBuhYyJx1c6ny38Cqbc3Qeo778p8qe5wPXVXR",
+  "full_image": "ipfs://QmaMbb3noMCEpEujWM8iiEYNvH3sW8rj4H37ZN9vqmqzvA",
+  "full_svg": "ipfs://Qmc3VFKgihf8CzUN4NYs4EVis8cKhcsChDiHQQahChwUA3"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #1009",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/1009",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 2"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Homer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Purple"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    }
+  ],
+  "token_id": 1009,
+  "image": "ipfs://QmW82HYsRo6VA3dcUPijPctGqQzoKCdr9Ahd1YpbkDJMs3",
+  "svg": "ipfs://QmSrhPvfisbZR1NEArpYFHE1LWpqVzuMNCrFapGzt9V4zq",
+  "full_image": "ipfs://QmegjRajHFLcmXPtzMArNKoiWZkrXBmKXRkKxBVokYzZz4",
+  "full_svg": "ipfs://QmW4hvCJBezWnmJfDdBKHzb4BXj1V2ixAsePg6tbcvp2xh"
+}

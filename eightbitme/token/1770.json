@@ -1,0 +1,60 @@
+{
+  "name": "EightBit #1770",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/1770",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 4"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Basic Shoes 2"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "You Me and Capri"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Light Gray"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Louis Button"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Asymmetrical Bob"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Common"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    }
+  ],
+  "token_id": 1770,
+  "image": "ipfs://Qmc4BYCNZsPAnBKDnvFnUNXt1a4fiuK2gh1W6esFAmEXJA",
+  "svg": "ipfs://QmUZ4uwndCkzooXXgtMKMrZh8KbF2Ed2V5VARJV7YkYsnA",
+  "full_image": "ipfs://QmVjXN7W4CWDD5exeCNB2d8HepPD28my3tYcNHBZFVka1i",
+  "full_svg": "ipfs://QmbJDrzvBfQSQG9wGbDnN3ChMPyAN8i1CUA3g7vaFCmAGg"
+}

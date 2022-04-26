@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #4056",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/4056",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Mario"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Blue"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    }
+  ],
+  "token_id": 4056,
+  "image": "ipfs://QmRwGVcf2RYcNJcpC3nT7VH3FVLd1zobgjJcAFzgSPgXTz",
+  "svg": "ipfs://QmSQF1EkNaTJwCn4Nx9T9WprP7YWzWmFcGPi2ye5rxQYiU",
+  "full_image": "ipfs://QmYfXfY8cX3rDey6nSaxXgZqZ2qcNdWAqU7DBbDGGxYPTU",
+  "full_svg": "ipfs://QmSPbDgSSBf1pESqBKAoLTLfqGA8W9C4GddnAUTQ7Q4C4T"
+}

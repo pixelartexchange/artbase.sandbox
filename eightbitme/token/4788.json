@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #4788",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/4788",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Doc Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Purple"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    }
+  ],
+  "token_id": 4788,
+  "image": "ipfs://QmRfVUMBm5Q2p4sUdS3xQJr2efL9k679PeDM1tkZHFzgoz",
+  "svg": "ipfs://QmYZcDS9JyHLdskyfWfZLpRT7iy2WpctWbXbaxiCma38U8",
+  "full_image": "ipfs://QmZxMtq33WLHWfhgGqaVTZ2Va8WqBuq5gvySjbasUYxRmw",
+  "full_svg": "ipfs://QmYP1AVnBstbSpcc1AdgyDwdp4mBgCvBLpzxPdY2ai4eDa"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #8643",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/8643",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Bright Sneaks"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Bridesmaid"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "No Fuss"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    }
+  ],
+  "token_id": 8643,
+  "image": "ipfs://QmQWctQZ3ocKyoivmLMpaU9dZU7z8qqPWR6rzq8XLKv658",
+  "svg": "ipfs://QmdnvuSQWG8GLzyodphGoSMWGcjNzqEWDK1o3piPsq7QW7",
+  "full_image": "ipfs://QmeG2fiV3FfjMVqBYhL9Zh3cBcZYFw2b2PL5WAXSKoCFoZ",
+  "full_svg": "ipfs://QmWaymoi3Vi1ZVF2YeRDaLdkPQJSM7RMBhmM3pkLv4R1Ar"
+}

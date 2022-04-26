@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #6420",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/6420",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 4"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Take a Hike"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Jumpsuit Yourself"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "The Bob"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Red"
+    }
+  ],
+  "token_id": 6420,
+  "image": "ipfs://QmSrkBTbWbTCCePZqPtZzTBcbkkzuHrfLr3peTGE3yuHCh",
+  "svg": "ipfs://QmWcM8v3uPH6z4fM2hEwP6tf6d33cRdprj1iMadeQEuBk7",
+  "full_image": "ipfs://QmcKpi988YYkUg8vDpL7HzhHmwuZaLGX3kXiXttLezaSy3",
+  "full_svg": "ipfs://QmXz6yfg1LaokV2HKphFLLGbcGEy5U94nFFZCy8zxSycZ9"
+}

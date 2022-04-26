@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #704",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/704",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 3"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafer"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Princess Dress"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Light Gray"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Braids"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Epic"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    }
+  ],
+  "token_id": 704,
+  "image": "ipfs://QmUjeJ9TFd7zyZUstwzS7s7PHkSatTJHJeugLvbh7qM3gP",
+  "svg": "ipfs://QmQqtbRiwqVo7tCD4puEAKvjPSKWBZ6kYdbRQjjjR1S1uG",
+  "full_image": "ipfs://QmXsVVWADubxufewuXaTk4m2S5eikUx86FZyifp75cfVEY",
+  "full_svg": "ipfs://QmZ9owfje7T8TtuZSxdwuf7C3AGgWZLVMTM8BbkNkqibMG"
+}

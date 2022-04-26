@@ -1,0 +1,60 @@
+{
+  "name": "EightBit #2019",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/2019",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 3"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Dark Sneaks"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Two Tone Maxi"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Whoa Nelly"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Don"
+    },
+    {
+      "trait_type": "Glasses Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Epic"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Red"
+    }
+  ],
+  "token_id": 2019,
+  "image": "ipfs://QmW7QmRfzgTNEezx7NhrJhBp7Zg5ZNEXLNyy8kbAKqpYzd",
+  "svg": "ipfs://QmYaA1shUFe451ZG678Q3rk1zhbFkFQ88BfuAhPbzWGT55",
+  "full_image": "ipfs://QmNXE8XvjYBoDoEKXbEPgC45mEVfcNRKd7N7dGw44oFvWN",
+  "full_svg": "ipfs://QmWZcxYqZDG4J4gQjhnerv5tH4EQM5UMNpQoWcmHoYBtqA"
+}

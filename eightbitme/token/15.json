@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #15",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/15",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 3"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Rachael"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Purple"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    }
+  ],
+  "token_id": 15,
+  "image": "ipfs://QmeW3PE9ajxZH7HU5yUD72qSHtQFkHCbgTZGRya6z2frZm",
+  "svg": "ipfs://QmUrT6GwvXFgjz5Z18whZEHrDDHuTyH2MvSM2mcKL9Tho5",
+  "full_image": "ipfs://Qmd1Nn2oUaDguspXVS5XCWNsCAV9ixJWdLNzDZZLsUfL8s",
+  "full_svg": "ipfs://QmSPkc5jXr1wv1844kvjvW1vYSvbbgUyVrm4mPfN1PeWag"
+}

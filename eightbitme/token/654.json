@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #654",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/654",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 3"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "GM08"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Blue"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Red"
+    }
+  ],
+  "token_id": 654,
+  "image": "ipfs://QmZ8WyydiPc3tCnVcJ4FzgAPPHxSDHpx2m7DxA2warA4VX",
+  "svg": "ipfs://QmYerap5Ws9zGwgiJ2Rx6AQ5xQTfuzBsspMQPw7iiRAtpd",
+  "full_image": "ipfs://QmVD4yD2BAsNhwXC1V6qVcBuz6WmNo1hUawZkgaNMjE1nu",
+  "full_svg": "ipfs://QmRttVMaykRLRC9c5iHj3nAUX3WzcxUuXyyf7RQSh288KM"
+}

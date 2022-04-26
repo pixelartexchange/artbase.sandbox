@@ -1,0 +1,72 @@
+{
+  "name": "EightBit #4367",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/4367",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 2"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Basic Shoes"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Who Wears Short Shorts"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Ned"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "K-Pop"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "EightBit Black Cap"
+    },
+    {
+      "trait_type": "Hat Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue Green"
+    },
+    {
+      "trait_type": "Perk",
+      "value": "🧢"
+    }
+  ],
+  "token_id": 4367,
+  "image": "ipfs://QmTPuoqnHwQCxhpDf9zti26txNjvg8YwvCNxzmViCkRJdG",
+  "svg": "ipfs://QmXK63sxa1TCe1TzJoUdBwAAppMKnZhAASrZzJ4JkgVV36",
+  "full_image": "ipfs://QmbkKVwmuiDaQxf1GWFb1A69A3CChFtneer5DcespaMouo",
+  "full_svg": "ipfs://QmeC2nndKkua8GdnXqWSnr4GkRX7BV6jhZCweT577YAjeP"
+}

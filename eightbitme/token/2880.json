@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #2880",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/2880",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 3"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Buckle Up Buttercup"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Sleeveless in Seattle"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swoop"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    }
+  ],
+  "token_id": 2880,
+  "image": "ipfs://QmYM3eia4YX9xN5oREd1Vpsin1THYzvuAG9BgDWkmEfSVg",
+  "svg": "ipfs://QmRA7genjRxHsyekd7aWFBn6aCqRUe1KghiPmin6wHoNdm",
+  "full_image": "ipfs://QmSR4CMP5gSZZNwCs6AVWphaE2WUB3ModZAz8AcYBYc4FX",
+  "full_svg": "ipfs://QmZUmwHk6yjumtE5XEkmDpXXW4EwnUuL2fHru6gMfem3cJ"
+}

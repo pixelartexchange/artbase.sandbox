@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #8502",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/8502",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 2"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Loafer"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "The Interview"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Emily"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Epic"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Green"
+    }
+  ],
+  "token_id": 8502,
+  "image": "ipfs://QmWfVYsavU6VL9Yaih6RZGVVgc1tKkZ7DzAnXMsFyH387n",
+  "svg": "ipfs://QmcryfGiT3e9v7QwqTuKA26eoY18FZp2Ke3ZbxdQSNxqud",
+  "full_image": "ipfs://QmdG1FNaDkASLHvFYDBXde9gFE8yj2uZQAvSUNmL7ViLQT",
+  "full_svg": "ipfs://QmTRkxSGGdvFGapAWJE5hUfBF3r2wX9qPXN3LWDTLBk93d"
+}

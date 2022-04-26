@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #6521",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/6521",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "BTK Socks Light"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Hippie Hippie Shake"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Light Gray"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "The Pomp"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Epic"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Green"
+    }
+  ],
+  "token_id": 6521,
+  "image": "ipfs://QmT1hpCHaa4hQSZmfg6dCeiDtDNPEAEKubRmtxTXo2EQ1C",
+  "svg": "ipfs://QmPgwsKNGc9BdoVYQuxTEaLzuB2PvVsocPfSZq4wPMdAPu",
+  "full_image": "ipfs://QmfSAtsr1TcmU7LLGfTU3XpxGByK3eLissgUMY9uDaYktb",
+  "full_svg": "ipfs://QmWbUjMkEsPZBbmQU58zYuJ58y2aB4yWKRKtGfB5meCWYZ"
+}

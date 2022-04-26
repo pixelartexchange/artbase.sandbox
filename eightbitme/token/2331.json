@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #2331",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/2331",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 5"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Worker"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Purple"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Green"
+    }
+  ],
+  "token_id": 2331,
+  "image": "ipfs://QmaSGC87RY2iDrELmAEDfXyhjQ1GzGdwFjmUkbQGHWFX1D",
+  "svg": "ipfs://QmXrzNfbL1SyDydDZ1VYQ37kGVBzCFGutmdKZVqL2nKpEs",
+  "full_image": "ipfs://QmeV2S2FQmYDpNm1tP5ooFdkAUqyYgncGZ9weRohW5GHeC",
+  "full_svg": "ipfs://QmSzYRacFRqAzdnAC1aC1TB6GXWunM185hwKCSnyCeFEKk"
+}

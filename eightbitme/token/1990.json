@@ -1,0 +1,60 @@
+{
+  "name": "EightBit #1990",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/1990",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 5"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Flops"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Trunks"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Slayers"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Garfunkel"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Common"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    }
+  ],
+  "token_id": 1990,
+  "image": "ipfs://QmXcMiAv21BQpQJM6FKPJJvSBeo2c1ci9WsEQNcf6K1ZfK",
+  "svg": "ipfs://QmZyCKs4c6DXgyBJYc2XiVJwdv4Nk4ovZv5eUvXsvYwkHC",
+  "full_image": "ipfs://QmY97RebxQtnsK5NzQp7xR1wCmAokVbNLfCjXzHiiGEGWc",
+  "full_svg": "ipfs://QmZNes4HS1wvKbWr1X7ph2aQ7bEaATZgWjxC5XVYtKwfSU"
+}

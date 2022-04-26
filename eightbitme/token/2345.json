@@ -1,0 +1,52 @@
+{
+  "name": "EightBit #2345",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/2345",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 5"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Bright Sneaks"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Lacey"
+    },
+    {
+      "trait_type": "Dress Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bang Bangs"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Dirty Blonde"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Rare"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Purple"
+    }
+  ],
+  "token_id": 2345,
+  "image": "ipfs://QmQkjYfK4wEw3RqtuycGt9LRHggK28MjumZPCRfewGcYxK",
+  "svg": "ipfs://Qmdjjj74YYUzrKyki8Q59ESma28AHK3gPCSX4nDev3PYXm",
+  "full_image": "ipfs://QmeD8z9GJU9jvvi2499KHQXmnt5xjCU6D5M5xQWBxwMktM",
+  "full_svg": "ipfs://QmX9tv2Yrbvpx8bp2KvsLGxzGD7SGvUengiSFMewyTyU6G"
+}

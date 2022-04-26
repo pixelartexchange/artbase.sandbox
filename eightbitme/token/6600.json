@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #6600",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/6600",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 2"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Boxer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Blue"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue Green"
+    }
+  ],
+  "token_id": 6600,
+  "image": "ipfs://QmWNuHougXewKkUtcNivE2pc5gNfY91rB3Ve1Jw3PeS6VU",
+  "svg": "ipfs://QmdADRurJTsnV9eKYb8rAtzSC85MCDJEUigLw4Nnrto4Ld",
+  "full_image": "ipfs://QmZisK5cxihhmjoH3auZHHRfjDgFX1mtd9h3w426DgaHoR",
+  "full_svg": "ipfs://QmPXnAkKLYZioAi9t4dH6KeASfk6NC2cXbxUXvHczK8Rwt"
+}

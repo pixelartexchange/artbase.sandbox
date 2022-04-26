@@ -1,0 +1,60 @@
+{
+  "name": "EightBit #2310",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/2310",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Basic Shoes 2"
+    },
+    {
+      "trait_type": "Shoes Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "Taper"
+    },
+    {
+      "trait_type": "Pants Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Cardi G"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "This Middle Piggy"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Common"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Red"
+    }
+  ],
+  "token_id": 2310,
+  "image": "ipfs://QmUxWvCCY9mMY8Kj89fHu73DHx7Q5oDCpM3sPJ88BM6b4G",
+  "svg": "ipfs://QmVj9EviLrHxcziRong2Yv912qsZRjWymdbZsBrRM5zuK9",
+  "full_image": "ipfs://QmPa4Kr4PjTSsNsVMv6awFATzx7gyuoRSFcbxx7BcY5Her",
+  "full_svg": "ipfs://QmNRWmNDQjpuRk1Nc77Sai2nNndHv476ZaEhQFcWxjV7bY"
+}

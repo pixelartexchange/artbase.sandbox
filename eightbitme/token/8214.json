@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #8214",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/8214",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 1"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Princess Peach"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Purple"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue Green"
+    }
+  ],
+  "token_id": 8214,
+  "image": "ipfs://QmdroGxCPXGLj4SdQLmFTqSmpHVSqiKqvByojzwQo7h81q",
+  "svg": "ipfs://QmY4TADjcZmVKQHaEnr31tD2MWwrCgFp189YgEuGv612mP",
+  "full_image": "ipfs://QmWVz1bwYwnE66NpkCQ3ucSSn9TnRFf7StkxYRJRmGCghh",
+  "full_svg": "ipfs://QmPhRGoD6iKLfd1tkjPVRemwdS2qR7PsZvfYT6ZzKWpZ7N"
+}

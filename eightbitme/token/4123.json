@@ -1,0 +1,32 @@
+{
+  "name": "EightBit #4123",
+  "description": "A Collection of 8,888 Generative Bits",
+  "external_url": "https://eightbit.me/bit/4123",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Skin Tone 4"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Ghost Rider"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Background Legendary Blue"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "Blue Green"
+    }
+  ],
+  "token_id": 4123,
+  "image": "ipfs://QmTdJBDoqYmjkgV7XP1vnu9DAmBPfY7v2RzEkn2tVGMRfZ",
+  "svg": "ipfs://QmPQxo7KE3NmYjvqX1RxyviZWyo4Fi2MkXHFGup4orLfBc",
+  "full_image": "ipfs://QmfRKH55D6dKZLFjpPrVpSJCmurm8bwbmBWAo8XQf45kNX",
+  "full_svg": "ipfs://QmWPE3gekpevTYCuvcsHh56gZfgm2D15xUuLLFUoVvmGvv"
+}
