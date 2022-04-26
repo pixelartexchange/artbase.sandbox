@@ -1,0 +1,40 @@
+{
+  "name": "NounPunks #155",
+  "description": "Think of us as the new kids on the Block whose mama is Larva Labs and daddy is Gremplin that came to flip the bird on everyone and !vibe",
+  "image": "ipfs://QmU8YNRbju5KrGgPKbQ529FhJsUnPuuHNwndu5x9fXZdSM/155.png",
+  "dna": "6ed41d789b2c75ec675fb45588dda2a160c0b83d",
+  "edition": 155,
+  "date": 1637181747433,
+  "Artist": "Burokku",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "3d5b99"
+    },
+    {
+      "trait_type": "sers",
+      "value": "serA"
+    },
+    {
+      "trait_type": "head I",
+      "value": "shortBrown"
+    },
+    {
+      "trait_type": "eye",
+      "value": "nounishD"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "aerpod"
+    },
+    {
+      "trait_type": "facialHair",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessories II",
+      "value": "none"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
