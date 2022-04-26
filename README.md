@@ -22,6 +22,11 @@
 ![](i/unemployables-strip.png)
 
 
+24x24px 8-Bits - 8888 max.   - also known as Eight Bit Me (Profile Pics)<br>
+![](i/eightbitme-strip.png)
+
+
+
 <!-- moonbird style -->
 
 34x34px Moonbears - 4000 max. <br>
