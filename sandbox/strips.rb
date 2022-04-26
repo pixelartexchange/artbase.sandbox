@@ -17,7 +17,7 @@ end
 
 
 strip = gen_strip( "eightbitme", offset: 1 )
-strip.save( "./tmp/eightbitme.png" )
+strip.save( "./tmp/eightbitme-strip.png" )
 
 
 
