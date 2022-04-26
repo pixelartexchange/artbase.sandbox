@@ -15,14 +15,14 @@ c = TokenCollection.new( 'nounpunks', 9969,
 ## note: starting at 1 (and NOT at 0)  !!!
 
 range = (101..1000)
-c.download_meta( range )
+# c.download_meta( range )
 
 
 # range = (101..5000)
 # c.download_images( range )
 
 # range = (101..5000)
-# c.pixelate( range )
+c.pixelate( range )
 
 
 puts "bye"
