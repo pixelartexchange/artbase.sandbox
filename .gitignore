@@ -11,3 +11,9 @@ token-i/
 
 ## todo/check - exclude syntax for dirs use token-i  or /token-i or token-i/
 ##                        or tmp or /tmp or tmp/ or /tmp/ etc.
+
+
+###
+# more files to exclude
+proof-moonbirds/unshuffled.json
+
