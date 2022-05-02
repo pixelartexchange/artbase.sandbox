@@ -6,6 +6,10 @@
 
 <!-- punk style -->
 
+24x24px Bears  - 5000 max. <br>
+![](i/etherbears-strip.png)
+
+
 24x24px Binary Apes - 10 000 max. - formerly (Crypto) Binary Ape Yolo Club (BAYC)  <br>
 ![](i/binaryapes-strip.png)
 
@@ -37,8 +41,6 @@
 34x34px Moonbears - 4000 max. <br>
 ![](i/moonbears-nft-strip.png)
 
-42x42px Moonbirds - 10 000 max.  <br>
-![](i/proof-moonbirds-strip.png)
 
 42x42px Starbirds - 3000 max. <br>
 ![](i/starbirds-strip.png)
