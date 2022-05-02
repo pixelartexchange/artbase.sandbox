@@ -1,0 +1,39 @@
+{
+  "name": "EtherBear #2640",
+  "description": null,
+  "image": "https://lh3.googleusercontent.com/mSUe6qynoSGix5IzlELiS6O3zzTIIMm-Cle_h2nEiM7rjWML9MWJB6y1b5fmSkLCN7RGk5T9Hucu83UsQzdv-IQ0EBbPlrucF16DjQ",
+  "attributes": [
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "tongue"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "chain"
+    },
+    {
+      "trait_type": "body",
+      "value": "zombie"
+    },
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "head",
+      "value": "haircut"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "green tracksuit"
+    }
+  ]
+}

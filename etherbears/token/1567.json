@@ -1,0 +1,39 @@
+{
+  "name": "EtherBear #1567",
+  "description": null,
+  "image": "https://lh3.googleusercontent.com/WUuXUsRzHpQOVpmtLx4uhS6tUfLLyT42Lq8wUP3dLRETy_2BQzeA8mGIXpYxQ8nwLQ_mZu70V1Sxz661vWjxWTiF1FqDoI7IuG0Cn2o",
+  "attributes": [
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "red mustache"
+    },
+    {
+      "trait_type": "background",
+      "value": "azure"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "chain"
+    },
+    {
+      "trait_type": "body",
+      "value": "zombie"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "green shirt"
+    },
+    {
+      "trait_type": "head",
+      "value": "dreadlocks"
+    }
+  ]
+}

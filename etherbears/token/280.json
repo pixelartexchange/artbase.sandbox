@@ -1,0 +1,39 @@
+{
+  "name": "EtherBear #280",
+  "description": null,
+  "image": "https://lh3.googleusercontent.com/iBlXG31y3ZtfHQYb6W-e8_6JOhhYtm_Kaq6PuDc5g099oNuHtTWnRLGNve_MBDtwsN5MZQ9xfLZgUGLJAfFCXGtUPyacpNw1MlHyuw",
+  "attributes": [
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "head",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "background",
+      "value": "green"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "tongue"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "chain"
+    },
+    {
+      "trait_type": "body",
+      "value": "zombie"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "red apron"
+    }
+  ]
+}
