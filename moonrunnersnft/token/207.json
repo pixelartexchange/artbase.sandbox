@@ -1,0 +1,32 @@
+{
+  "image": "https://moonrunners.herokuapp.com/api/207/image",
+  "name": "Moonrunners #207",
+  "description": "A collection of 10,000 PFPs. Free mint. No discord. No roadmap. CCO. Protect the Moonrunners at all costs.",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stealth"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dribble"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Side Eyed Green"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Wolf Skull"
+    }
+  ],
+  "dna": "62cbdf9d2da1498c458bcce99915df3f27b50511"
+}

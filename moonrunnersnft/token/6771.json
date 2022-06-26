@@ -1,0 +1,16 @@
+{
+  "image": "https://moonrunners.herokuapp.com/api/6771/image",
+  "name": "Moonrunners #6771",
+  "description": "A collection of 10,000 PFPs. Free mint. No discord. No roadmap. CCO. Protect the Moonrunners at all costs.",
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Pitch Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brave"
+    }
+  ],
+  "dna": "74bfbb4132070f97526a273fe70d397848502b42"
+}
