@@ -19,5 +19,5 @@ COLLECTION = TokenCollection.new( 'moon-hunters', 2222,
 ##               and content/type  => image/png BUT
 ##    are actually gifs
 ##
-##   no. 2, 18, 20, 21, 22, ...
+##   no. 2, 18, 20, 21, 22, 70,  ...
 ##
