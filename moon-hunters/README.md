@@ -2,7 +2,7 @@
 
 Reposted from [**On Air Now! Live Art Base Coding Session Part III - Let's Download the 2222 Moonhunter Cheetah Token Meta Data, Images, & More - Follow Along - Questions & Comments Welcome**](https://old.reddit.com/r/DIYPunkArt/comments/vl0rq2/on_air_now_live_art_base_coding_session_part_iii/):
 
-  for more live coding fun today - let's add some more moonrunner collections to download.    Any good "derivates" out there?  Yes, you can - tell us and post a comment.
+For more live coding fun today - let's add some more moonrunner collections to download.    Any good "derivates" out there?  Yes, you can - tell us and post a comment.
 
   Let's continue  with 2222 Moonhunter Cheetahs.  Learn more at the official links:
 
