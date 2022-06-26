@@ -13,6 +13,19 @@ No such file or directory @ rb_sysopen - ./binaryapes/token-meta/1.json (Errno::
 
 ## More Collections
 
+Moonbird Punks Club   (Openstore @ Opensea)
+
+- https://opensea.io/collection/moonbirdpunksclub
+- <https://twitter.com/MoonbirdC>
+- <https://api.opensea.io/api/v1/collection/moonbirdpunksclub/stats>
+  - no sales as of May/4, 2022  - check later if availabe via opensea api?
+  - 208 birds as of May/4, 2022
+  - try api via "owner/creator" https://opensea.io/FyanSofyan?tab=created ??
+    - https://api.opensea.io/api/v1/collection/moonbirdpunksclub
+
+
+----
+
 - <https://opensea.io/collection/0xmoonbirds> - Moonbirds Expansion ?? Pack
 
 5555 items max. (5523 ??)

@@ -42,10 +42,6 @@
 ![](i/moonbears-nft-strip.png)
 
 
-42x42px Starbirds - 3000 max. <br>
-![](i/starbirds-strip.png)
-
-
 50x50px Moonbird Punks - 2469 max.  <br>
 ![](i/moonbirdpunks-strip.png)
 
