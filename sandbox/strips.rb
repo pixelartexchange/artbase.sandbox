@@ -25,18 +25,11 @@ strip = gen_strip( "nounpunks", offset: 1 )
 strip.save( "./tmp/nounpunks-strip.png" )
 
 
-
-strip = gen_strip( "nounpunks", offset: 1 )
-strip.save( "./tmp/nounpunks-strip.png" )
-
-
 strip = gen_strip( "eightbitme", offset: 1 )
 strip.save( "./tmp/eightbitme-strip.png" )
 
 
 
-strip = gen_strip( "starbirds", width: 42, height: 42 )
-strip.save( "./tmp/starbirds-strip.png" )
 
 
 
@@ -60,6 +53,10 @@ strip.save( "./tmp/unemployables-strip.png" )
 
 strip = gen_strip( "moonbirdpunks", width: 50, height: 50 )
 strip.save( "./tmp/moonbirdpunks-strip.png" )
+
+
+# strip = gen_strip( "starbirds", width: 42, height: 42 )
+# strip.save( "./tmp/starbirds-strip.png" )
 
 
 
