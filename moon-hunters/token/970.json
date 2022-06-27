@@ -1,0 +1,39 @@
+{
+  "name": "Moonhunter #970",
+  "image": "http://ipfs.io/ipfs/QmUuCLqJnuFFStWN1JFxLUH4jkiRhFY41eZdxmAv4PaiFh/970.png",
+  "description": "2222 cheetahs hunters on the moon, hunting Moonrunners and Moonbirds at all costs.",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "3dglasses"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "joint"
+    },
+    {
+      "trait_type": "Base",
+      "value": "white"
+    },
+    {
+      "trait_type": "Background",
+      "value": "red"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "snapback"
+    },
+    {
+      "trait_type": "Face",
+      "value": "freshwound"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "none"
+    }
+  ]
+}

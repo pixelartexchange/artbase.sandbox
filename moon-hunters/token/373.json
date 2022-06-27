@@ -1,0 +1,39 @@
+{
+  "name": "Moonhunter #373",
+  "image": "http://ipfs.io/ipfs/QmUuCLqJnuFFStWN1JFxLUH4jkiRhFY41eZdxmAv4PaiFh/373.png",
+  "description": "2222 cheetahs hunters on the moon, hunting Moonrunners and Moonbirds at all costs.",
+  "attributes": [
+    {
+      "trait_type": "Hats",
+      "value": "anime"
+    },
+    {
+      "trait_type": "Base",
+      "value": "cyborg"
+    },
+    {
+      "trait_type": "Background",
+      "value": "water"
+    },
+    {
+      "trait_type": "Face",
+      "value": "freshwound"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "tinycheetah"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "none"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "none"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "none"
+    }
+  ]
+}

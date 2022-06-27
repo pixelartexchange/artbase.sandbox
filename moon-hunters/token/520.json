@@ -1,0 +1,39 @@
+{
+  "name": "Moonhunter #520",
+  "image": "http://ipfs.io/ipfs/QmUuCLqJnuFFStWN1JFxLUH4jkiRhFY41eZdxmAv4PaiFh/520.png",
+  "description": "2222 cheetahs hunters on the moon, hunting Moonrunners and Moonbirds at all costs.",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "happyvisor"
+    },
+    {
+      "trait_type": "Base",
+      "value": "zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "battlescar"
+    },
+    {
+      "trait_type": "Background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "partyhat"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "none"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "none"
+    }
+  ]
+}

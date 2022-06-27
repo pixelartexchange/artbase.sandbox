@@ -1,0 +1,39 @@
+{
+  "name": "Moonhunter #595",
+  "image": "http://ipfs.io/ipfs/QmUuCLqJnuFFStWN1JFxLUH4jkiRhFY41eZdxmAv4PaiFh/595.png",
+  "description": "2222 cheetahs hunters on the moon, hunting Moonrunners and Moonbirds at all costs.",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "cyborg"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "shinobi"
+    },
+    {
+      "trait_type": "Background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "freshwound"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "angry"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "none"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "none"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "none"
+    }
+  ]
+}

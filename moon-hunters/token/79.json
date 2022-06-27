@@ -1,0 +1,39 @@
+{
+  "name": "Moonhunter #79",
+  "image": "http://ipfs.io/ipfs/QmUuCLqJnuFFStWN1JFxLUH4jkiRhFY41eZdxmAv4PaiFh/79.png",
+  "description": "2222 cheetahs hunters on the moon, hunting Moonrunners and Moonbirds at all costs.",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "aviators"
+    },
+    {
+      "trait_type": "Face",
+      "value": "battlescar"
+    },
+    {
+      "trait_type": "Background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "goldstud"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "silverchain"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "none"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "none"
+    }
+  ]
+}

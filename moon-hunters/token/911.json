@@ -1,0 +1,39 @@
+{
+  "name": "Moonhunter #911",
+  "image": "http://ipfs.io/ipfs/QmUuCLqJnuFFStWN1JFxLUH4jkiRhFY41eZdxmAv4PaiFh/911.png",
+  "description": "2222 cheetahs hunters on the moon, hunting Moonrunners and Moonbirds at all costs.",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "zombie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "safari"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "halo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "eyepatch"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "goldstud"
+    },
+    {
+      "trait_type": "Face",
+      "value": "freshwound"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "silverchain"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "none"
+    }
+  ]
+}

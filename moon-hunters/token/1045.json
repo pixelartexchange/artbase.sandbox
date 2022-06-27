@@ -1,0 +1,39 @@
+{
+  "name": "Moonhunter #1045",
+  "image": "http://ipfs.io/ipfs/QmUuCLqJnuFFStWN1JFxLUH4jkiRhFY41eZdxmAv4PaiFh/1045.png",
+  "description": "2222 cheetahs hunters on the moon, hunting Moonrunners and Moonbirds at all costs.",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "devileyes"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "devilhorns"
+    },
+    {
+      "trait_type": "Face",
+      "value": "skimask"
+    },
+    {
+      "trait_type": "Background",
+      "value": "desert"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "joint"
+    },
+    {
+      "trait_type": "Base",
+      "value": "white"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "silverchain"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "tinycheetah"
+    }
+  ]
+}

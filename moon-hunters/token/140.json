@@ -1,0 +1,39 @@
+{
+  "name": "Moonhunter #140",
+  "image": "http://ipfs.io/ipfs/QmUuCLqJnuFFStWN1JFxLUH4jkiRhFY41eZdxmAv4PaiFh/140.png",
+  "description": "2222 cheetahs hunters on the moon, hunting Moonrunners and Moonbirds at all costs.",
+  "attributes": [
+    {
+      "trait_type": "Mouths",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Background",
+      "value": "safari"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "cyborg"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "partyhat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "ironstud"
+    },
+    {
+      "trait_type": "Base",
+      "value": "normal"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "none"
+    },
+    {
+      "trait_type": "Face",
+      "value": "none"
+    }
+  ]
+}

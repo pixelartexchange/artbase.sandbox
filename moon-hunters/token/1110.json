@@ -1,0 +1,39 @@
+{
+  "name": "Moonhunter #1110",
+  "image": "http://ipfs.io/ipfs/QmUuCLqJnuFFStWN1JFxLUH4jkiRhFY41eZdxmAv4PaiFh/1110.png",
+  "description": "2222 cheetahs hunters on the moon, hunting Moonrunners and Moonbirds at all costs.",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "shuttershades"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "cigar"
+    },
+    {
+      "trait_type": "Face",
+      "value": "skimask"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "rainbowchain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "sunset"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "none"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "hoop"
+    },
+    {
+      "trait_type": "Base",
+      "value": "normal"
+    }
+  ]
+}

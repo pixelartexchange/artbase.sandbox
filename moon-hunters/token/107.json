@@ -1,0 +1,39 @@
+{
+  "name": "Moonhunter #107",
+  "image": "http://ipfs.io/ipfs/QmUuCLqJnuFFStWN1JFxLUH4jkiRhFY41eZdxmAv4PaiFh/107.png",
+  "description": "2222 cheetahs hunters on the moon, hunting Moonrunners and Moonbirds at all costs.",
+  "attributes": [
+    {
+      "trait_type": "Hats",
+      "value": "flower"
+    },
+    {
+      "trait_type": "Background",
+      "value": "city"
+    },
+    {
+      "trait_type": "Face",
+      "value": "skimask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "eyepatch"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "joint"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "goldstud"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "silverchain"
+    },
+    {
+      "trait_type": "Base",
+      "value": "burgundy"
+    }
+  ]
+}
