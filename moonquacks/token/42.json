@@ -1,0 +1,36 @@
+{
+  "name": "MoonQuacks #42",
+  "external_url": "https://moonquacks.xyz",
+  "description": "MoonQuacks is a collection of 3,500 CC0 PFPs on the Ethereum blockchain. Founded by a team of non-billionaires, passionate NFT collectors, and savvy developers, we’re looking to democratize generational wealth for everyone. Each MoonQuack trait is a handmade drawing influenced from some of the most popular NFT projects today. The MoonQuack itself is made through a generative process seeded by the number 42069.",
+  "image": "ipfs://Qmea6VGe5x7NgsnNEbbUZ3KT49gy2NEEu3UAAMMw6ZFnTs/42",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bill",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Adorable"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Eyepatch"
+    }
+  ]
+}
