@@ -49,6 +49,33 @@ and even criminal market manipulation by burning the token of "owners" that list
 
 What's your take? What am I missing or not seeing? What red flags do you look for or see? Any commentary on the pixel art?  Any inside  news on the (serial?) crypto bro fraudster?  Is rug pulling the new normal?  Wen MonkeFest® with Snopp Dogg® & Eminem®? Wen MonkeBurger®?
 
+
+PS:  
+**Update**    The monke'runner con-artist is back today and posts:
+
+>  G[ood] m[orning] monke' fam[ily].
+>
+>  [Minimum] floor [price] so low.. monke' hang near lava.. 
+>
+>  Calculating the number needed to burn.. unsure why so many paperhands [selling / flipping monke' at such a low price]..
+>
+>>  Monke boss show them we’re for real and the game is set. Let the burning begin!!!
+>>
+>>  I'd rather have a collection with 1500 diamond hands than having 5000 paper-handed virgins on board.
+>>
+>>  Burn them!! Damn paper hands trying to sell for $5.
+>>
+>>  Burn baby burn.
+>>
+>>  Burn burn burn burn. Please do not reincarnate … let's lower the supply.
+>>
+>> This floor price project is basically over.
+>>
+>>> Its been less than 48hrs.  This isn't over until I say it's over!!!
+
+And on and on. It's all about the art, isn't it?
+
+
 ---
 
 Reposted from [**On Air Now! Live Art Base Coding Session - Let's Download the 6666 Monkerunner Token Meta Data, Images, & More - Strong Together Don't Fall From The Branch - Follow Along**](https://old.reddit.com/r/DIYPunkArt/comments/vlr8u7/on_air_now_live_art_base_coding_session_lets/):
