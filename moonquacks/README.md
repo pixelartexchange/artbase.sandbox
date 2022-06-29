@@ -15,7 +15,7 @@ What's your take on the Moonquacks? Are Quacking Ducks the new Boring Monke's?
 
 ----
 
-Note:  For full follow along step-by-step documentation see  [**On Air Now! Live Art Base Coding Session - Let's Download the 10 000 Moonrunner Token Meta Data, Images, & More - Don't Get Left Out Of The Pack - Follow Along**](https://old.reddit.com/r/DIYPunkArt/comments/vkz1fx/on_air_now_live_art_base_coding_session_lets/). Here  I post updates throughout the day - but a little less in detail.    I try to upload all scripts, token metadata, images and more  over at the  pixel art exchange.  In the artbase.sandbox see [**/moonquaks »**](https://github.com/pixelartexchange/artbase.sandbox/tree/master/moonquacks)
+Note:  For full follow along step-by-step documentation see  [**On Air Now! Live Art Base Coding Session - Let's Download the 10 000 Moonrunner Token Meta Data, Images, & More - Don't Get Left Out Of The Pack - Follow Along**](https://old.reddit.com/r/DIYPunkArt/comments/vkz1fx/on_air_now_live_art_base_coding_session_lets/). Here  I post updates throughout the day - but a little less in detail.    I try to upload all scripts, token metadata, images and more  over at the  pixel art exchange.  In the artbase.sandbox see [**/moonquacks »**](https://github.com/pixelartexchange/artbase.sandbox/tree/master/moonquacks)
  
 
 Okkie - let's start - the Moonquacks token contract:
