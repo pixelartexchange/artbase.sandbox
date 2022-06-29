@@ -47,6 +47,17 @@
 
 
 
+## Live Coding Session Transcripts
+
+[**On Air Now! Live Art Base Coding Session - Let's Download the 10 000 Moonrunner Token Meta Data, Images, & More - Don't Get Left Out Of The Pack**](moonrunners)
+
+[**On Air Now! Live Art Base Coding Session - Let's Download the 2222 Moonhunter Cheetah Token Meta Data, Images, & More**](moon-hunters)
+
+[**On Air Now! Live Art Base Coding Session - Let's Download the 6666 Monkerunner Token Meta Data, Images, & More - Strong Together Don't Fall From The Branch [Into The Lava]**](monkerunners)
+
+[**On Air Now! Live Art Base Coding Session - Let's Download the 3500 Moonquaks Token Meta Data, Images (Incl. 8 1/1s), & More - If It Looks Like A Duck, Swims Like A Duck, And Quacks Like A Duck...**](moonquaks)
+
+
 
 
 
