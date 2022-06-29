@@ -1,16 +1,16 @@
-Reposted from [**On Air Now! Live Art Base Coding Session - Let's Download the 3500 Moonquaks Token Meta Data, Images (Incl. 8 1/1s), & More - Follow Along - If It Looks Like A Duck, Swims Like A Duck, And Quacks Like A Duck...**](https://old.reddit.com/r/DIYPunkArt/comments/vnaw7f/on_air_now_live_art_base_coding_session_lets/):
+Reposted from [**On Air Now! Live Art Base Coding Session - Let's Download the 3500 Moonquacks Token Meta Data, Images (Incl. 8 1/1s), & More - Follow Along - If It Looks Like A Duck, Swims Like A Duck, And Quacks Like A Duck...**](https://old.reddit.com/r/DIYPunkArt/comments/vnaw7f/on_air_now_live_art_base_coding_session_lets/):
 
   let's continue the tradition started Sunday June 26th - and for more live coding fun today - let's try another moon-themed collection to download - or is it "right-click & save" -  using the [**artbase machinery »**](https://github.com/pixelartexchange/artbase)
 
   Any good pixel art collections out there?     Yes, you can - tell us and post a comment.
 
-  Let's start with 3500 Moonquaks (SOLD OUT!). Advertised as "by a team of non-billionaires [...] we're looking to democratize generational wealth for everyone" or such crypto bro nonsense.  Learn more at the official links:
+  Let's start with 3500 Moonquacks (SOLD OUT!). Advertised as "by a team of non-billionaires [...] we're looking to democratize generational wealth for everyone" or such crypto bro nonsense.  Learn more at the official links:
 
 - https://moonquacks.xyz
 - https://opensea.io/collection/moonquacks
 - https://twitter.com/moonquacksnft
 
-What's your take on the Moonquaks? Are Ducks the new Monke's? Yes, you can. Tell us and post a comment.
+What's your take on the Moonquacks? Are Quacking Ducks the new Boring Monke's? 
 
 
 ----
@@ -86,19 +86,19 @@ And now you can:
 
 1) Download all metadata one-by-one using:
 
-      $ artbase moonquaks m
+      $ artbase moonquacks m
 
 2) Download all images one-by-one using:
 
-      $ artbase moonquaks i
+      $ artbase moonquacks i
 
 3) Downsample (from 350x350 to 42x42) / pixelate all images one-by-one using:
 
-      $ artbase moonquaks px
+      $ artbase moonquacks px
 
 4) Generate an all-in-one composite:
 
-      $ artbase moonquaks composite
+      $ artbase moonquacks composite
 
 And more.
 
