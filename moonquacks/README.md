@@ -28,18 +28,19 @@ And let's try query for the tokenURI for token #1 resulting in:
 
 And the meta data record for token #1 reads:
 
-     {"name":"MoonQuacks #1",
-       "description":"MoonQuacks is a collection of 3,500...",
-    "image":"ipfs://Qmea6VGe5x7NgsnNEbbUZ3KT49gy2NEEu3UAAMMw6ZFnTs/1",
-    "attributes":[
-     {"trait_type":"Background","value":"Green"},
-     {"trait_type":"Body","value":"Brown"},
-     {"trait_type":"Outerwear","value":"None"},
-     {"trait_type":"Headgear","value":"None"},
-     {"trait_type":"Bill","value":"Yellow"},
-     {"trait_type":"Eyes","value":"Rainbow"},
-     {"trait_type":"Eyewear","value":"Monocle"}]}
-
+``` json
+{"name":"MoonQuacks #1",
+ "description":"MoonQuacks is a collection of 3,500...",
+ "image":"ipfs://Qmea6VGe5x7NgsnNEbbUZ3KT49gy2NEEu3UAAMMw6ZFnTs/1",
+ "attributes":[
+     {"trait_type":"Background", "value":"Green"},
+     {"trait_type":"Body", "value":"Brown"},
+     {"trait_type":"Outerwear", "value":"None"},
+     {"trait_type":"Headgear", "value":"None"},
+     {"trait_type":"Bill"," value":"Yellow"},
+     {"trait_type":"Eyes"," value":"Rainbow"},
+     {"trait_type":"Eyewear", "value":"Monocle"}]}
+```
 
 And let's try some more:
 
@@ -71,13 +72,15 @@ A: The zoom factor is 8x+ and the true pixel art dimension is 42x42 (8px x 42  =
 
 Now let's hand it over to the artbase machinery. Let's add the collection configuration in /moonquaks/collection.rb reading:
 
-     COLLECTION = TokenCollection.new( 'moonquacks', 3500,
+``` ruby
+COLLECTION = TokenCollection.new( 'moonquacks', 3500,
        token_base: 'ipfs://QmS3vn9hNd2sxM4igwbT3qfafXYxeeiArC67ETKx4vQuLS/{id}',
        image_base: 'ipfs://Qmea6VGe5x7NgsnNEbbUZ3KT49gy2NEEu3UAAMMw6ZFnTs/{id}',
        format: '42x42',    # 8px * 42 = 336 (+14)
        source: '350x350',
        offset: 1,
-     )
+)
+```
 
 And now you can:
 
