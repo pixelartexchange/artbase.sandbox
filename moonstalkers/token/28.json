@@ -1,0 +1,50 @@
+{
+  "name": "MoonStalkers #28",
+  "description": "6688 Moonstalkers preserving the balance of the realms. Enter Fedora and claim yours now to join the quest",
+  "image": "ipfs://bafybeif4rzdlhl6olmgxuy5deyfpraxzzuo4wiijjnm7yetsi4y5e7nb2a/28.png",
+  "custom_fields": {
+    "dna": "ad2e48ad099ecb534abef8ec5252991a33951fad",
+    "edition": 28,
+    "date": 1656517389308,
+    "compiler": "Moon Engine"
+  },
+  "external_url": "https://moonstalkers.quest",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stalker"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Choco"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DoubtBlue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oh"
+    },
+    {
+      "trait_type": "FaceStuff",
+      "value": "DriedScar"
+    },
+    {
+      "trait_type": "EyeWear",
+      "value": "ReadingGlass"
+    },
+    {
+      "trait_type": "Abovehead",
+      "value": "SafariHat"
+    },
+    {
+      "trait_type": "Outerwear",
+      "value": "IamGonnaHuntyouDown"
+    }
+  ]
+}
