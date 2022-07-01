@@ -1,0 +1,13 @@
+##
+# see   https://pixelgoblintown.xyz
+#       https://opensea.io/collection/pixel-goblintown
+#       https://twitter.com/pixelgoblinnft
+#       https://etherscan.io/address/0x255503fe2a00f6b1e3b8a893e2a4c2363be38225
+
+COLLECTION = TokenCollection.new( 'goblintown', 4444,
+                     token_base: 'ipfs://QmYnChZoVXKqgB2uEsN2vehg5Gqb57oRwdaAq3jLo2xLPC/{id}.json',
+                     image_base: 'ipfs://QmfDU1BngfoatA7379giVNWUpdRfXFscHFspUEWaVMaZA2/{id}.png',
+                     format: '42x42',    #  ???
+                     source: '600x600',
+)
+
