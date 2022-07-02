@@ -1,0 +1,34 @@
+{
+  "name": "Alien #48",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/48.png",
+  "dna": "17d17f5ce903afe26f547c157cfed2ebb647c55a",
+  "edition": 48,
+  "date": 1639462167648,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pyramid"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Overall Lumberjack Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Propeller Cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}

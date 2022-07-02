@@ -1,0 +1,34 @@
+{
+  "name": "Alien #37",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/37.png",
+  "dna": "88d990811ec8d5082888b254370e282e28b80190",
+  "edition": 37,
+  "date": 1639463154072,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Small Moon"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Sweater Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}

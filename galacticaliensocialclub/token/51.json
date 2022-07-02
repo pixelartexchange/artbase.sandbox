@@ -1,0 +1,34 @@
+{
+  "name": "Alien #51",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/51.png",
+  "dna": "0f69eac9e736280f075c9f469300bc4c3576a191",
+  "edition": 51,
+  "date": 1639450803580,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "K Way White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}

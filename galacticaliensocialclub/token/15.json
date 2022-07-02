@@ -1,0 +1,34 @@
+{
+  "name": "Alien #15",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/15.png",
+  "dna": "70a32cf8a0334067b2cd4a5446eb0fda5de22de5",
+  "edition": 15,
+  "date": 1639462041330,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Small Moon"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Turtleneck Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}

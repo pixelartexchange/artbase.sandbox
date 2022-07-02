@@ -1,0 +1,34 @@
+{
+  "name": "Alien #14",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/14.png",
+  "dna": "51e3572b30363f40f91e6558707c2784b54ce2ce",
+  "edition": 14,
+  "date": 1639449808884,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Clouds"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Sweater Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}

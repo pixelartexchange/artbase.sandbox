@@ -1,0 +1,34 @@
+{
+  "name": "Alien #11",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/11.png",
+  "dna": "feb060d3e4a8aa242afbd4245c05b989b6cedf63",
+  "edition": 11,
+  "date": 1639465890947,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "K Way Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Backward Cap White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}

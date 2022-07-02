@@ -1,0 +1,34 @@
+{
+  "name": "Alien #19",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/19.png",
+  "dna": "340c5c8184e704b0926566618009227830c59154",
+  "edition": 19,
+  "date": 1639463495565,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Polo Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses Nerd"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Backward Cap Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}

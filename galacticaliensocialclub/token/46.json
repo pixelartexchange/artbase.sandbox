@@ -1,0 +1,34 @@
+{
+  "name": "Alien #46",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/46.png",
+  "dna": "225539712e2dde3ec686eba5f048284d15a336f6",
+  "edition": 46,
+  "date": 1639459458726,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Big Moon"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Polo Orange"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disappointed"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}

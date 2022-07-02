@@ -1,0 +1,34 @@
+{
+  "name": "Alien #50",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/50.png",
+  "dna": "14769cbaa11e9a2b76b646a0497701037b52044d",
+  "edition": 50,
+  "date": 1639452518739,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Satellite"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "T Shirt Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pupil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}

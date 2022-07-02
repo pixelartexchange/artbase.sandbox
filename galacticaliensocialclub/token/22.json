@@ -1,0 +1,34 @@
+{
+  "name": "Alien #22",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/22.png",
+  "dna": "8fe2a339352feb6b49a5e6b583b62c04cfbe84b7",
+  "edition": 22,
+  "date": 1639466464710,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Lumberjack Shirt Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket Hat Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Alien #17",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/17.png",
+  "dna": "4b34419b98458716ab75581de64b0182c6b51970",
+  "edition": 17,
+  "date": 1639452273403,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Clouds"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Hoodie Off Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pupil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beret Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}

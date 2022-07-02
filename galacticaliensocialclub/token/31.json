@@ -1,0 +1,34 @@
+{
+  "name": "Alien #31",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/31.png",
+  "dna": "5d64245dd53363f141bb24e0ab93c4dbc6d03c73",
+  "edition": 31,
+  "date": 1639462120441,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Clouds"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Turtleneck Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket Hat Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}

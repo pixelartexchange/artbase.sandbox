@@ -1,0 +1,34 @@
+{
+  "name": "Alien #39",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/39.png",
+  "dna": "8cdf5706de4420758bdac90eb8920981abe68f89",
+  "edition": 39,
+  "date": 1639467109798,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Clouds"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Sweater Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fear"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oopsie"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}

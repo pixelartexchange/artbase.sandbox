@@ -1,0 +1,34 @@
+{
+  "name": "Alien #16",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/16.png",
+  "dna": "0636b6b1baa6c7c8041fb593162e6ef40de7d2bb",
+  "edition": 16,
+  "date": 1639451694023,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Clouds"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "K Way White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Backward Cap Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirking"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Alien #10",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/10.png",
+  "dna": "b33bf8e813d469407592d7bdca35fde65bc925f6",
+  "edition": 10,
+  "date": 1639464470572,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Clouds"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Turtleneck Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Malicious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beret Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oopsie"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}

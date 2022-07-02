@@ -1,0 +1,34 @@
+{
+  "name": "Alien #18",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/18.png",
+  "dna": "45252f5666693b3a8d7045be4f054d275dba4307",
+  "edition": 18,
+  "date": 1639450028451,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Turtleneck Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Backward Cap Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shy"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}

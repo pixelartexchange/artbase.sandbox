@@ -1,0 +1,34 @@
+{
+  "name": "Alien #36",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/36.png",
+  "dna": "fa293a36728b9d5274c3bd31607055fb4727e858",
+  "edition": 36,
+  "date": 1639466614355,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sirius"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Tie Shirt Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beret Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oopsie"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}

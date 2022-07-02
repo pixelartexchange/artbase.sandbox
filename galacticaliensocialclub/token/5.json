@@ -1,0 +1,34 @@
+{
+  "name": "Alien #5",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/5.png",
+  "dna": "634ea6cacd1f7d4067fd5f358ce3f12c3eda7211",
+  "edition": 5,
+  "date": 1639451549585,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Big Moon"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Robinhood"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket Hat Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}

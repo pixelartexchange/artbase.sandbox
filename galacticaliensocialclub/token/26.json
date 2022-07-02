@@ -1,0 +1,34 @@
+{
+  "name": "Alien #26",
+  "description": "",
+  "image": "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/26.png",
+  "dna": "292a422fa5e5a55305a7fc6e2e48870f96da43b6",
+  "edition": 26,
+  "date": 1639464888297,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Satellite"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Baseball Jacket Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    }
+  ]
+}
