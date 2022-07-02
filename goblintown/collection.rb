@@ -7,7 +7,7 @@
 COLLECTION = TokenCollection.new( 'goblintown', 4444,
                      token_base: 'ipfs://QmYnChZoVXKqgB2uEsN2vehg5Gqb57oRwdaAq3jLo2xLPC/{id}.json',
                      image_base: 'ipfs://QmfDU1BngfoatA7379giVNWUpdRfXFscHFspUEWaVMaZA2/{id}.png',
-                     format: '42x42',    #  ???
+                     format: '48x48',    #  12x * 48 = 576 + 24
                      source: '600x600',
 )
 
