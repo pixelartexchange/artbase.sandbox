@@ -36,11 +36,11 @@ end
 
 
 
-composite = gen_composite( "pridepunks2018",  width: 23, height: 23,
+composite = gen_composite( "pridepunks",  width: 23, height: 23,
                                              mirror: true,
                                              background: '#638596' )
-composite.save( "./tmp/pridepunks2018-23x23.png" )
-composite.zoom(4).save( "./tmp/pridepunks2018-23x23@4x.png" )
+composite.save( "./tmp/pridepunks-23x23.png" )
+composite.zoom(4).save( "./tmp/pridepunks-23x23@4x.png" )
 
 
 
@@ -57,10 +57,6 @@ composite = gen_composite( "moonbirdpunks",  width: 50, height: 50,
 composite.save( "./tmp/moonbirdpunks-50x50.png" )
 
 
-
-composite = gen_composite( "starbirds",  width: 42, height: 42,
-                                             mirror: true )
-composite.save( "./tmp/starbirds-42x42.png" )
 
 
 

@@ -35,12 +35,6 @@ composite.save( "./tmp/binaryapes-24x24.png" )
 
 
 
-composite = gen_composite( "proof-moonbirds", width: 42, height: 42,
-                                              mirror: true )
-composite.save( "./tmp/proof-moonbirds-42x42.png" )
-
-
-
 puts "bye"
 
 

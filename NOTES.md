@@ -1,5 +1,12 @@
 # Notes
 
+## Todos / Downloads In Progress
+
+-  galacticaliens -
+-  unemployables -
+-  nounpunks -
+- ...
+
 
 ## Todos / Fix
 
