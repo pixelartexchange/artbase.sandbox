@@ -6,44 +6,61 @@
 
 <!-- punk style -->
 
-24x24px Bears  - 5000 max. <br>
-![](i/etherbears-strip.png)
+20×20px Marilyns  - 14 max. <br>
+![](i/marilyns-strip.png)
 
 
-24x24px Binary Apes - 10 000 max. - formerly (Crypto) Binary Ape Yolo Club (BAYC)  <br>
+24×24px Bears  - 5000 max. <br>
+![](i/bears-strip.png)
+
+
+24×24px Binary Apes - 10 000 max. - formerly (Crypto) Binary Ape Yolo Club (BAYC)  <br>
 ![](i/binaryapes-strip.png)
 
-24x24px Punk Ape Pixel Club (PAPC) - 5555 max.  <br>
+24×24px Punk Ape Pixel Club (PAPC) - 5555 max.  <br>
 ![](i/papc-punk-ape-pixel-club-strip.png)
 
 
-24x24px Noun Punks - 9969 max. <br>
+24×24px Noun Punks - 9969 max. <br>
 ![](i/nounpunks-strip.png)
 
 
-23x23px Pride Punks - 9640 (?) max. <br>
+23×23px Pride Punks - 9640 (?) max. <br>
 ![](i/pridepunks2018-strip.png)
 
 
 <!-- 8-bit style -->
 
-24x24px Unemployables - 5000 max. <br>
+24×24px Unemployables - 5000 max. <br>
 ![](i/unemployables-strip.png)
 
 
-24x24px 8-Bits - 8888 max.   - also known as Eight Bit Me (Profile Pics)<br>
+24×24px 8-Bits - 8888 max.   - also known as Eight Bit Me (Profile Pics)<br>
 ![](i/eightbitme-strip.png)
+
+
+28×28px Galactic Aliens - 10 000 max. -  also known as Galactic Alien Social Club <br>
+![](i/galacticaliensocialclub-strip.png)
 
 
 
 <!-- moonbird style -->
 
-34x34px Moonbears - 4000 max. <br>
+34×34px Moonbears - 4000 max. <br>
 ![](i/moonbears-nft-strip.png)
 
 
-50x50px Moonbird Punks - 2469 max.  <br>
+50×50px Moonbird Punks - 2469 max.  <br>
 ![](i/moonbirdpunks-strip.png)
+
+
+
+<!-- goblin style -->
+
+48×48px Goblin Town - 4444 max. <br>
+![](i/goblintown-strip.png)
+
+
 
 
 
