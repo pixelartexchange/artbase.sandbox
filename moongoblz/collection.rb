@@ -8,7 +8,7 @@
 
 COLLECTION = TokenCollection.new( 'moongoblz', 6666,
                      token_base: 'https://gateway.pinata.cloud/ipfs/Qmcnsy1KAVCqsKomSkT7vPfYGPjGGt8wAtbWBr5vCnDeBm/{id}',
-                     format: '50x50',    # 1ßpx*50 = 500
+                     format: '50x50',    # 10px*50 = 500
                      source: '500x500',
 )
 

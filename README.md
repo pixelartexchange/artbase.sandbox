@@ -47,11 +47,16 @@
 <!-- moonbird style -->
 
 34×34px Moonbears - 4000 max. <br>
-![](i/moonbears-nft-strip.png)
+![](i/moonbears-strip.png)
 
 
 50×50px Moonbird Punks - 2469 max.  <br>
 ![](i/moonbirdpunks-strip.png)
+
+
+50×50px  Monke' Runners - 6666 max. <br>
+![](i/monkerunners-strip.png)
+
 
 
 
@@ -59,6 +64,9 @@
 
 48×48px Goblin Town - 4444 max. <br>
 ![](i/goblintown-strip.png)
+
+50×50px  Moon Goblinz - 6666 max. <br>
+![](i/moongoblz-strip.png)
 
 
 
