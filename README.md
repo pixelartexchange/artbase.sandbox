@@ -14,7 +14,7 @@
 ![](i/bears-strip.png)
 
 
-24×24px Binary Apes - 10 000 max. - formerly (Crypto) Binary Ape Yolo Club (BAYC)  <br>
+24×24px (Binary) Apes - 10 000 max. - formerly (Crypto) Binary Ape Yolo Club (BAYC)  <br>
 ![](i/binaryapes-strip.png)
 
 24×24px Punk Ape Pixel Club (PAPC) - 5555 max.  <br>
@@ -26,7 +26,7 @@
 
 
 23×23px Pride Punks - 9640 (?) max. <br>
-![](i/pridepunks2018-strip.png)
+![](i/pridepunks-strip.png)
 
 
 <!-- 8-bit style -->
@@ -49,13 +49,29 @@
 34×34px Moonbears - 4000 max. <br>
 ![](i/moonbears-strip.png)
 
+42×42px Moonquacks (Ducks) - 3500 max. <br>
+![](i/moonquacks-strip.png)
 
-50×50px Moonbird Punks - 2469 max.  <br>
+
+44×44px Moonstalkers (Cats) - 6688 max. <br>
+![](i/moonstalkers-strip.png)
+
+
+
+50×50px Moonbird x Punks - 2469 max.  <br>
 ![](i/moonbirdpunks-strip.png)
+
+
+50×50px  Moonrunners (Wolfpack) - 10 000 max. <br>
+![](i/moonrunners-strip.png)
+
 
 
 50×50px  Monke' Runners - 6666 max. <br>
 ![](i/monkerunners-strip.png)
+
+64×64px  Moonhunters (Cheetahs) - 2200 max. - also known as Cheetah Coaltion  <br>
+![](i/moonhunters-strip.png)
 
 
 
