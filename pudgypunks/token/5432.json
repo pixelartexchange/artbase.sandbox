@@ -1,0 +1,26 @@
+{
+  "name": 5432,
+  "image": "ipfs://QmQYpfPXRk7ZT4FUC6DLZ1xeMRXDjN47bDoULU7JTqRbnX",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Vote for Pudgy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Polar Bear Hat"
+    }
+  ]
+}

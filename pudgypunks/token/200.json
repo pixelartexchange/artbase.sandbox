@@ -1,0 +1,26 @@
+{
+  "name": 200,
+  "image": "ipfs://QmYpycZg9VNj71jKCy1RDM14ySs4N24uqPu7RwPPdCgEhx",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cross Eyed"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Christmas Sweater Red"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket Hat Green"
+    }
+  ]
+}

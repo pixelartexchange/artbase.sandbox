@@ -1,0 +1,26 @@
+{
+  "name": 42,
+  "image": "ipfs://QmR55zDgtfTfYQ6kpdYC9eP2bXY1h4SxEYNsbmKEENSMWW",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Kimono Pink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Macaroni"
+    }
+  ]
+}

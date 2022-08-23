@@ -1,0 +1,26 @@
+{
+  "name": 3306,
+  "image": "ipfs://QmSfK2vd65ttAc7g4Hfe11ZxiTw779bhsiW9jR6zwZQ2DQ",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Overalls"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Backwards Hat Red"
+    }
+  ]
+}

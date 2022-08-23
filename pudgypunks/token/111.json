@@ -1,0 +1,26 @@
+{
+  "name": 111,
+  "image": "ipfs://QmY9WiUGi8XtutsF6cHYEFfkYfeJb5m4DYAArKVvKK3BxY",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scarf Blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ninja Headband"
+    }
+  ]
+}
