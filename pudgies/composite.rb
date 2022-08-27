@@ -1,13 +1,13 @@
 #####
 # to run use:
-#   $ ruby pudgypenguins/composite.rb
+#   $ ruby pudgies/composite.rb
 
 
 require_relative '../artbase'
 
 
 
-collection = 'pudgypenguins'
+collection = 'pudgies'
 
 
 
