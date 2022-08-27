@@ -1,0 +1,17 @@
+
+
+slug:       pudgypenguins
+count:      5000
+token_base: ipfs://bafybeian35gnhdimzrnbuzxdui5ysxfx2h2xgkhykuoifjl6zfe6tap43y/{id}.json
+image_base: ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/{id}.png
+format:     28x28
+source:     720x720
+offset: 1
+
+##
+# see https://pudgies.phunks.net/
+#     https://etherscan.io/address/0xFf7d1DE1806853cfE81Af936e6d660f4b1F6a753
+
+web:        pudgies.phunks.net
+etherscan:  0xFf7d1DE1806853cfE81Af936e6d660f4b1F6a753
+
