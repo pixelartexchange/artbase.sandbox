@@ -1,0 +1,19 @@
+
+slug:       bears
+count:      5000
+token_base: openstore@opensea
+format:     24x24
+source:     384x384
+offset:      1        ## note: starting at 1 (and NOT at 0) e.g. 1..5000 (NOT 0..4999)  !!!
+
+
+
+###
+#  see https://etherbears.club
+#      https://opensea.io/collection/etherbears
+#      https://twitter.com/ether_bear
+
+web: etherbears.club
+opensea: etherbears
+twitter:  ether_bear
+
