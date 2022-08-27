@@ -1,3 +1,6 @@
+## Original Pudgy Penguins traits were handcrafted
+# in 28 pixel format and programatically composed
+# to generate 5000 unique Pudgy combinations and 5 1/1s.
 
 
 slug:       pudgies
@@ -13,5 +16,6 @@ offset: 1
 #     https://etherscan.io/address/0xFf7d1DE1806853cfE81Af936e6d660f4b1F6a753
 
 web:        pudgies.phunks.net
+opensea:    pixelpudgies
 etherscan:  0xFf7d1DE1806853cfE81Af936e6d660f4b1F6a753
 
