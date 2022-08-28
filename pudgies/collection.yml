@@ -2,13 +2,20 @@
 # in 28 pixel format and programatically composed
 # to generate 5000 unique Pudgy combinations and 5 1/1s.
 
+# 5 1/1s in 840x840px ??
+#   - No. 435  -- CryptoPhunk
+#   - No. 756   -- Supermarket Green
+#   - No. 1580 -- Grayscale
+#   - No. 2319  -- Trick or Treat
+#   - No. 3618  -- Underwater
+
 
 slug:       pudgies
 count:      5000
 token_base: ipfs://bafybeian35gnhdimzrnbuzxdui5ysxfx2h2xgkhykuoifjl6zfe6tap43y/{id}.json
 image_base: ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/{id}.png
 format:     28x28
-source:     720x720
+source:     [720x720,840x840]
 offset: 1
 
 ##
