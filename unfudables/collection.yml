@@ -1,0 +1,27 @@
+# Unfudables is a collection inspired by Unemployables by able.com.
+# The Bored Ape character was selected for its market domination
+#  while the collection title was chosen
+# to represent the fortitude of the non-fungible token community
+# for its unwillingness to concede defeat regardless
+# of scams, hacks, rugs, and market capitulation.
+#
+# Original BAYC traits were designed in 24 pixel format
+# and programatically composed to generate 7500 unique combinations.
+
+
+slug:       unfudables
+count:      7500
+token_base: ipfs://bafybeiexujemaja5zfur5nrsvylpabyozsb5ejk3tugodh6xs2b3n5elaa/{id}.json
+image_base: ipfs://bafybeigyhiyyhid326uqte6xkgy5mxat7qol2amsne54etgr77ptiv3ypu/{id}.png
+format:     24x24
+source:     1080x1080
+offset: 1
+
+##
+# see https://unfudables.phunks.net/
+#     https://etherscan.io/address/0xfb47683d2cca9ecc2d84674bb8658611fd56f277
+
+web:        unfudables.phunks.net
+opensea:    unfudables
+etherscan:  0xfb47683d2cca9ecc2d84674bb8658611fd56f277
+

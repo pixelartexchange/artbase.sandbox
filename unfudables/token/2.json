@@ -1,0 +1,15 @@
+{
+  "name": "Unfudables #2",
+  "description": "They can't fud this.",
+  "image": "ipfs://bafybeigyhiyyhid326uqte6xkgy5mxat7qol2amsne54etgr77ptiv3ypu/2.png",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Smoking Jacket"
+    }
+  ]
+}
