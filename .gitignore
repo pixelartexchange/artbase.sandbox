@@ -15,7 +15,11 @@ token-i/
 ##                        or tmp or /tmp or tmp/ or /tmp/ etc.
 
 ###
-# exlucde faster pixelator binary
+# exclude faster pixelator binary
 pixelator.exe
 
+
+###
+# exclude all dbs
+*.db
 
