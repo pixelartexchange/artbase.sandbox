@@ -1,0 +1,31 @@
+{
+  "name": "Pudgy #3360",
+  "description": "A 28px derivative of Pudgy Penguins by Twitter.com/TheSkullCat.",
+  "image": "ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/3360.png",
+  "dna": "d2e12ae4b99b6a23e80c8c58b115b033759fad46",
+  "edition": 3360,
+  "date": 1661371168799,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Leopard Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pudgy Man"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Flat Cap Blue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

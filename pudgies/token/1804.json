@@ -1,0 +1,31 @@
+{
+  "name": "Pudgy #1804",
+  "description": "A 28px derivative of Pudgy Penguins by Twitter.com/TheSkullCat.",
+  "image": "ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/1804.png",
+  "dna": "5197391ba5438c44aa943391abb6a52c09c08665",
+  "edition": 1804,
+  "date": 1661371134622,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ice Coat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Durag Red"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

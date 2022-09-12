@@ -1,0 +1,31 @@
+{
+  "name": "Pudgy #806",
+  "description": "A 28px derivative of Pudgy Penguins by Twitter.com/TheSkullCat.",
+  "image": "ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/806.png",
+  "dna": "07a1913070507da71e2196d94337e45e2c32f60f",
+  "edition": 806,
+  "date": 1661371731729,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scarf Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cross Eyed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

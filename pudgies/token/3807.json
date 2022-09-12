@@ -1,0 +1,31 @@
+{
+  "name": "Pudgy #3807",
+  "description": "A 28px derivative of Pudgy Penguins by Twitter.com/TheSkullCat.",
+  "image": "ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/3807.png",
+  "dna": "9651133af1b51de5fe1b2e0a7d2016c119f16d3c",
+  "edition": 3807,
+  "date": 1661371096641,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Leopard Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hoodie Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Pudgy #1981",
+  "description": "A 28px derivative of Pudgy Penguins by Twitter.com/TheSkullCat.",
+  "image": "ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/1981.png",
+  "dna": "a37af7220b0d055cf4a746c1356b7a2eb5b6b5be",
+  "edition": 1981,
+  "date": 1661371105136,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Beige"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Lab Coat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Blushing"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Flat Cap Tan"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

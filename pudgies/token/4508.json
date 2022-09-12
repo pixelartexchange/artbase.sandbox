@@ -1,0 +1,31 @@
+{
+  "name": "Pudgy #4508",
+  "description": "A 28px derivative of Pudgy Penguins by Twitter.com/TheSkullCat.",
+  "image": "ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/4508.png",
+  "dna": "97113a2f09e3ecd6817438214c254e0d8230d016",
+  "edition": 4508,
+  "date": 1661371439580,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tangerine"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Gray"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bath Robe"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cross Eyed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Egg"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

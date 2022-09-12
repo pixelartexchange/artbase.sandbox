@@ -1,0 +1,31 @@
+{
+  "name": "Pudgy #662",
+  "description": "A 28px derivative of Pudgy Penguins by Twitter.com/TheSkullCat.",
+  "image": "ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/662.png",
+  "dna": "322407003d1c92a9aca7b8f403e1459b4e305a6b",
+  "edition": 662,
+  "date": 1661371366195,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tangerine"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Leopard Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ice Coat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Circle Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket Hat Tan"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

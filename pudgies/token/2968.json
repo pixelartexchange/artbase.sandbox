@@ -1,0 +1,31 @@
+{
+  "name": "Pudgy #2968",
+  "description": "A 28px derivative of Pudgy Penguins by Twitter.com/TheSkullCat.",
+  "image": "ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/2968.png",
+  "dna": "a92ab8c236ee6e7b36b3a1f5718270e8dc49b51e",
+  "edition": 2968,
+  "date": 1661371529649,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark Gray"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Surfboard Necklace"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Blushing"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

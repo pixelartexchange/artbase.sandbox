@@ -1,0 +1,31 @@
+{
+  "name": "Pudgy #811",
+  "description": "A 28px derivative of Pudgy Penguins by Twitter.com/TheSkullCat.",
+  "image": "ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/811.png",
+  "dna": "874254c9b39f10dd61e499bccbc4f888a836af08",
+  "edition": 811,
+  "date": 1661371146437,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Maroon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Christmas Lights"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ninja Headband"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

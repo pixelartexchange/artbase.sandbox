@@ -1,0 +1,31 @@
+{
+  "name": "Pudgy #4540",
+  "description": "A 28px derivative of Pudgy Penguins by Twitter.com/TheSkullCat.",
+  "image": "ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/4540.png",
+  "dna": "326a05c3f8142970310abb2189a5397dedd6e149",
+  "edition": 4540,
+  "date": 1661371272199,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tangerine"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tank Top Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Backwards Hat Blue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

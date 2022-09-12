@@ -1,0 +1,31 @@
+{
+  "name": "Pudgy #1581",
+  "description": "A 28px derivative of Pudgy Penguins by Twitter.com/TheSkullCat.",
+  "image": "ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/1581.png",
+  "dna": "567473d2bd725f4445ee5dd1cb4aaf74866a6f94",
+  "edition": 1581,
+  "date": 1661371854643,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Surfboard Necklace"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Circle Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grizzly Bear Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

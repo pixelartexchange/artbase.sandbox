@@ -1,0 +1,31 @@
+{
+  "name": "Pudgy #1737",
+  "description": "A 28px derivative of Pudgy Penguins by Twitter.com/TheSkullCat.",
+  "image": "ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/1737.png",
+  "dna": "829759d6f6d5303264045a96a6e037b0a264e3c7",
+  "edition": 1737,
+  "date": 1661371469905,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Leopard Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Shark Tooth Necklace"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fish Orange"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

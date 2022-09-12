@@ -1,0 +1,27 @@
+{
+  "name": "Pudgy #1580",
+  "description": "A 28px derivative of Pudgy Penguins by Twitter.com/TheSkullCat.",
+  "image": "ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/1580.png",
+  "dna": "a614355b76ba286925c1bf5d85e1ab0e35141fe8",
+  "edition": 1580,
+  "date": 1661371864669,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grayscale"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mirrored"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mirrored"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

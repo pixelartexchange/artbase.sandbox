@@ -1,0 +1,31 @@
+{
+  "name": "Pudgy #4960",
+  "description": "A 28px derivative of Pudgy Penguins by Twitter.com/TheSkullCat.",
+  "image": "ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/4960.png",
+  "dna": "7c1d2c16d10ddd49c8fad579aa50bcea66ba6de6",
+  "edition": 4960,
+  "date": 1661371372427,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Maroon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Shark Tooth Necklace"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Biker Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

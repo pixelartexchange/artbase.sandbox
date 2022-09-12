@@ -1,0 +1,27 @@
+{
+  "name": "Pudgy #2319",
+  "description": "A 28px derivative of Pudgy Penguins by Twitter.com/TheSkullCat.",
+  "image": "ipfs://bafybeievhdwlgmhqjvavokhb75l2uyjfoe6fyzgnkrjoalbhp7vqf6jgtq/2319.png",
+  "dna": "6b89144b62620457389205dc930d47687924874a",
+  "edition": 2319,
+  "date": 1661371453385,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Trick or Treat"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Navy Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pillow Case"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pillow Case"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
