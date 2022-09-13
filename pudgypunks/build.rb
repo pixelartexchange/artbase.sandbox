@@ -7,17 +7,12 @@
 
 
 
-
-## todo/check: add default metadata method - why? why not?
-##    slugifies all keys (see below) - why? why not?
-def to_metadata( attributes )
-  h = {}
-  attributes.each do |key,value|
-    slug = slugify( key )
-    h[ slug ] = value
-  end
-  h
-end
+# 5 attribute(s):
+#  Skin  8888  (13 uniques)
+#  Face  8888  (24 uniques)
+#  Head  8888  (49 uniques)
+#  Body  8888  (57 uniques)
+#  background  8888  (8 uniques)
 
 
 def metadata_columns   ## rename to metadata_schema or such - why? why not?
