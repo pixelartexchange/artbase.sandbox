@@ -74,7 +74,7 @@ OK  opensea @ [eightbitme](https://opensea.io/collection/eightbitme)<br>
  "opensea"=>"eightbitme",
  "web"=>"https://eightbit.me",
  "twitter"=>"eightbit",
- "contract"=>550933535535290892847342048846223203758387971908}
+ "etherscan"=>550933535535290892847342048846223203758387971908}
 ```
 
 ## 28x28  galacticaliensocialclub (in ./galacticaliensocialclub) - 10000 max.

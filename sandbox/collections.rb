@@ -5,34 +5,42 @@
 require 'cocos'   # ruby code commons (cocos)
 
 
+
+def each_dir( glob, exclude: [], &blk )
+   dirs = Dir.glob( glob ).select {|f| File.directory?(f) }
+
+   puts "  #{dirs.size} dir(s):"
+   pp dirs
+
+   dirs.each do |dir|
+      basename = File.basename( dir )
+      ## check for sandbox/tmp/i/etc.  and skip
+      next if exclude.include?( basename )
+
+      blk.call( dir )
+   end
+end
+
+
+
+
 exclude_dirs = %w[
   sandbox
   tmp
   i
 ]
 
-
-dirs = Dir.glob('./*').select {|f| File.directory?(f) }
-
-
-puts "  #{dirs.size} dir(s):"
-pp dirs
-
-
 buf = String.new('')
 warns = []
 
+## (csv) records for collections
+collections = []
+base_url = 'https://github.com/pixelartexchange/artbase.sandbox/raw/master'
 
-dirs.each do |dir|
-   basename = File.basename( dir )
-
-   ## check for sandbox/tmp/i/etc.  and skip
-   next if exclude_dirs.include?( basename )
-
+each_dir( './*', exclude: exclude_dirs ) do |dir|
 
    config_path = "#{dir}/collection.yml"
    if File.exist?( config_path )
-
 
       puts "==> #{dir}:"
       config = read_yaml( config_path )
@@ -41,6 +49,13 @@ dirs.each do |dir|
       config_slug   = config['slug']
       config_format = config['format']
       config_count  = config['count']
+
+      collections << [
+         config_slug,
+         config_format,
+         config_count.to_s,
+         "#{base_url}/#{File.basename(dir)}/collection.yml"
+      ]
 
       buf << "## #{config_format}  #{config_slug} (in #{dir}) - #{config_count} max.\n\n"
 
@@ -98,5 +113,14 @@ write_text( "./COLLECTIONS.md", buf )
 puts
 puts "  #{warns.size} warning(s):"
 pp warns
+
+puts "  #{collections.size} collection(s):"
+pp collections
+
+puts
+collections.each do |values|
+   puts values.join( ', ' )
+end
+
 
 puts "bye"
