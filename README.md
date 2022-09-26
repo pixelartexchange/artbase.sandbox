@@ -30,7 +30,9 @@ Scripts, (token) metadata, images & more
 
 
 **24×24px Noun Punks** - 9969 max. <br>
-![](i/nounpunks-strip.png)
+![](i/nounpunks-strip.png)  <br>
+ [**nounpunks.png**](https://github.com/pixelartexchange/collections/blob/master/nounpunks/nounpunks-24x24.png) (~2.46MB)
+
 
 
 **23×23px Pride Punks** - 9640 (?) max. <br>
@@ -40,7 +42,13 @@ Scripts, (token) metadata, images & more
 <!-- 8-bit style -->
 
 **24×24px Unemployables** - 5000 max. <br>
-![](i/unemployables-strip.png)
+![](i/unemployables-strip.png)  <br>
+[**unemployables.png**](https://github.com/pixelartexchange/collections/blob/master/unemployables/unemployables-24x24.png) (~328kb)
+
+**24×24px Unfudables** - 7500 max. <br>
+![](i/unfudables-strip.png)  <br>
+[**unfudables.png**](https://github.com/pixelartexchange/collections/blob/master/unfudables/unfudables-24x24.png) (~458kb)
+
 
 
 **24×24px 8-Bits** - 8888 max.   - also known as Eight Bit Me (Profile Pics) <br>
@@ -51,7 +59,24 @@ Scripts, (token) metadata, images & more
 
 
 **28×28px Galactic Aliens** - 10 000 max. -  also known as Galactic Alien Social Club <br>
-![](i/galacticaliensocialclub-strip.png)
+![](i/galacticaliensocialclub-strip.png)  <br>
+ [**galacticaliensocialclub.png**](https://github.com/pixelartexchange/collections/blob/master/galacticaliensocialclub/galacticaliensocialclub-28x28.png) (~2.13MB)
+
+
+<!-- pudgy penguin style -->
+
+
+**24x24 Pudgy Punks** -  8888 max. <br>
+![](i/pudgypunks-strip.png)   <br>
+ [**pudgypunks.png**](https://github.com/pixelartexchange/collections/blob/master/pudgypunks/pudgypunks-24x24.png) (~2MB)
+
+
+**28x28 Pudgies** - 5000 max. <br>
+![](i/pudgies-strip.png)   <br>
+ [**pudgies.png**](https://github.com/pixelartexchange/collections/blob/master/pudgies/pudgies-28x28.png) (~707kb)
+
+
+
 
 
 
