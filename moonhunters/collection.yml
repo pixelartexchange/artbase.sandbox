@@ -5,13 +5,14 @@
 ## note: check if token #0 is valid or a dummy ??
 ##            start with token #1 for now
 
-COLLECTION = TokenCollection.new( 'moonhunters', 2200,
-                     token_base: 'ipfs://QmenkDXjhoYdLLEZz9QujRETNhpC1PXExPRmhi22jL7S9i/{id}.json',
-                     image_base: 'ipfs://QmUuCLqJnuFFStWN1JFxLUH4jkiRhFY41eZdxmAv4PaiFh/{id}.png',
-                     format: '64x64',    # 8px * 64 = 512
-                     source: '512x512',
-                     offset: 1
-)
+slug:        moonhunters
+count:       2200
+token_base:  ipfs://QmenkDXjhoYdLLEZz9QujRETNhpC1PXExPRmhi22jL7S9i/{id}.json
+image_base:  ipfs://QmUuCLqJnuFFStWN1JFxLUH4jkiRhFY41eZdxmAv4PaiFh/{id}.png
+format:       64x64    # 8px * 64 = 512
+source:       512x512
+offset:       1
+
 
 
 ### errata:
