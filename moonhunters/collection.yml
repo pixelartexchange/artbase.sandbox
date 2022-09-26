@@ -2,6 +2,17 @@
 # see   https://opensea.io/collection/moon-hunters
 
 
+##
+#  rename to cheetahs - why? why not?
+#  note: It looks like Moonhunter Cheetahs
+#   is a "rebranded" token sale of
+#   the original Cheetah Coalition collection (on Solana).
+#  See the O.G. official links and compare:
+#   - https://magiceden.io/marketplace/cheetah_coalition
+#   - https://twitter.com/CheetahSOL
+
+
+
 ## note: check if token #0 is valid or a dummy ??
 ##            start with token #1 for now
 
@@ -12,6 +23,12 @@ image_base:  ipfs://QmUuCLqJnuFFStWN1JFxLUH4jkiRhFY41eZdxmAv4PaiFh/{id}.png
 format:       64x64    # 8px * 64 = 512
 source:       512x512
 offset:       1
+
+
+##
+## note:
+##   collection incl. gifs
+##    convert_images( collection, from: 'gif', to: 'png')
 
 
 

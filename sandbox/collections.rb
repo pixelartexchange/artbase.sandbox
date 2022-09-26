@@ -60,6 +60,14 @@ each_dir( './*', exclude: exclude_dirs ) do |dir|
       buf << "## #{config_format}  #{config_slug} (in #{dir}) - #{config_count} max.\n\n"
 
 
+      strip_path = "./i/#{config_slug}-strip.png"
+      if File.exist?( strip_path )
+         buf << "![](i/#{config_slug}-strip.png)\n\n"
+      else
+         buf << "!! preview strip missing\n\n"
+         warns << "teaser / preview strip missing for collection >#{dir}<"
+      end
+
       token_dir = "#{dir}/token"
       if Dir.exist?( token_dir )
          count = Dir.glob( "#{token_dir}/*.json" ).length
@@ -116,6 +124,22 @@ pp warns
 
 puts "  #{collections.size} collection(s):"
 pp collections
+
+
+##
+# note sort by format  smaller first e.g. 24x24 to 100x100 etc.
+
+def parse_px( str )
+  str.scan( /\d+/ )[0].to_i
+end
+
+collections = collections.sort do |l,r|
+                                  l_px = parse_px( l[1] )
+                                  r_px = parse_px( r[1] )
+                                  res  = l_px <=> r_px
+                                  res  = l[0] <=> r[0]  if res == 0
+                                  res
+                              end
 
 puts
 collections.each do |values|
