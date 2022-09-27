@@ -15,5 +15,15 @@ source:     600x600
 web:        pixelgoblintown.xyz
 opensea:    pixel-goblintown
 twitter:    pixelgoblinnft
-etherscan:  0x255503fe2a00f6b1e3b8a893e2a4c2363be38225
+
+
+token:
+  contract:  0x255503fe2a00f6b1e3b8a893e2a4c2363be38225
+  name:      Pixel goblintown
+  symbol:    GOBLIN
+  created:   May-21-2022 10:45:51 PM
+
+
+
+
 
