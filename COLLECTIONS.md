@@ -4,7 +4,7 @@
 
 !!   32 of 3333 in /token<br>
 !!   1000 of 3333 in /100x100<br>
-OK  opensea @ [babymoonrunners](https://opensea.io/collection/babymoonrunners)<br>
+!! opensea @ ???<br>
 
 
 ```
@@ -15,8 +15,7 @@ OK  opensea @ [babymoonrunners](https://opensea.io/collection/babymoonrunners)<b
   "ipfs://bafybeihqlcfwnmuwrejq4li6mj4zxhhznxwvc2aox4zlg47kx2lozlry74/{id}.png",
  "format"=>"100x100",
  "source"=>"512x512",
- "offset"=>1,
- "opensea"=>"babymoonrunners"}
+ "offset"=>1}
 ```
 
 ## 24x24  bears (in ./bears) - 5000 max.
@@ -36,8 +35,8 @@ OK  opensea @ [etherbears](https://opensea.io/collection/etherbears)<br>
  "source"=>"384x384",
  "offset"=>1,
  "web"=>"etherbears.club",
- "opensea"=>"etherbears",
- "twitter"=>"ether_bear"}
+ "twitter"=>"ether_bear",
+ "opensea"=>"etherbears"}
 ```
 
 ## 24x24  binaryapes (in ./binaryapes) - 10000 max.
@@ -62,7 +61,7 @@ OK  opensea @ [binaryapes](https://opensea.io/collection/binaryapes)<br>
  "web"=>"binaryapes.org",
  "opensea"=>"binaryapes",
  "token"=>
-  {"contract"=>1260735196504146902210983465332110120553109033384,
+  {"contract"=>"0xdcd552496f0240374e365b7776239672bfd891a8",
    "name"=>"Crypto BAYC",
    "symbol"=>"CBAYC",
    "created"=>"Feb-21-2022 10:30:48 AM"}}
@@ -84,11 +83,11 @@ OK  opensea @ [eightbitme](https://opensea.io/collection/eightbitme)<br>
  "format"=>"24x24",
  "source"=>"1800x1800",
  "offset"=>1,
- "opensea"=>"eightbitme",
  "web"=>"https://eightbit.me",
  "twitter"=>"eightbit",
+ "opensea"=>"eightbitme",
  "token"=>
-  {"contract"=>550933535535290892847342048846223203758387971908,
+  {"contract"=>"0x6080b6d2c02e9a0853495b87ce6a65e353b74744",
    "name"=>"EightBit",
    "symbol"=>"BIT",
    "created"=>"Mar-30-2022 08:43:49 AM"}}
@@ -114,10 +113,10 @@ OK  opensea @ [galacticaliensocialclub](https://opensea.io/collection/galactical
  "source"=>"2800x2800",
  "offset"=>1,
  "web"=>"galacticaliensocialclub.com",
- "opensea"=>"galacticaliensocialclub",
  "twitter"=>"GalacticAlienSC",
+ "opensea"=>"galacticaliensocialclub",
  "token"=>
-  {"contract"=>296806315499441972542146114386505214882719458934,
+  {"contract"=>"0x33fd4167e51a10d19c89c3a606389d0fddc3e676",
    "name"=>"Galactic Alien Social Club",
    "symbol"=>"GASC",
    "created"=>"Dec-16-2021 05:31:17 AM"}}
@@ -142,10 +141,10 @@ OK  opensea @ [pixel-goblintown](https://opensea.io/collection/pixel-goblintown)
  "format"=>"48x48",
  "source"=>"600x600",
  "web"=>"pixelgoblintown.xyz",
- "opensea"=>"pixel-goblintown",
  "twitter"=>"pixelgoblinnft",
+ "opensea"=>"pixel-goblintown",
  "token"=>
-  {"contract"=>213128569686768737952356584764047442783949259301,
+  {"contract"=>"0x255503fe2a00f6b1e3b8a893e2a4c2363be38225",
    "name"=>"Pixel goblintown",
    "symbol"=>"GOBLIN",
    "created"=>"May-21-2022 10:45:51 PM"}}
@@ -169,7 +168,8 @@ OK  opensea @ [monkerunners-official](https://opensea.io/collection/monkerunners
   "ipfs://QmbTuEyZdS7cyG1Si967eWpiS2QaMgofzAsCBgizHFdQGE/{id}.png",
  "format"=>"50x50",
  "source"=>"600x600",
- "opensea"=>"monkerunners-official"}
+ "opensea"=>"monkerunners-official",
+ "token"=>{"contract"=>"0x23e449da6e242d7b94c6d35806f2c5cc9b950ddb"}}
 ```
 
 ## 34x34  moonbears (in ./moonbears) - 4000 max.
@@ -178,7 +178,7 @@ OK  opensea @ [monkerunners-official](https://opensea.io/collection/monkerunners
 
 OK   4000 of 4000 in /token<br>
 OK   4000 of 4000 in /34x34<br>
-!! opensea @ ???<br>
+OK  opensea @ [moonbears-nft](https://opensea.io/collection/moonbears-nft)<br>
 
 
 ```
@@ -188,7 +188,9 @@ OK   4000 of 4000 in /34x34<br>
   "https://moonbears.mypinata.cloud/ipfs/QmXMJ8Eysnx9Qwk1Wozv7UbGKvwr7r7sP2oUg5gwEd3z9R/{id}",
  "format"=>"34x34",
  "source"=>"512x512",
- "offset"=>1}
+ "offset"=>1,
+ "opensea"=>"moonbears-nft",
+ "token"=>{"contract"=>"0x3b8420eb6ef77bc25025b32d8205cde2683f979e"}}
 ```
 
 ## 50x50  moonbirdpunks (in ./moonbirdpunks) - 2469 max.
@@ -197,7 +199,7 @@ OK   4000 of 4000 in /34x34<br>
 
 OK   2469 of 2469 in /token<br>
 OK   2469 of 2469 in /50x50<br>
-!! opensea @ ???<br>
+OK  opensea @ [moonbirdpunks](https://opensea.io/collection/moonbirdpunks)<br>
 
 
 ```
@@ -205,7 +207,9 @@ OK   2469 of 2469 in /50x50<br>
  "count"=>2469,
  "token_base"=>"https://oofcollective.xyz/assets/mbp/metadata/{id}",
  "format"=>"50x50",
- "source"=>"2000x2000"}
+ "source"=>"2000x2000",
+ "opensea"=>"moonbirdpunks",
+ "token"=>{"contract"=>"0x266a5797e803e5e299a806afa51fb2d80ec31911"}}
 ```
 
 ## 50x50  moongoblz (in ./moongoblz) - 6666 max.
@@ -225,9 +229,9 @@ OK  opensea @ [moon-goblz](https://opensea.io/collection/moon-goblz)<br>
  "format"=>"50x50",
  "source"=>"500x500",
  "web"=>"moongoblz.xyz",
- "opensea"=>"moon-goblz",
  "twitter"=>"moongoblz",
- "etherscan"=>655012562863793416966195898464294749448265297405}
+ "opensea"=>"moon-goblz",
+ "token"=>{"contract"=>"0x72bbc77668f8a5fba15333126548a82d27186dfd"}}
 ```
 
 ## 64x64  moonhunters (in ./moonhunters) - 2200 max.
@@ -268,10 +272,10 @@ OK  opensea @ [moonquacks](https://opensea.io/collection/moonquacks)<br>
  "format"=>"42x42",
  "source"=>"350x350",
  "offset"=>1,
- "opensea"=>"moonquacks",
- "etherscan"=>85212033262200045827726374853477980094648358093,
  "web"=>"https://moonquacks.xyz",
- "twitter"=>"moonquacksnft"}
+ "twitter"=>"moonquacksnft",
+ "opensea"=>"moonquacks",
+ "token"=>{"contract"=>"0x0eed0a2b4df338fc1bca6115e4100592632d14cd"}}
 ```
 
 ## 50x50  moonrunners (in ./moonrunners) - 10000 max.
@@ -291,7 +295,8 @@ OK  opensea @ [moonrunnersnft](https://opensea.io/collection/moonrunnersnft)<br>
  "format"=>"50x50",
  "source"=>"300x300",
  "offset"=>1,
- "opensea"=>"moonrunnersnft"}
+ "opensea"=>"moonrunnersnft",
+ "token"=>{"contract"=>"0x1485297e942ce64e0870ece60179dfda34b4c625"}}
 ```
 
 ## 44x44  moonstalkers (in ./moonstalkers) - 6688 max.
@@ -313,7 +318,8 @@ OK  opensea @ [moonstalkers](https://opensea.io/collection/moonstalkers)<br>
  "format"=>"44x44",
  "source"=>"1080x1080",
  "offset"=>1,
- "opensea"=>"moonstalkers"}
+ "opensea"=>"moonstalkers",
+ "token"=>{"contract"=>"0x309014e55d485579c3470d21b248d1e197e4e590"}}
 ```
 
 ## 24x24  nounpunks (in ./nounpunks) - 9969 max.
@@ -322,7 +328,7 @@ OK  opensea @ [moonstalkers](https://opensea.io/collection/moonstalkers)<br>
 
 !!   1000 of 9969 in /token<br>
 OK   9969 of 9969 in /24x24<br>
-!! opensea @ ???<br>
+OK  opensea @ [nounpunks-eth](https://opensea.io/collection/nounpunks-eth)<br>
 
 
 ```
@@ -334,7 +340,9 @@ OK   9969 of 9969 in /24x24<br>
   "ipfs://QmU8YNRbju5KrGgPKbQ529FhJsUnPuuHNwndu5x9fXZdSM/{id}.png",
  "format"=>"24x24",
  "source"=>"1000x1000",
- "offset"=>1}
+ "offset"=>1,
+ "opensea"=>"nounpunks-eth",
+ "token"=>{"contract"=>"0xe169c2ed585e62b1d32615bf2591093a629549b6"}}
 ```
 
 ## 24x24  papc-punk-ape-pixel-club (in ./papc-punk-ape-pixel-club) - 5555 max.
@@ -356,7 +364,8 @@ OK  opensea @ [papc-punk-ape-pixel-club](https://opensea.io/collection/papc-punk
  "source"=>"600x600",
  "offset"=>1,
  "web"=>"https://papc.io",
- "opensea"=>"papc-punk-ape-pixel-club"}
+ "opensea"=>"papc-punk-ape-pixel-club",
+ "token"=>{"contract"=>"0x4af30b139f60c5f9ef5a494674d41e93114f5e1e"}}
 ```
 
 ## 23x23  pridepunks (in ./pridepunks) - 9640 max.
@@ -365,7 +374,7 @@ OK  opensea @ [papc-punk-ape-pixel-club](https://opensea.io/collection/papc-punk
 
 !!   1000 of 9640 in /token<br>
 !!   1000 of 9640 in /23x23<br>
-!! opensea @ ???<br>
+OK  opensea @ [pridepunks2018](https://opensea.io/collection/pridepunks2018)<br>
 
 
 ```
@@ -374,7 +383,9 @@ OK  opensea @ [papc-punk-ape-pixel-club](https://opensea.io/collection/papc-punk
  "token_base"=>
   "ipfs://bafybeihuwyzyxmghhgbk5jvu4rjzwworbnvkfh6ba4pm3xrxb6iovnguhq/{id}",
  "format"=>"23x23",
- "source"=>"336x336"}
+ "source"=>"336x336",
+ "opensea"=>"pridepunks2018",
+ "token"=>{"contract"=>"0x0144b7e66993c6bfab85581e8601f96bfe50c9df"}}
 ```
 
 ## 28x28  pudgies (in ./pudgies) - 5000 max.
@@ -398,7 +409,7 @@ OK  opensea @ [pixelpudgies](https://opensea.io/collection/pixelpudgies)<br>
  "offset"=>1,
  "web"=>"pudgies.phunks.net",
  "opensea"=>"pixelpudgies",
- "etherscan"=>1458582842700402867076267413553229914415755077459}
+ "token"=>{"contract"=>"0xff7d1de1806853cfe81af936e6d660f4b1f6a753"}}
 ```
 
 ## 24x24  pudgypunks (in ./pudgypunks) - 8888 max.
@@ -418,7 +429,7 @@ OK  opensea @ [crypto-pudgy-punks](https://opensea.io/collection/crypto-pudgy-pu
  "format"=>"24x24",
  "source"=>"1000x1000",
  "opensea"=>"crypto-pudgy-punks",
- "etherscan"=>1173559169628993707064255901724379349409411025910}
+ "token"=>{"contract"=>"0xcd903693a2edda8d4c9f69f9937eaf2b38a2cbf6"}}
 ```
 
 ## 24x24  unemployables (in ./unemployables) - 5000 max.
@@ -438,8 +449,9 @@ OK  opensea @ [unemployables](https://opensea.io/collection/unemployables)<br>
  "source"=>"600x600",
  "offset"=>1,
  "web"=>"https://unemployables.io",
+ "twitter"=>"unemployables",
  "opensea"=>"unemployables",
- "twitter"=>"unemployables"}
+ "token"=>{"contract"=>"0xe0be388ab81c47b0f098d2030a1c9ef190691a8a"}}
 ```
 
 ## 24x24  unfudables (in ./unfudables) - 7500 max.
@@ -463,6 +475,6 @@ OK  opensea @ [unfudables-1](https://opensea.io/collection/unfudables-1)<br>
  "offset"=>1,
  "web"=>"unfudables.phunks.net",
  "opensea"=>"unfudables-1",
- "etherscan"=>1434549116880378776645775424389323364922230764151}
+ "token"=>{"contract"=>"0xfb47683d2cca9ecc2d84674bb8658611fd56f277"}}
 ```
 

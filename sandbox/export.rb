@@ -8,15 +8,16 @@ $LOAD_PATH.unshift( "../artbase/artbase-opensea/lib" )
 require 'artbase'
 require 'artbase-opensea'
 
-
+=begin
 linter = CollectionsOpenSeaLinter.new
 linter.lint
 
 puts
 puts "  #{linter.warns.size} warning(s):"
 pp linter.warns
+=end
 
-__END__
+
 
 exporter = CollectionsExporter.new(
             base_url: 'https://github.com/pixelartexchange/artbase.sandbox/raw/master'
