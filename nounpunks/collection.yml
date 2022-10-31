@@ -8,4 +8,10 @@ source:      1000x1000
 offset:      1   ## note: starting at 1 (and NOT at 0)  !!!
 
 
+####
+#  https://opensea.io/collection/nounpunks-eth
 
+opensea:  nounpunks-eth
+
+token:
+  contract:  "0xe169c2ed585e62b1d32615bf2591093a629549b6"

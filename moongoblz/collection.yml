@@ -13,7 +13,12 @@ source:     500x500
 #       https://etherscan.io/address/0x72bbc77668f8a5fba15333126548a82d27186dfd
 
 web:       moongoblz.xyz
-opensea:   moon-goblz
 twitter:   moongoblz
-etherscan: 0x72bbc77668f8a5fba15333126548a82d27186dfd
+
+opensea:   moon-goblz
+
+token:
+  contract: "0x72bbc77668f8a5fba15333126548a82d27186dfd"
+
+
 

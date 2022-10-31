@@ -5,3 +5,9 @@ token_base: ipfs://bafybeihuwyzyxmghhgbk5jvu4rjzwworbnvkfh6ba4pm3xrxb6iovnguhq/{
 format:     23x23      ## note: 23x14= 14px overflow!!!
 source:     336x336
 
+
+opensea:  pridepunks2018
+
+token:
+  contract: "0x0144b7e66993c6bfab85581e8601f96bfe50c9df"
+

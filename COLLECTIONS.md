@@ -60,7 +60,12 @@ OK  opensea @ [binaryapes](https://opensea.io/collection/binaryapes)<br>
  "source"=>"240x240",
  "offset"=>1,
  "web"=>"binaryapes.org",
- "opensea"=>"binaryapes"}
+ "opensea"=>"binaryapes",
+ "token"=>
+  {"contract"=>1260735196504146902210983465332110120553109033384,
+   "name"=>"Crypto BAYC",
+   "symbol"=>"CBAYC",
+   "created"=>"Feb-21-2022 10:30:48 AM"}}
 ```
 
 ## 24x24  eightbitme (in ./eightbitme) - 8888 max.
@@ -82,7 +87,11 @@ OK  opensea @ [eightbitme](https://opensea.io/collection/eightbitme)<br>
  "opensea"=>"eightbitme",
  "web"=>"https://eightbit.me",
  "twitter"=>"eightbit",
- "etherscan"=>550933535535290892847342048846223203758387971908}
+ "token"=>
+  {"contract"=>550933535535290892847342048846223203758387971908,
+   "name"=>"EightBit",
+   "symbol"=>"BIT",
+   "created"=>"Mar-30-2022 08:43:49 AM"}}
 ```
 
 ## 28x28  galacticaliensocialclub (in ./galacticaliensocialclub) - 10000 max.
@@ -107,7 +116,11 @@ OK  opensea @ [galacticaliensocialclub](https://opensea.io/collection/galactical
  "web"=>"galacticaliensocialclub.com",
  "opensea"=>"galacticaliensocialclub",
  "twitter"=>"GalacticAlienSC",
- "etherscan"=>296806315499441972542146114386505214882719458934}
+ "token"=>
+  {"contract"=>296806315499441972542146114386505214882719458934,
+   "name"=>"Galactic Alien Social Club",
+   "symbol"=>"GASC",
+   "created"=>"Dec-16-2021 05:31:17 AM"}}
 ```
 
 ## 48x48  goblintown (in ./goblintown) - 4444 max.
@@ -131,7 +144,11 @@ OK  opensea @ [pixel-goblintown](https://opensea.io/collection/pixel-goblintown)
  "web"=>"pixelgoblintown.xyz",
  "opensea"=>"pixel-goblintown",
  "twitter"=>"pixelgoblinnft",
- "etherscan"=>213128569686768737952356584764047442783949259301}
+ "token"=>
+  {"contract"=>213128569686768737952356584764047442783949259301,
+   "name"=>"Pixel goblintown",
+   "symbol"=>"GOBLIN",
+   "created"=>"May-21-2022 10:45:51 PM"}}
 ```
 
 ## 50x50  monkerunners (in ./monkerunners) - 6666 max.

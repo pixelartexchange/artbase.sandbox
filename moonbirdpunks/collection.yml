@@ -6,3 +6,9 @@ token_base: https://oofcollective.xyz/assets/mbp/metadata/{id}
 format:     50x50
 source:     2000x2000
 
+
+opensea:    moonbirdpunks
+
+token:
+  contract:  "0x266a5797e803e5e299a806afa51fb2d80ec31911"
+

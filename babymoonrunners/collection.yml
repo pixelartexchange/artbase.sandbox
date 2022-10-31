@@ -1,3 +1,8 @@
+##
+# see   https://opensea.io/collection/babymoonrunners
+#         => 404 - This page is lost
+
+
 
 slug:   babymoonrunners
 count:  3333
@@ -6,9 +11,4 @@ image_base: ipfs://bafybeihqlcfwnmuwrejq4li6mj4zxhhznxwvc2aox4zlg47kx2lozlry74/{
 format: 100x100
 source: 512x512
 offset: 1
-
-
-##
-# see   https://opensea.io/collection/babymoonrunners
-opensea: babymoonrunners
 

@@ -12,4 +12,8 @@ source:     1000x1000
 #       https://etherscan.io/address/0xcd903693a2edda8d4c9f69f9937eaf2b38a2cbf6
 
 opensea:    crypto-pudgy-punks
-etherscan:  0xcd903693a2edda8d4c9f69f9937eaf2b38a2cbf6
+
+token:
+  contract:  "0xcd903693a2edda8d4c9f69f9937eaf2b38a2cbf6"
+
+

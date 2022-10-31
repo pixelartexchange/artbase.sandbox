@@ -8,4 +8,10 @@ source:     512x512
 offset:     1         ## note: starting at 1 (and NOT at 0)  !!!
 
 
+##
+# https://opensea.io/collection/moonbears-nft
 
+opensea: moonbears-nft
+
+token:
+  contract: "0x3b8420eb6ef77bc25025b32d8205cde2683f979e"

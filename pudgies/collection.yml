@@ -23,6 +23,9 @@ offset: 1
 #     https://etherscan.io/address/0xFf7d1DE1806853cfE81Af936e6d660f4b1F6a753
 
 web:        pudgies.phunks.net
+
 opensea:    pixelpudgies
-etherscan:  0xFf7d1DE1806853cfE81Af936e6d660f4b1F6a753
+
+token:
+  contract: "0xff7d1de1806853cfe81af936e6d660f4b1f6a753"
 

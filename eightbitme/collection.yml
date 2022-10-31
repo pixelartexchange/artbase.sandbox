@@ -9,13 +9,13 @@ offset:     1  ## note: starting with index one (1) and NOT zero (0)
 
 
 
-opensea:    eightbitme
 web:        https://eightbit.me
 twitter:    eightbit
+opensea:    eightbitme
 
 
 token:
-  contract: 0x6080b6d2c02e9a0853495b87ce6a65e353b74744
+  contract: "0x6080b6d2c02e9a0853495b87ce6a65e353b74744"
   name:     EightBit
   symbol:   BIT
   created:  Mar-30-2022 08:43:49 AM

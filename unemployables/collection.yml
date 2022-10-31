@@ -21,5 +21,11 @@ offset:     1
 #        https://twitter.com/unemployables
 
 web:      https://unemployables.io
-opensea:  unemployables
 twitter:  unemployables
+
+opensea:  unemployables
+
+token:
+  contract: "0xe0be388ab81c47b0f098d2030a1c9ef190691a8a"
+
+

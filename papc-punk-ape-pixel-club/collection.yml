@@ -22,3 +22,6 @@ offset:     1
 web:     https://papc.io
 opensea: papc-punk-ape-pixel-club
 
+token:
+  contract:  "0x4af30b139f60c5f9ef5a494674d41e93114f5e1e"
+

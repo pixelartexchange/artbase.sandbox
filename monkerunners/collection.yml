@@ -12,3 +12,6 @@ source:     600x600
 # see   https://opensea.io/collection/monkerunners-official
 opensea:     monkerunners-official
 
+token:
+  contract: "0x23e449da6e242d7b94c6d35806f2c5cc9b950ddb"
+

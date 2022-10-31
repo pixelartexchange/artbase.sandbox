@@ -17,7 +17,7 @@ opensea:  binaryapes
 
 
 token:
-  contract:  0xdcd552496f0240374e365b7776239672bfd891a8
+  contract:  "0xdcd552496f0240374e365b7776239672bfd891a8"
   name:      Crypto BAYC
   symbol:    CBAYC
   created:   Feb-21-2022 10:30:48 AM

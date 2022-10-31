@@ -73,15 +73,15 @@ Moonrunner Art Question #2:   What's the zoom factor (5x? 10x?) used in the "for
 
 A: The zoom factor is 6x and the true pixel art dimension 50x50 (6x50 = 300).
 
-Now let's hand it over to the artbase machinery. Let's add the collection configuration in /moonrunnersnft/collection.rb reading:
+Now let's hand it over to the artbase machinery. Let's add the collection configuration in /moonrunnersnft/collection.yml reading:
 
-     COLLECTION = TokenCollection.new( 'moonrunnersnft', 10000,
-            token_base: 'https://moonrunners.herokuapp.com/api/{id}',
-            image_base: 'https://moonrunners.herokuapp.com/api/{id}/image',
-            format: '50x50',    # e.g. 6px x 50 = 300
-            source: '300x300',
-            offset: 1
-     )
+     slug: moonrunnersnft
+     count: 10000
+     token_base: https://moonrunners.herokuapp.com/api/{id}
+     image_base: https://moonrunners.herokuapp.com/api/{id}/image
+     format: 50x50    # e.g. 6px x 50 = 300
+     source: 300x300
+     offset: 1
 
 And now you can:
 

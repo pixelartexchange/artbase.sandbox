@@ -14,10 +14,12 @@ offset:     1
 ##
 # see   https://opensea.io/collection/moonquacks
 
-opensea:   moonquacks
-etherscan: 0x0eed0a2b4df338fc1bca6115e4100592632d14cd
 web:       https://moonquacks.xyz
 twitter:   moonquacksnft
+opensea:   moonquacks
+
+token:
+  contract: "0x0eed0a2b4df338fc1bca6115e4100592632d14cd"
 
 
 

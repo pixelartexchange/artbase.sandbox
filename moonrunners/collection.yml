@@ -12,3 +12,6 @@ offset:     1
 # see   https://opensea.io/collection/moonrunnersnft
 
 opensea: moonrunnersnft
+
+token:
+  contract:  "0x1485297e942ce64e0870ece60179dfda34b4c625"

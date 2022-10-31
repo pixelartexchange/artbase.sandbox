@@ -15,12 +15,12 @@ offset:     1
 #         https://etherscan.io/address/0x33fd4167e51a10d19c89c3a606389d0fddc3e676
 
 web:       galacticaliensocialclub.com
-opensea:   galacticaliensocialclub
 twitter:   GalacticAlienSC
+opensea:   galacticaliensocialclub
 
 
 token:
-  contract:  0x33fd4167e51a10d19c89c3a606389d0fddc3e676
+  contract:  "0x33fd4167e51a10d19c89c3a606389d0fddc3e676"
   name:      Galactic Alien Social Club
   symbol:    GASC
   created:   Dec-16-2021 05:31:17 AM
