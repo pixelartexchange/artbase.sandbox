@@ -1,0 +1,77 @@
+{
+  "platform": "CryptoCitizens",
+  "tokenID": "4000161",
+  "series": "N/A",
+  "aspect_ratio": 1,
+  "payout_address": "0xe79e97c3e7990672c3d45c46714ef748dd0ea7df",
+  "name": "CryptoLondoner #161",
+  "minted": true,
+  "artist": "Qian Qian",
+  "description": "CryptoLondoners are the fifth edition in the CryptoCitizens collection, an ongoing generative portrait series based on real people from communities around the world. Holders of CryptoCitizens are members of the Bright Moments DAO.",
+  "script_type": "tone@14.8.15",
+  "project_id": "4",
+  "engine_type": "fullyonchain",
+  "image": "https://crypto-citizens-mainnet.s3.amazonaws.com/4000161.png",
+  "generator_url": "https://generator.artblocks.io/0xbdde08bd57e5c9fd563ee7ac61618cb2ecdc0ce0/4000161",
+  "animation_url": "https://generator.artblocks.io/0xbdde08bd57e5c9fd563ee7ac61618cb2ecdc0ce0/4000161",
+  "royaltyInfo": {
+    "artistAddress": "0xb96e81f80b3aeef65cb6d0e280b15fd5dbe71937",
+    "additionalPayee": "0x0000000000000000000000000000000000000000",
+    "additionalPayeePercentage": "0",
+    "royaltyFeeByID": 10
+  },
+  "collection_name": "CryptoLondoner by Qian Qian",
+  "website": "https://brightmoments.io",
+  "token_hash": "0x406f18d797306985da99a34d05a415c763a415e5f05f307c8205c3c1a513fd36",
+  "external_url": "",
+  "features": {
+    "City": "London",
+    "Bodywear": "Brown Plaid Coat",
+    "Facewear": "Blue Shades",
+    "Footwear": "White Shoes",
+    "Headwear": "Bearskin",
+    "Accessory": "None",
+    "Skin Tone": "Medium",
+    "Background": "River"
+  },
+  "traits": [
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "All CryptoLondoners"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "City: London"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Bodywear: Brown Plaid Coat"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Facewear: Blue Shades"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Footwear: White Shoes"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Headwear: Bearskin"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Accessory: None"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Skin Tone: Medium"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Background: River"
+    }
+  ],
+  "is_static": false,
+  "license": "NIFTY"
+}

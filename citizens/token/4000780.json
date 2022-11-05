@@ -1,0 +1,77 @@
+{
+  "platform": "CryptoCitizens",
+  "tokenID": "4000780",
+  "series": "N/A",
+  "aspect_ratio": 1,
+  "payout_address": "0xe79e97c3e7990672c3d45c46714ef748dd0ea7df",
+  "name": "CryptoLondoner #780",
+  "minted": true,
+  "artist": "Qian Qian",
+  "description": "CryptoLondoners are the fifth edition in the CryptoCitizens collection, an ongoing generative portrait series based on real people from communities around the world. Holders of CryptoCitizens are members of the Bright Moments DAO.",
+  "script_type": "tone@14.8.15",
+  "project_id": "4",
+  "engine_type": "fullyonchain",
+  "image": "https://crypto-citizens-mainnet.s3.amazonaws.com/4000780.png",
+  "generator_url": "https://generator.artblocks.io/0xbdde08bd57e5c9fd563ee7ac61618cb2ecdc0ce0/4000780",
+  "animation_url": "https://generator.artblocks.io/0xbdde08bd57e5c9fd563ee7ac61618cb2ecdc0ce0/4000780",
+  "royaltyInfo": {
+    "artistAddress": "0xb96e81f80b3aeef65cb6d0e280b15fd5dbe71937",
+    "additionalPayee": "0x0000000000000000000000000000000000000000",
+    "additionalPayeePercentage": "0",
+    "royaltyFeeByID": 10
+  },
+  "collection_name": "CryptoLondoner by Qian Qian",
+  "website": "https://brightmoments.io",
+  "token_hash": "0xb0496b38e0e2b5f9aacd5f7579373b2acecab2cd750175454cfdc77411e90389",
+  "external_url": "",
+  "features": {
+    "City": "London",
+    "Bodywear": "White Button Down",
+    "Facewear": "Red Goggles",
+    "Footwear": "White Shoes",
+    "Headwear": "England Helmet",
+    "Accessory": "White Terrier",
+    "Skin Tone": "Dark",
+    "Background": "Bus"
+  },
+  "traits": [
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "All CryptoLondoners"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "City: London"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Bodywear: White Button Down"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Facewear: Red Goggles"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Footwear: White Shoes"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Headwear: England Helmet"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Accessory: White Terrier"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Skin Tone: Dark"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Background: Bus"
+    }
+  ],
+  "is_static": false,
+  "license": "NIFTY"
+}

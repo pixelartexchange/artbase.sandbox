@@ -1,0 +1,77 @@
+{
+  "platform": "CryptoCitizens",
+  "tokenID": "4000651",
+  "series": "N/A",
+  "aspect_ratio": 1,
+  "payout_address": "0xe79e97c3e7990672c3d45c46714ef748dd0ea7df",
+  "name": "CryptoLondoner #651",
+  "minted": true,
+  "artist": "Qian Qian",
+  "description": "CryptoLondoners are the fifth edition in the CryptoCitizens collection, an ongoing generative portrait series based on real people from communities around the world. Holders of CryptoCitizens are members of the Bright Moments DAO.",
+  "script_type": "tone@14.8.15",
+  "project_id": "4",
+  "engine_type": "fullyonchain",
+  "image": "https://crypto-citizens-mainnet.s3.amazonaws.com/4000651.png",
+  "generator_url": "https://generator.artblocks.io/0xbdde08bd57e5c9fd563ee7ac61618cb2ecdc0ce0/4000651",
+  "animation_url": "https://generator.artblocks.io/0xbdde08bd57e5c9fd563ee7ac61618cb2ecdc0ce0/4000651",
+  "royaltyInfo": {
+    "artistAddress": "0xb96e81f80b3aeef65cb6d0e280b15fd5dbe71937",
+    "additionalPayee": "0x0000000000000000000000000000000000000000",
+    "additionalPayeePercentage": "0",
+    "royaltyFeeByID": 10
+  },
+  "collection_name": "CryptoLondoner by Qian Qian",
+  "website": "https://brightmoments.io",
+  "token_hash": "0x10b29e9a680ab8166c3255d0563ccdbc283a337324be5054627f67ab518df953",
+  "external_url": "",
+  "features": {
+    "City": "London",
+    "Bodywear": "Red Coat",
+    "Facewear": "Red Goggles",
+    "Footwear": "White Shoes",
+    "Headwear": "Pink Hair",
+    "Accessory": "None",
+    "Skin Tone": "Light",
+    "Background": "Underground"
+  },
+  "traits": [
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "All CryptoLondoners"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "City: London"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Bodywear: Red Coat"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Facewear: Red Goggles"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Footwear: White Shoes"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Headwear: Pink Hair"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Accessory: None"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Skin Tone: Light"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Background: Underground"
+    }
+  ],
+  "is_static": false,
+  "license": "NIFTY"
+}

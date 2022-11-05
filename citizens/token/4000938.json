@@ -1,0 +1,77 @@
+{
+  "platform": "CryptoCitizens",
+  "tokenID": "4000938",
+  "series": "N/A",
+  "aspect_ratio": 1,
+  "payout_address": "0xe79e97c3e7990672c3d45c46714ef748dd0ea7df",
+  "name": "CryptoLondoner #938",
+  "minted": true,
+  "artist": "Qian Qian",
+  "description": "CryptoLondoners are the fifth edition in the CryptoCitizens collection, an ongoing generative portrait series based on real people from communities around the world. Holders of CryptoCitizens are members of the Bright Moments DAO.",
+  "script_type": "tone@14.8.15",
+  "project_id": "4",
+  "engine_type": "fullyonchain",
+  "image": "https://crypto-citizens-mainnet.s3.amazonaws.com/4000938.png",
+  "generator_url": "https://generator.artblocks.io/0xbdde08bd57e5c9fd563ee7ac61618cb2ecdc0ce0/4000938",
+  "animation_url": "https://generator.artblocks.io/0xbdde08bd57e5c9fd563ee7ac61618cb2ecdc0ce0/4000938",
+  "royaltyInfo": {
+    "artistAddress": "0xb96e81f80b3aeef65cb6d0e280b15fd5dbe71937",
+    "additionalPayee": "0x0000000000000000000000000000000000000000",
+    "additionalPayeePercentage": "0",
+    "royaltyFeeByID": 10
+  },
+  "collection_name": "CryptoLondoner by Qian Qian",
+  "website": "https://brightmoments.io",
+  "token_hash": "0x43e1f364acf96287727af0a75b463a2f326dc9f85686d477157e32ad3909574a",
+  "external_url": "",
+  "features": {
+    "City": "London",
+    "Bodywear": "Grunge Tee",
+    "Facewear": "Green Goggles",
+    "Footwear": "White Shoes",
+    "Headwear": "Black Deerstalker Hat",
+    "Accessory": "Corgi",
+    "Skin Tone": "Dark",
+    "Background": "Taxi"
+  },
+  "traits": [
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "All CryptoLondoners"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "City: London"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Bodywear: Grunge Tee"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Facewear: Green Goggles"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Footwear: White Shoes"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Headwear: Black Deerstalker Hat"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Accessory: Corgi"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Skin Tone: Dark"
+    },
+    {
+      "trait_type": "CryptoLondoner",
+      "value": "Background: Taxi"
+    }
+  ],
+  "is_static": false,
+  "license": "NIFTY"
+}

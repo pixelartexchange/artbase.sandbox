@@ -1,0 +1,62 @@
+{
+  "platform": "CryptoCitizens",
+  "tokenID": "924",
+  "series": "N/A",
+  "aspect_ratio": 1,
+  "payout_address": "0xe79e97c3e7990672c3d45c46714ef748dd0ea7df",
+  "name": "CryptoGalactican #924",
+  "minted": true,
+  "artist": "Qian Qian",
+  "description": "CryptoGalacticans are a 1,000 edition generative art collection representing the original members of the Bright Moments DAO. Galacticans transported to Earth in order to guide the DAO through it's global expansion and ensure that all future members upheld the CryptoCitizen virtues: courage, empathy, curiosity, creativity. Galacticans provide voting and governance rights in the Bright Moments DAO as well as access to future drops. ",
+  "script_type": "js@na",
+  "project_id": "0",
+  "engine_type": "fullyonchain",
+  "image": "https://crypto-citizens-mainnet.s3.amazonaws.com/924.png",
+  "generator_url": "https://generator.artblocks.io/0xbdde08bd57e5c9fd563ee7ac61618cb2ecdc0ce0/924",
+  "animation_url": "https://generator.artblocks.io/0xbdde08bd57e5c9fd563ee7ac61618cb2ecdc0ce0/924",
+  "royaltyInfo": {
+    "artistAddress": "0x18b7511938fbe2ee08adf3d4a24edb00a5c9b783",
+    "additionalPayee": "0xcff43a597911a9457071d89d2b2ac3d5b1862b86",
+    "additionalPayeePercentage": 100,
+    "royaltyFeeByID": 10
+  },
+  "collection_name": "CryptoGalactican by Qian Qian",
+  "website": "https://www.brightmoments.io/",
+  "token_hash": "0xa541a422ff70f5d721a5a29e2176fa98700e1a848de4815119649f3827596bfb",
+  "external_url": "",
+  "features": {
+    "Body": "Red Lobster",
+    "City": "Galaxy",
+    "Headwear": "Double Orange Head",
+    "Accessory": "Pink Saber",
+    "Background": "Gold"
+  },
+  "traits": [
+    {
+      "trait_type": "CryptoGalactican",
+      "value": "All CryptoGalacticans"
+    },
+    {
+      "trait_type": "CryptoGalactican",
+      "value": "Body: Red Lobster"
+    },
+    {
+      "trait_type": "CryptoGalactican",
+      "value": "City: Galaxy"
+    },
+    {
+      "trait_type": "CryptoGalactican",
+      "value": "Headwear: Double Orange Head"
+    },
+    {
+      "trait_type": "CryptoGalactican",
+      "value": "Accessory: Pink Saber"
+    },
+    {
+      "trait_type": "CryptoGalactican",
+      "value": "Background: Gold"
+    }
+  ],
+  "is_static": false,
+  "license": "NIFTY"
+}
