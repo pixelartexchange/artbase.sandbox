@@ -1,0 +1,73 @@
+{
+  "platform": "Art Blocks Presents",
+  "tokenID": "189000084",
+  "series": "N/A",
+  "aspect_ratio": 1,
+  "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+  "name": "CryptoNewYorker #84",
+  "minted": true,
+  "artist": "Qian Qian",
+  "description": "CryptoNewYorkers are a limited release algorithmically generated pixel art collection based on real characters from New York City. Available only to visitors of the Bright Moments physical NFT gallery, CryptoNewYorkers grant holders exclusive access to IRL events and experiences across the world. Holders of CryptoNewYorkers are granted CryptoCitizenship.",
+  "script_type": "js@na",
+  "project_id": "189",
+  "curation_status": "presents",
+  "heritage_curation_status": "factory",
+  "image": "https://media.artblocks.io/189000084.png",
+  "generator_url": "https://generator.artblocks.io/189000084",
+  "animation_url": "https://generator.artblocks.io/189000084",
+  "royaltyInfo": {
+    "artistAddress": "0x18b7511938fbe2ee08adf3d4a24edb00a5c9b783",
+    "additionalPayee": "0x0000000000000000000000000000000000000000",
+    "additionalPayeePercentage": "0",
+    "royaltyFeeByID": 5
+  },
+  "collection_name": "CryptoNewYorker by Qian Qian",
+  "website": "https://www.brightmoments.io/",
+  "token_hash": "0xaf762565b8caf002fb7c55d15b7589d7f5ea5e9422c9d5369b678ea31d015027",
+  "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/189/tokens/189000084",
+  "features": {
+    "City": "New York",
+    "Bodywear": "Long Black Puffy Jacket",
+    "Facewear": "Red Lips",
+    "Footwear": "Blue Sneakers",
+    "Headwear": "Fuchsia Mohawk",
+    "Skin Tone": "Medium",
+    "Background": "Spring"
+  },
+  "traits": [
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "All CryptoNewYorkers"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "City: New York"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Bodywear: Long Black Puffy Jacket"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Facewear: Red Lips"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Footwear: Blue Sneakers"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Headwear: Fuchsia Mohawk"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Skin Tone: Medium"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Background: Spring"
+    }
+  ],
+  "is_static": false,
+  "license": "NIFTY"
+}

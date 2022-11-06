@@ -1,0 +1,77 @@
+{
+  "platform": "CryptoCitizens",
+  "tokenID": "3000672",
+  "series": "N/A",
+  "aspect_ratio": 1,
+  "payout_address": "0xe79e97c3e7990672c3d45c46714ef748dd0ea7df",
+  "name": "CryptoBerliner #672",
+  "minted": true,
+  "artist": "Qian Qian",
+  "description": "CryptoBerliners are the fourth edition in the CryptoCitizens series, a limited-release generative art collection based on real people from communities around the world. Holders of CryptoCitizens are members of the Bright Moments DAO.",
+  "script_type": "tone@14.8.15",
+  "project_id": "3",
+  "engine_type": "fullyonchain",
+  "image": "https://crypto-citizens-mainnet.s3.amazonaws.com/3000672.png",
+  "generator_url": "https://generator.artblocks.io/0xbdde08bd57e5c9fd563ee7ac61618cb2ecdc0ce0/3000672",
+  "animation_url": "https://generator.artblocks.io/0xbdde08bd57e5c9fd563ee7ac61618cb2ecdc0ce0/3000672",
+  "royaltyInfo": {
+    "artistAddress": "0x18b7511938fbe2ee08adf3d4a24edb00a5c9b783",
+    "additionalPayee": "0xc84b6b193057f407178f8d3dc0cc19908baeb99f",
+    "additionalPayeePercentage": 50,
+    "royaltyFeeByID": 10
+  },
+  "collection_name": "CryptoBerliner by Qian Qian",
+  "website": "https://brightmoments.io",
+  "token_hash": "0xf10c51d8da7dd73ec421309d589b30977b08a81eac1a8740a314528219f6d25f",
+  "external_url": "",
+  "features": {
+    "City": "Berlin",
+    "Bodywear": "Black Checkered Coat",
+    "Facewear": "Black Shades",
+    "Footwear": "German Sandals White",
+    "Headwear": "Blue Mohawk with Headphones",
+    "Accessory": "Great Dane",
+    "Skin Tone": "Medium",
+    "Background": "Morning in Mitte"
+  },
+  "traits": [
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "All CryptoBerliners"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "City: Berlin"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Bodywear: Black Checkered Coat"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Facewear: Black Shades"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Footwear: German Sandals White"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Headwear: Blue Mohawk with Headphones"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Accessory: Great Dane"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Skin Tone: Medium"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Background: Morning in Mitte"
+    }
+  ],
+  "is_static": false,
+  "license": "NIFTY"
+}

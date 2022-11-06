@@ -1,0 +1,78 @@
+{
+  "platform": "Art Blocks Presents",
+  "tokenID": "189000690",
+  "series": "N/A",
+  "aspect_ratio": 1,
+  "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+  "name": "CryptoNewYorker #690",
+  "minted": true,
+  "artist": "Qian Qian",
+  "description": "CryptoNewYorkers are a limited release algorithmically generated pixel art collection based on real characters from New York City. Available only to visitors of the Bright Moments physical NFT gallery, CryptoNewYorkers grant holders exclusive access to IRL events and experiences across the world. Holders of CryptoNewYorkers are granted CryptoCitizenship.",
+  "script_type": "js@na",
+  "project_id": "189",
+  "curation_status": "presents",
+  "heritage_curation_status": "factory",
+  "image": "https://media.artblocks.io/189000690.png",
+  "generator_url": "https://generator.artblocks.io/189000690",
+  "animation_url": "https://generator.artblocks.io/189000690",
+  "royaltyInfo": {
+    "artistAddress": "0x18b7511938fbe2ee08adf3d4a24edb00a5c9b783",
+    "additionalPayee": "0x0000000000000000000000000000000000000000",
+    "additionalPayeePercentage": "0",
+    "royaltyFeeByID": 5
+  },
+  "collection_name": "CryptoNewYorker by Qian Qian",
+  "website": "https://www.brightmoments.io/",
+  "token_hash": "0x4c9fe9a595dd844a873f0f5609c0539e13f9ee3bada6e22ff04150f0e0a269e8",
+  "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/189/tokens/189000690",
+  "features": {
+    "City": "New York",
+    "Bodywear": "Black Jacket Jeans",
+    "Facewear": "Red Shades",
+    "Footwear": "Red Boots",
+    "Headwear": "Green Afro",
+    "Accessory": "Terrier",
+    "Skin Tone": "Medium",
+    "Background": "Fall"
+  },
+  "traits": [
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "All CryptoNewYorkers"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "City: New York"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Bodywear: Black Jacket Jeans"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Facewear: Red Shades"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Footwear: Red Boots"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Headwear: Green Afro"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Accessory: Terrier"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Skin Tone: Medium"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Background: Fall"
+    }
+  ],
+  "is_static": false,
+  "license": "NIFTY"
+}

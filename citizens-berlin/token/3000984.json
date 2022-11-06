@@ -1,0 +1,77 @@
+{
+  "platform": "CryptoCitizens",
+  "tokenID": "3000984",
+  "series": "N/A",
+  "aspect_ratio": 1,
+  "payout_address": "0xe79e97c3e7990672c3d45c46714ef748dd0ea7df",
+  "name": "CryptoBerliner #984",
+  "minted": true,
+  "artist": "Qian Qian",
+  "description": "CryptoBerliners are the fourth edition in the CryptoCitizens series, a limited-release generative art collection based on real people from communities around the world. Holders of CryptoCitizens are members of the Bright Moments DAO.",
+  "script_type": "tone@14.8.15",
+  "project_id": "3",
+  "engine_type": "fullyonchain",
+  "image": "https://crypto-citizens-mainnet.s3.amazonaws.com/3000984.png",
+  "generator_url": "https://generator.artblocks.io/0xbdde08bd57e5c9fd563ee7ac61618cb2ecdc0ce0/3000984",
+  "animation_url": "https://generator.artblocks.io/0xbdde08bd57e5c9fd563ee7ac61618cb2ecdc0ce0/3000984",
+  "royaltyInfo": {
+    "artistAddress": "0x18b7511938fbe2ee08adf3d4a24edb00a5c9b783",
+    "additionalPayee": "0xc84b6b193057f407178f8d3dc0cc19908baeb99f",
+    "additionalPayeePercentage": 50,
+    "royaltyFeeByID": 10
+  },
+  "collection_name": "CryptoBerliner by Qian Qian",
+  "website": "https://brightmoments.io",
+  "token_hash": "0x9b8db6dc3913ab2b36f53657909d92cc2b5e07d3f001974eee213c16747be51a",
+  "external_url": "",
+  "features": {
+    "City": "Berlin",
+    "Bodywear": "Blue Tracksuit",
+    "Facewear": "Black Frames",
+    "Footwear": "Black Sneakers",
+    "Headwear": "Green Beret",
+    "Accessory": "Electric Scooter",
+    "Skin Tone": "Medium",
+    "Background": "Night at Berghain"
+  },
+  "traits": [
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "All CryptoBerliners"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "City: Berlin"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Bodywear: Blue Tracksuit"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Facewear: Black Frames"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Footwear: Black Sneakers"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Headwear: Green Beret"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Accessory: Electric Scooter"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Skin Tone: Medium"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Background: Night at Berghain"
+    }
+  ],
+  "is_static": false,
+  "license": "NIFTY"
+}

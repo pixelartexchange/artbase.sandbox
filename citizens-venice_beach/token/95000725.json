@@ -1,0 +1,78 @@
+{
+  "platform": "Art Blocks Presents",
+  "tokenID": "95000725",
+  "series": "N/A",
+  "aspect_ratio": 1,
+  "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+  "name": "CryptoVenetian #725",
+  "minted": true,
+  "artist": "Bright Moments",
+  "description": "CryptoVenetians are a limited release algorithmically generated pixel art collection based on real characters from Venice, CA. Available only to visitors of the Bright Moments physical NFT gallery, CryptoVenetians grant holders exclusive access to IRL events and experiences in Los Angeles. With over 200,000 possible combinations, CryptoVenetians represent the diversity of Venice Beach.",
+  "script_type": "js@na",
+  "project_id": "95",
+  "curation_status": "presents",
+  "heritage_curation_status": "factory",
+  "image": "https://media.artblocks.io/95000725.png",
+  "generator_url": "https://generator.artblocks.io/95000725",
+  "animation_url": "https://generator.artblocks.io/95000725",
+  "royaltyInfo": {
+    "artistAddress": "0x18b7511938fbe2ee08adf3d4a24edb00a5c9b783",
+    "additionalPayee": "0xb96e81f80b3aeef65cb6d0e280b15fd5dbe71937",
+    "additionalPayeePercentage": 100,
+    "royaltyFeeByID": 10
+  },
+  "collection_name": "CryptoVenetian by Bright Moments",
+  "website": "https://cryptovenetians.com",
+  "token_hash": "0x10f5aeebb116dfbb83397298486e6eac3689b49d9ae23f2b9bc0d047ebb7a879",
+  "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/95/tokens/95000725",
+  "features": {
+    "City": "Venice",
+    "Bodywear": "Blue Bikini",
+    "Facewear": "Peepers",
+    "Footwear": "Gray Shoes",
+    "Headwear": "Beard",
+    "Accessory": "Electric Scooter",
+    "Skin Tone": "Medium",
+    "Background": "Sunset"
+  },
+  "traits": [
+    {
+      "trait_type": "CryptoVenetian",
+      "value": "All CryptoVenetians"
+    },
+    {
+      "trait_type": "CryptoVenetian",
+      "value": "City: Venice"
+    },
+    {
+      "trait_type": "CryptoVenetian",
+      "value": "Bodywear: Blue Bikini"
+    },
+    {
+      "trait_type": "CryptoVenetian",
+      "value": "Facewear: Peepers"
+    },
+    {
+      "trait_type": "CryptoVenetian",
+      "value": "Footwear: Gray Shoes"
+    },
+    {
+      "trait_type": "CryptoVenetian",
+      "value": "Headwear: Beard"
+    },
+    {
+      "trait_type": "CryptoVenetian",
+      "value": "Accessory: Electric Scooter"
+    },
+    {
+      "trait_type": "CryptoVenetian",
+      "value": "Skin Tone: Medium"
+    },
+    {
+      "trait_type": "CryptoVenetian",
+      "value": "Background: Sunset"
+    }
+  ],
+  "is_static": false,
+  "license": "NIFTY"
+}

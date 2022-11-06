@@ -1,0 +1,41 @@
+
+######
+## image GET /946.and on  =>  403 Forbidden  !!!!
+##   - assumes token not yet minted? and thus image locked??
+
+
+##
+# CryptoGalacticans are a 1,000 edition generative art collection...
+#
+#   check if there's a different contract (token_base)
+#     for the follow-ups in the collection?
+
+
+## 1.  galaxy
+## ...
+## 4.  berlin      - berliner start at  3_000_000  !!!!
+## 5.  london      - londoners start at   4_000_000  !!!!
+
+##       note 2.+3. use  different (artbase) contract & token_base
+##         0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270
+## 2.  venice beach  - venetian  start at     95_000_000 !!!
+## 3.  new york     - new yorker start at  189_000_000 !!!!
+
+# Mexico City will be the sixth city on our ten city tour
+#  around the world.
+
+
+slug:       citizens-galaxy
+count:      1000  ## 946  ## 4930   ## up-to 10000 (in 2023)
+token_base: https://token.artblocks.io/0xbDdE08BD57e5C9fD563eE7aC61618CB2ECdc0ce0/{id}
+format:     45x45     ## double check if resolutin is 45x45??
+source:     2400x2400
+
+
+######
+# https://opensea.io/collection/cryptocitizensofficial
+opensea:    cryptocitizensofficial
+
+
+token:
+  contract: "0xbdde08bd57e5c9fd563ee7ac61618cb2ecdc0ce0"

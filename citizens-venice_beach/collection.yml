@@ -1,0 +1,17 @@
+
+## 1.  galaxy
+## 2.  venice beach  - venetian  start at     95_000_000 !!!
+## 3.  new york     - new yorker start at  189_000_000 !!!!
+## 4.  berlin      - berliner start at  3_000_000  !!!!
+## 5.  london      - londoners start at   4_000_000  !!!!
+
+# Mexico City will be the sixth city on our ten city tour
+#  around the world.
+
+
+slug:       citizens-venice_beach
+count:      1000
+token_base: https://token.artblocks.io/{id}
+format:     45x45     ## double check if resolutin is 45x45??
+source:     2400x2400
+offset:     95000000     ## try "big" offset

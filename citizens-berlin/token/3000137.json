@@ -1,0 +1,72 @@
+{
+  "platform": "CryptoCitizens",
+  "tokenID": "3000137",
+  "series": "N/A",
+  "aspect_ratio": 1,
+  "payout_address": "0xe79e97c3e7990672c3d45c46714ef748dd0ea7df",
+  "name": "CryptoBerliner #137",
+  "minted": true,
+  "artist": "Qian Qian",
+  "description": "CryptoBerliners are the fourth edition in the CryptoCitizens series, a limited-release generative art collection based on real people from communities around the world. Holders of CryptoCitizens are members of the Bright Moments DAO.",
+  "script_type": "tone@14.8.15",
+  "project_id": "3",
+  "engine_type": "fullyonchain",
+  "image": "https://crypto-citizens-mainnet.s3.amazonaws.com/3000137.png",
+  "generator_url": "https://generator.artblocks.io/0xbdde08bd57e5c9fd563ee7ac61618cb2ecdc0ce0/3000137",
+  "animation_url": "https://generator.artblocks.io/0xbdde08bd57e5c9fd563ee7ac61618cb2ecdc0ce0/3000137",
+  "royaltyInfo": {
+    "artistAddress": "0x18b7511938fbe2ee08adf3d4a24edb00a5c9b783",
+    "additionalPayee": "0xc84b6b193057f407178f8d3dc0cc19908baeb99f",
+    "additionalPayeePercentage": 50,
+    "royaltyFeeByID": 10
+  },
+  "collection_name": "CryptoBerliner by Qian Qian",
+  "website": "https://brightmoments.io",
+  "token_hash": "0x173c8a40e2682a4f69662cca60ae623209a598d6de58d181379ec6b4ae75d5f7",
+  "external_url": "",
+  "features": {
+    "Gear": "German Spitz",
+    "Tone": "Light",
+    "Bodywear": "Tank Shirt Black Pants",
+    "Facewear": "Red Shades",
+    "Footwear": "Red Sneakers",
+    "Headwear": "Straight Red Red",
+    "Background": "Night at Berghain"
+  },
+  "traits": [
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "All CryptoBerliners"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Gear: German Spitz"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Tone: Light"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Bodywear: Tank Shirt Black Pants"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Facewear: Red Shades"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Footwear: Red Sneakers"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Headwear: Straight Red Red"
+    },
+    {
+      "trait_type": "CryptoBerliner",
+      "value": "Background: Night at Berghain"
+    }
+  ],
+  "is_static": false,
+  "license": "NIFTY"
+}

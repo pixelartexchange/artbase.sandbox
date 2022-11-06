@@ -1,0 +1,78 @@
+{
+  "platform": "Art Blocks Presents",
+  "tokenID": "189000752",
+  "series": "N/A",
+  "aspect_ratio": 1,
+  "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+  "name": "CryptoNewYorker #752",
+  "minted": true,
+  "artist": "Qian Qian",
+  "description": "CryptoNewYorkers are a limited release algorithmically generated pixel art collection based on real characters from New York City. Available only to visitors of the Bright Moments physical NFT gallery, CryptoNewYorkers grant holders exclusive access to IRL events and experiences across the world. Holders of CryptoNewYorkers are granted CryptoCitizenship.",
+  "script_type": "js@na",
+  "project_id": "189",
+  "curation_status": "presents",
+  "heritage_curation_status": "factory",
+  "image": "https://media.artblocks.io/189000752.png",
+  "generator_url": "https://generator.artblocks.io/189000752",
+  "animation_url": "https://generator.artblocks.io/189000752",
+  "royaltyInfo": {
+    "artistAddress": "0x18b7511938fbe2ee08adf3d4a24edb00a5c9b783",
+    "additionalPayee": "0x0000000000000000000000000000000000000000",
+    "additionalPayeePercentage": "0",
+    "royaltyFeeByID": 5
+  },
+  "collection_name": "CryptoNewYorker by Qian Qian",
+  "website": "https://www.brightmoments.io/",
+  "token_hash": "0x3503c562be6d5e7538e294c441794f889df28b9a38555fe3cc1481b6bae927ed",
+  "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/189/tokens/189000752",
+  "features": {
+    "City": "New York",
+    "Bodywear": "Brooklyn Hoodie",
+    "Facewear": "Green Goggles",
+    "Footwear": "Blue Sneakers",
+    "Headwear": "White Baseball Cap",
+    "Accessory": "Dachshund",
+    "Skin Tone": "Dark",
+    "Background": "Winter"
+  },
+  "traits": [
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "All CryptoNewYorkers"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "City: New York"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Bodywear: Brooklyn Hoodie"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Facewear: Green Goggles"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Footwear: Blue Sneakers"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Headwear: White Baseball Cap"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Accessory: Dachshund"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Skin Tone: Dark"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Background: Winter"
+    }
+  ],
+  "is_static": false,
+  "license": "NIFTY"
+}

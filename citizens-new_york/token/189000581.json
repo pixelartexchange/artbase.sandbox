@@ -1,0 +1,78 @@
+{
+  "platform": "Art Blocks Presents",
+  "tokenID": "189000581",
+  "series": "N/A",
+  "aspect_ratio": 1,
+  "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+  "name": "CryptoNewYorker #581",
+  "minted": true,
+  "artist": "Qian Qian",
+  "description": "CryptoNewYorkers are a limited release algorithmically generated pixel art collection based on real characters from New York City. Available only to visitors of the Bright Moments physical NFT gallery, CryptoNewYorkers grant holders exclusive access to IRL events and experiences across the world. Holders of CryptoNewYorkers are granted CryptoCitizenship.",
+  "script_type": "js@na",
+  "project_id": "189",
+  "curation_status": "presents",
+  "heritage_curation_status": "factory",
+  "image": "https://media.artblocks.io/189000581.png",
+  "generator_url": "https://generator.artblocks.io/189000581",
+  "animation_url": "https://generator.artblocks.io/189000581",
+  "royaltyInfo": {
+    "artistAddress": "0x18b7511938fbe2ee08adf3d4a24edb00a5c9b783",
+    "additionalPayee": "0x0000000000000000000000000000000000000000",
+    "additionalPayeePercentage": "0",
+    "royaltyFeeByID": 5
+  },
+  "collection_name": "CryptoNewYorker by Qian Qian",
+  "website": "https://www.brightmoments.io/",
+  "token_hash": "0x0e2d7be2dd5b84757787dcf0759b6609819b42dde05afc32eaac89fa52ee5b09",
+  "external_url": "https://artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/189/tokens/189000581",
+  "features": {
+    "City": "New York",
+    "Bodywear": "Streaker",
+    "Facewear": "Red Shades",
+    "Footwear": "White Sneakers",
+    "Headwear": "White Baseball Cap",
+    "Accessory": "Blue Skateboard",
+    "Skin Tone": "Dark",
+    "Background": "Fall"
+  },
+  "traits": [
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "All CryptoNewYorkers"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "City: New York"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Bodywear: Streaker"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Facewear: Red Shades"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Footwear: White Sneakers"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Headwear: White Baseball Cap"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Accessory: Blue Skateboard"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Skin Tone: Dark"
+    },
+    {
+      "trait_type": "CryptoNewYorker",
+      "value": "Background: Fall"
+    }
+  ],
+  "is_static": false,
+  "license": "NIFTY"
+}
